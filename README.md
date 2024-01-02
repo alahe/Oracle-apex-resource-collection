@@ -18,6 +18,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
 - [Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - [Christoph's 2 Cents](https://ruepprich.com/)
+- [Vincent Morneau Blog](https://vmorneau.me/)
 
 
 ## GitHub & APEX
@@ -27,3 +28,4 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Louis Moreaux Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home)
 - [Community Plug-Ins](https://www.united-codes.com/ords/r/pluginspro_web/pluginspro_free/getting-started)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
+- [Ted Struik](https://tedstruik-oracle.nl/ords/f?p=25384:1::::::)

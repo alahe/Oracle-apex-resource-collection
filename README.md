@@ -52,7 +52,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Cards](https://apex.oracle.com/go/sample_cards)
 - [Maps](https://apex.oracle.com/go/sample_maps)
 - [Progressive Web Apps in APEX](https://apex.oracle.com/go/pwa)
-
+- [Apex Release Notes](https://apex.mt-itsolutions.com/ords/tools/r/release/notes)
 - [ORAdiff](https://oradiff.oracle.com/ords/r/oradiff/oradiff/home)
 
 ## LiveLabs

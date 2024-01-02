@@ -15,15 +15,13 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 ## General
 - [APEX Document](https://docs.oracle.com/en/database/oracle/apex/)
 - [Javascript API doc](https://apex.oracle.com/jsapi)
-- []()
+- [PL/SQL API](https://apex.oracle.com/api)
 - [APEX Forum](https://forums.oracle.com/ords/apexds/domain/dev-community/category/apex)
 - [Office Hours](https://asktom.oracle.com/ords/r/tech/catalog/home)
 - [Shortcuts](https://apex.oracle.com/pls/apex/f?p=411:18)
 - [LiveLabs](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [LiveSQL](https://apex.oracle.com/quicksql)
   
-
-
 
 ## Blogs
 - [Apex Blog](https://blogs.oracle.com/apex/)
@@ -50,10 +48,26 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Community Plug-Ins](https://www.united-codes.com/ords/r/pluginspro_web/pluginspro_free/getting-started)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
 - [Ted Struik](https://tedstruik-oracle.nl/ords/f?p=25384:1::::::)
+- [Charts](https://apex.oracle.com/go/sample_charts)
+- [Cards](https://apex.oracle.com/go/sample_cards)
+- [Maps](https://apex.oracle.com/go/sample_maps)
+- [Progressive Web Apps in APEX](https://apex.oracle.com/go/pwa)
+
+- [ORAdiff](https://oradiff.oracle.com/ords/r/oradiff/oradiff/home)
 
 ## LiveLabs
-[Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
+- [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
+- [Modern CI/CD Pipelines for App Dev with Converged Oracle Database](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3314&p210_wec=)
+- 
 
+## Youtube
+- [Oracle Apex channel](https://www.youtube.com/@OracleAPEX)
+- [Oracle Developer channel](https://www.youtube.com/@oracledevs)
+- [Oracle Database Product](https://www.youtube.com/@oracledatabaseproductmanag5050)
+- [Oracle Channel](https://www.youtube.com/@Oracle)
+- []()
+- []()
+- []()
 
 ## Apex Learning
 - [Become An Oracle APEX Developer Professional - 2023](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional-2023/121230)

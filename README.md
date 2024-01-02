@@ -39,15 +39,16 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Shay Shmeltzer's Weblog](https://blogs.oracle.com/shay/)
 - [The Coding & Thoughts blog](https://micodify.de/)
 
-
 ## GitHub & APEX
 - Youtube: [How to display content from Github in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
+- [Use Package DBMS_CLOUD_REPO with GitHub](https://fuzziebrain.com/tech-tnt/oracle-cloud/devops/use-package-dbms_cloud_repo-with-github)
 
 ## Development support APEX apps
 - [Louis Moreaux Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home)
 - [Community Plug-Ins](https://www.united-codes.com/ords/r/pluginspro_web/pluginspro_free/getting-started)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
 - [Ted Struik](https://tedstruik-oracle.nl/ords/f?p=25384:1::::::)
+- --------
 - [Charts](https://apex.oracle.com/go/sample_charts)
 - [Cards](https://apex.oracle.com/go/sample_cards)
 - [Maps](https://apex.oracle.com/go/sample_maps)

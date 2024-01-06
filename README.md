@@ -21,6 +21,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Shortcuts](https://apex.oracle.com/pls/apex/f?p=411:18)
 - [LiveLabs](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [LiveSQL](https://apex.oracle.com/quicksql)
+- [Daniel Hochleitner - Awesome Oracle APEX ](https://github.com/Dani3lSun/awesome-orclapex)
   
 
 ## Blogs
@@ -40,8 +41,10 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Pretius blog](https://pretius.com/blog/)
 - [Ardian Png blog](https://fuzziebrain.com/content/a-yearful-of-ai-but-whats-next)
 - [Shay Shmeltzer's Weblog](https://blogs.oracle.com/shay/)
+- [Jorge Rimblas - Mostly APEX Information](https://rimblas.com/blog/)
 - [The Coding & Thoughts blog](https://micodify.de/)
 - [Richmond](https://blog.cloudifyhub.com/)
+- [John Snyders - HardLikeSoftware](https://hardlikesoftware.com/weblog/category/apex/)
 - [Jeff Kemp on Oracle](https://jeffkemponoracle.com/)
 - [Plamen Mushkov - APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home)
 - - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
@@ -65,6 +68,8 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - - [Rittmanmead - Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - - [Petar Simic ](https://www.rittmanmead.com/blog/author/petar/)
 - - [Lucas Hirschegger Blog](https://www.rittmanmead.com/blog/author/lucas/)
+- [Marko Gorički - Apex by G ](https://apexbyg.blogspot.com/)
+- [Dimitri Gielis Blog](https://dgielis.blogspot.com/)
 
 ## DevOps - GitHub & APEX
 - Youtube: [How to display content from Github in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
@@ -83,6 +88,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Plamen Mushkov - APEX AppLab - Demo](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts)
 - [Dynamic-action.com ](https://www.juergen-schuster-it.de/ords/f?p=161:1:9068317033900:::::)
 - [APEX Debugging Playground](https://apex.oracle.com/pls/apex/f?p=25355:9:103981530529661:::::)
+- [Scott Wesley - Dynamic Actions, Javascript, & CSS for APEX Beginners ](https://apex.oracle.com/pls/apex/f?p=27882:1:100092276829851:::::)
 - --------
 - [Charts](https://apex.oracle.com/go/sample_charts)
 - [Cards](https://apex.oracle.com/go/sample_cards)
@@ -139,3 +145,4 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Misc
 - [Oracle APEX for your Enterprise Team](https://www.insum.ca/oracle-apex-enterprise-platform/)
+- [VS code - ](https://github.com/swesley/logger-snippets)

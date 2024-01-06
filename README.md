@@ -80,6 +80,8 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Ted Struik](https://tedstruik-oracle.nl/ords/f?p=25384:1::::::)
 - [Canada APEX Samples](https://apex.oracle.com/pls/apex/f?p=111708:1:107547918643401:::::)
 - [Plamen Mushkov - APEX AppLab - Demo](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts)
+- [Dynamic-action.com ](https://www.juergen-schuster-it.de/ords/f?p=161:1:9068317033900:::::)
+- [APEX Debugging Playground](https://apex.oracle.com/pls/apex/f?p=25355:9:103981530529661:::::)
 - --------
 - [Charts](https://apex.oracle.com/go/sample_charts)
 - [Cards](https://apex.oracle.com/go/sample_cards)

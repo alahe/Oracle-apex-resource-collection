@@ -25,6 +25,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Blogs
 - [Apex Blog](https://blogs.oracle.com/apex/)
+- [Insum Blog ](https://www.insum.ca/resources/blog/)
 - [Louis Moreaux - Tips & Tricks](https://lmoreaux.hashnode.dev/)
 - [Jon Dixon - APEX, ORDS, ADB ](https://blog.cloudnueva.com/)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
@@ -39,6 +40,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Shay Shmeltzer's Weblog](https://blogs.oracle.com/shay/)
 - [The Coding & Thoughts blog](https://micodify.de/)
 - [Richmond](https://blog.cloudifyhub.com/)
+- [Jeff Kemp on Oracle](https://jeffkemponoracle.com/)
 - [Plamen Mushkov - APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home)
 - - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
 - [Rodrigo Mesquita - APEX Blog ](https://apexblog.dev/)
@@ -94,11 +96,17 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 ## Forms to Apex
 - [Forms goes APEX](https://apex.mt-itsolutions.com/ords/r/portal/apex/forms-goes-apex?session=100662757604)
 - Youtube: [Oracle APEX the promising future of Oracle Forms](https://www.youtube.com/watch?v=0-3bC79hg5Y)
+- [Readiness for an Oracle Forms Modernization](https://www.insum.ca/oracle-forms-migration-survey/)
+- [Forms to APEX / Tools and Methologia](https://www.insum.ca/portfolio/forms-to-apex-using-tools-methodology/)
 
-  ## UX & APEX
+
+## ORDS
+- [](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs)
+
+## UX & APEX
   - [UX and APEX]([https://flowsforapex.org/](https://www.dropbox.com/s/di85yi9svo1zbxo/AAA_UX.mp4?dl=0)
 
-  ## Flows for APEX
+## Flows for APEX
   - [Flows for APEX](https://flowsforapex.org/)
 
 ## Youtube
@@ -116,3 +124,6 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Apex Learning
 - [Become An Oracle APEX Developer Professional - 2023](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional-2023/121230)
+
+## Misc
+- [Oracle APEX for your Enterprise Team](https://www.insum.ca/oracle-apex-enterprise-platform/)

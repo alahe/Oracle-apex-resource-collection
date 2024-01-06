@@ -105,10 +105,11 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Forms to Apex
 - [Forms goes APEX](https://apex.mt-itsolutions.com/ords/r/portal/apex/forms-goes-apex?session=100662757604)
-- Youtube: [Oracle APEX the promising future of Oracle Forms](https://www.youtube.com/watch?v=0-3bC79hg5Y)
-- [Readiness for an Oracle Forms Modernization](https://www.insum.ca/oracle-forms-migration-survey/)
-- [Forms to APEX / Tools and Methologia](https://www.insum.ca/portfolio/forms-to-apex-using-tools-methodology/)
-- [Oracle APEX for Forms Developers ](https://prezi.com/i52u-kdd2gmu/oracle-apex-for-forms-developers/)
+- Youtube: [EOUC EMEA - Oracle APEX the promising future of Oracle Forms](https://www.youtube.com/watch?v=0-3bC79hg5Y)
+- [Insum - Readiness for an Oracle Forms Modernization](https://www.insum.ca/oracle-forms-migration-survey/)
+- [Insum - Forms to APEX / Tools and Methologia](https://www.insum.ca/portfolio/forms-to-apex-using-tools-methodology/)
+- [Scott Wesley - Oracle APEX for Forms Developers ](https://prezi.com/i52u-kdd2gmu/oracle-apex-for-forms-developers/)
+- [Office Hours - Joel Kallman - Forms Modernization ](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=4825)
 
 
 ## ORDS

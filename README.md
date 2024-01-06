@@ -32,9 +32,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Jon Dixon - APEX, ORDS, ADB ](https://blog.cloudnueva.com/)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
-
 - [Christoph Ruepprich - A Backup for My Brain!](https://ruepprich.com/)
-
 - [Vincent Morneau Blog](https://vmorneau.me/)
 - [Steve Muench - Dive into APEX ](https://diveintoapex.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
@@ -68,8 +66,18 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - - [Rittmanmead - Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - - [Petar Simic ](https://www.rittmanmead.com/blog/author/petar/)
 - - [Lucas Hirschegger Blog](https://www.rittmanmead.com/blog/author/lucas/)
+- [Trent's Tech Tips ](https://apextips.blogspot.com/)
+- [Alex Nuijten - Notes on Oracle](https://nuijten.blogspot.com/)
+- [Morten Braten - ORA-00001: Unique constraint violated](https://ora-00001.blogspot.com/)
+- [Martin Giffy D'Souza - TalkApex](https://talkapex.com/)
+- [Roel Hartman ](https://roelhartman.blogspot.com/)
 - [Marko Gorički - Apex by G ](https://apexbyg.blogspot.com/)
 - [Dimitri Gielis Blog](https://dgielis.blogspot.com/)
+- [John Scott - Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/)
+- [Daniel Hochleitner - Blog ](https://blog.danielhochleitner.de/)
+- [Dick Dral - blog](https://dickdral.blogspot.com/)
+- [Aljaž Mali  B-Apex](https://b-apex.blogspot.com/)
+
 
 ## DevOps - GitHub & APEX
 - Youtube: [How to display content from Github in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
@@ -144,5 +152,6 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Become An Oracle APEX Developer Professional - 2023](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional-2023/121230)
 
 ## Misc
+- [Ask Max Solution ](https://askmax.solutions/ords/r/askmax/home/home)
 - [Oracle APEX for your Enterprise Team](https://www.insum.ca/oracle-apex-enterprise-platform/)
 - [VS code - ](https://github.com/swesley/logger-snippets)

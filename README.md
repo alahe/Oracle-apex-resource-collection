@@ -31,9 +31,9 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Jon Dixon - APEX, ORDS, ADB ](https://blog.cloudnueva.com/)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
-- [Rittmanmead - Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
-- [Christoph's 2 Cents](https://ruepprich.com/)
-- [Lucas Hirschegger Blog](https://www.rittmanmead.com/blog/author/lucas/)
+
+- [Christoph Ruepprich - A Backup for My Brain!](https://ruepprich.com/)
+
 - [Vincent Morneau Blog](https://vmorneau.me/)
 - [Steve Muench - Dive into APEX ](https://diveintoapex.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
@@ -60,6 +60,10 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Tom Lieber - Yet another IT Consultant](https://yaitcon.hashnode.dev/?source=top_nav_blog_home)
 - [Scott Spendolini - Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home)
 - - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
+- [Rittmanmead - Blog/ ](https://www.rittmanmead.com/blog/)
+- - [Rittmanmead - Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
+- - [Petar Simic ](https://www.rittmanmead.com/blog/author/petar/)
+- - [Lucas Hirschegger Blog](https://www.rittmanmead.com/blog/author/lucas/)
 
 ## DevOps - GitHub & APEX
 - Youtube: [How to display content from Github in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)

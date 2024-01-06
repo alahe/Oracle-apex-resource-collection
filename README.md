@@ -25,6 +25,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Blogs
 - [Apex Blog](https://blogs.oracle.com/apex/)
+- [Joel Kallman Blog](https://joelkallman.blogspot.com/)
 - [Insum Blog ](https://www.insum.ca/resources/blog/)
 - [Louis Moreaux - Tips & Tricks](https://lmoreaux.hashnode.dev/)
 - [Jon Dixon - APEX, ORDS, ADB ](https://blog.cloudnueva.com/)
@@ -32,6 +33,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
 - [Rittmanmead - Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - [Christoph's 2 Cents](https://ruepprich.com/)
+- [Lucas Hirschegger Blog](https://www.rittmanmead.com/blog/author/lucas/)
 - [Vincent Morneau Blog](https://vmorneau.me/)
 - [Steve Muench - Dive into APEX ](https://diveintoapex.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)

@@ -45,6 +45,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Jeff Kemp on Oracle](https://jeffkemponoracle.com/)
 - [Plamen Mushkov - APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home)
 - - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
+- [Scott Wesley ](http://www.grassroots-oracle.com/)
 - [Rodrigo Mesquita - APEX Blog ](https://apexblog.dev/)
 - -[New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
 - [Timo Herwix & Mohamed Bouchi ](https://tm-apex.hashnode.dev/)
@@ -107,6 +108,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - Youtube: [Oracle APEX the promising future of Oracle Forms](https://www.youtube.com/watch?v=0-3bC79hg5Y)
 - [Readiness for an Oracle Forms Modernization](https://www.insum.ca/oracle-forms-migration-survey/)
 - [Forms to APEX / Tools and Methologia](https://www.insum.ca/portfolio/forms-to-apex-using-tools-methodology/)
+- [Oracle APEX for Forms Developers ](https://prezi.com/i52u-kdd2gmu/oracle-apex-for-forms-developers/)
 
 
 ## ORDS

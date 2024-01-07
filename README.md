@@ -33,6 +33,9 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
    - [15 Top Tips to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top-tips-to-tune-your-oracle-apex-performance/)
 - [Louis Moreaux - Tips & Tricks](https://lmoreaux.hashnode.dev/)
 - [Jon Dixon - APEX, ORDS, ADB ](https://blog.cloudnueva.com/)
+-  - [Two Methods of Setting an APEX Authentication Scheme at Run-Time](https://blog.cloudnueva.com/setting-an-apex-authentication-scheme-at-run-time)
+   - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
+- [United Codes Blog](https://blog.united-codes.com/)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
 - [Christoph Ruepprich - A Backup for My Brain!](https://ruepprich.com/)
@@ -181,6 +184,8 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Community
 - [Ask questions from cummunity Stackoverflow ](https://stackoverflow.com/questions/tagged/oracle-apex)
+- [APEX Forums](https://forums.oracle.com/ords/apexds/domain/dev-community/category/apex)
+- 
 
 ## Apex Learning
 - [Become An Oracle APEX Developer Professional - 2023](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional-2023/121230)
@@ -189,3 +194,4 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Ask Max Solution ](https://askmax.solutions/ords/r/askmax/home/home)
 - [Oracle APEX for your Enterprise Team](https://www.insum.ca/oracle-apex-enterprise-platform/)
 - [VS code - ](https://github.com/swesley/logger-snippets)
+- [Keyboard shortcuts](https://cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/)

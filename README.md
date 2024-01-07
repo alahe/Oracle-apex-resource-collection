@@ -161,6 +161,9 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 ## Youtube
 - [Oracle Apex channel](https://www.youtube.com/@OracleAPEX)
 - [Oracle Developer channel](https://www.youtube.com/@oracledevs)
+- [Apex.world channel](https://www.youtube.com/channel/UCY7t5jZ2cyZXIil1L8jfTwg)
+- [OUTUG channel ](https://www.youtube.com/channel/UC_Aky4HG2cEy3njLWTHQ82A)
+- [SkillBuilders channel](https://www.youtube.com/user/skillbuildersDotcom/search)
 - [Oracle Database Product](https://www.youtube.com/@oracledatabaseproductmanag5050)
 - [Oracle Channel](https://www.youtube.com/@Oracle)
 - [APEX Instance Tips](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP)

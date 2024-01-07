@@ -96,7 +96,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [DevOps](https://apex.mt-itsolutions.com/ords/r/portal/apex/devops?session=100662757604)
 - [Toufiq Mohammed - Oracle APEX Application Development Lifecycle ](https://www.linkedin.com/events/toufiqmohammed-oracleapexapplic7048855778593542144/theater/)
 - [Youtube: Shay Shmeltzer - Oracle APEX Development Lifecycle - Git and Continuous Delivery Automation](https://youtu.be/JiP1jKO-nx8?si=DCKognz7aWOrP1pr)
-- 
+- Blaine Carter [Testing PL/SQL in your Ci/Cd pipeline with utPLSQL](https://youtu.be/rgbAG8RgR9U?si=Mqu8s4--URDGjcNq)
 
 ## Source, Github 
 - [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)
@@ -121,6 +121,8 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Database expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home?session=416975919135629)
 - ---
 - [AI Meal - demo/demo2023](https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
+- ---
+- Community listing of public sites & pages that are built with APEX [Built with APEX ](https://www.builtwithapex.com/ords/r/bwa/built-with-apex/home)
 
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)

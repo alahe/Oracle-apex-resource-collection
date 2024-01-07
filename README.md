@@ -82,6 +82,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - Martin Giffy D'Souza [TalkApex](https://talkapex.com/)
 - Monty Latiolais [Welcome to my corner of the web](https://montylatiolais.blogspot.com/)
 - Roel Hartman [ Blog ](https://roelhartman.blogspot.com/)
+- [](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
 - Marko Gorički [Apex by G ](https://apexbyg.blogspot.com/)
 - Dimitri Gielis [ Blog](https://dgielis.blogspot.com/)
 - John Scott [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/)
@@ -104,6 +105,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Source, Github 
 - [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)
+- [Apex plugins](https://github.com/Pretius) By Pretius
 
 ## Development support APEX apps
 - Louis Moreaux [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home)
@@ -197,3 +199,4 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Oracle APEX for your Enterprise Team](https://www.insum.ca/oracle-apex-enterprise-platform/)
 - [VS code - ](https://github.com/swesley/logger-snippets)
 - [Keyboard shortcuts](https://cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/)
+- [Template component plugin](https://apex.mt-itsolutions.com/ords/r/portal/apex/template-component-challenge)

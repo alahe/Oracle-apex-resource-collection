@@ -180,7 +180,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [APEX CloudWorld23 short](https://www.dropbox.com/scl/fi/4txcfqwnocwyo4l9oflnl/APEX_CloudWorld23.mp4?rlkey=704fgs89nddw9iabpkx640aj3&dl=0)
 
 ## Community
-- [](https://stackoverflow.com/questions/tagged/oracle-apex)
+- [Ask questions from cummunity Stackoverflow ](https://stackoverflow.com/questions/tagged/oracle-apex)
 
 ## Apex Learning
 - [Become An Oracle APEX Developer Professional - 2023](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional-2023/121230)

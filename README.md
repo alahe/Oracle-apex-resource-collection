@@ -29,7 +29,8 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Joel Kallman Blog](https://joelkallman.blogspot.com/)
 - [Insum Blog ](https://www.insum.ca/resources/blog/)
 - [Laureston Solution ](https://www.laureston.ca/blog/)
--  - []()
+-  - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/)
+   - [15 Top Tips to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top-tips-to-tune-your-oracle-apex-performance/)
 - [Louis Moreaux - Tips & Tricks](https://lmoreaux.hashnode.dev/)
 - [Jon Dixon - APEX, ORDS, ADB ](https://blog.cloudnueva.com/)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
@@ -45,6 +46,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [The Coding & Thoughts blog](https://micodify.de/)
 - [Richmond](https://blog.cloudifyhub.com/)
 - [John Snyders - HardLikeSoftware](https://hardlikesoftware.com/weblog/category/apex/)
+- [Slino - APEX stuff in one place](https://lschilde.blogspot.com/)
 - [Jeff Kemp on Oracle](https://jeffkemponoracle.com/)
 - [Plamen Mushkov - APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home)
 - - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
@@ -85,13 +87,19 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Christian Rokitta - Oracle & APEX Geekery](https://rokitta.blogspot.com/)
 
 
-## DevOps - GitHub & APEX
+## GitHub & APEX
 - Youtube: [How to display content from Github in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
 - [Use Package DBMS_CLOUD_REPO with GitHub](https://fuzziebrain.com/tech-tnt/oracle-cloud/devops/use-package-dbms_cloud_repo-with-github)
 - [Leveraging the Power of DBMS_CLOUD_REPO in Oracle APEX and GitHub](https://blog.cloudifyhub.com/leveraging-the-power-of-dbmscloudrepo-in-oracle-apex-and-github-a-winning-combination)
-------
+---
+## DevOps - CI/CD
 - [DevOps](https://apex.mt-itsolutions.com/ords/r/portal/apex/devops?session=100662757604)
+- [Toufiq Mohammed - Oracle APEX Application Development Lifecycle ](https://www.linkedin.com/events/toufiqmohammed-oracleapexapplic7048855778593542144/theater/)
+- [Youtube: Shay Shmeltzer - Oracle APEX Development Lifecycle - Git and Continuous Delivery Automation](https://youtu.be/JiP1jKO-nx8?si=DCKognz7aWOrP1pr)
 - 
+
+## Source, Github 
+- [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)
 
 ## Development support APEX apps
 - [Louis Moreaux Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home)
@@ -112,7 +120,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [ORAdiff](https://oradiff.oracle.com/ords/r/oradiff/oradiff/home)
 - [Database expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home?session=416975919135629)
 - ---
-[AI Meal - demo/demo2023](https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
+- [AI Meal - demo/demo2023](https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
 
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
@@ -123,7 +131,14 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
 
 ## Testing
- - [Low Code Testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en)
+ - [MT ITsolution: Low Code Testing - UI testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en)
+ - [Youtube - Oracle Developers: - Testing with utPLSQL](https://youtu.be/5WGHplRgXzQ?si=VyGa2Te5cAOZcY2R)
+ - [utPLSQL.org - home](https://www.utplsql.org/utPLSQL/v2.3.1/index.html)
+ - [Youtube: ](https://www.youtube.com/playlist?list=PL25b72h8A54fbucEfvH3C2Q1yMqGhc15o)
+ - [Source: GitHUb - utPLSQL ](https://github.com/utPLSQL)
+ - [Youtube - OracleMania: Testing with utPLSQL – Made Easy with SQL Developer by Philipp Salvisberg](https://youtu.be/B7qWmF4rDd4?si=q5jLsIbxH6-wB5iD)
+ - [Youtube - EMEA EOUC: Lino Schildenfeld: Cypress and APEX automated testing](https://www.youtube.com/watch?v=mSO0m-4uxGw)
+ - [Youtube - Insum: Advanced APEX UI Test Automation with Cypress](https://youtu.be/QFzN_0soxiQ?si=eUFDUlbiycdygrdC)
 
 ## Forms to Apex
 - [Forms goes APEX](https://apex.mt-itsolutions.com/ords/r/portal/apex/forms-goes-apex?session=100662757604)
@@ -152,6 +167,9 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [APEX India: Learn, Conect and Collaborate](https://www.youtube.com/watch?v=mszEBHeMBDE)
 - [Getting started with AJAX in APEX](https://www.youtube.com/watch?v=ga-IgB15wDI)
 - -----------
+- [Insum - Anton & Hyden - APEX Instant Tips ](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP)
+- [Insum - Hyden ](https://www.youtube.com/@Oapmpuag/videos)
+-------------
 - [Unlock the Power of Oracle APEX](https://videohub.oracle.com/media/Unlock%20the%20Power%20of%20Oracle%20APEX%3A%20How%20Native%20Low-Code%20Development%20Can%20Take%20Your%20Business%20to%20New%20Heights!/1_yy0ry8nn)
 - -----------
 - [APEX CloudWorld23 short](https://www.dropbox.com/scl/fi/4txcfqwnocwyo4l9oflnl/APEX_CloudWorld23.mp4?rlkey=704fgs89nddw9iabpkx640aj3&dl=0)

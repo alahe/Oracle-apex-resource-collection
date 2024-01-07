@@ -120,7 +120,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [ORAdiff](https://oradiff.oracle.com/ords/r/oradiff/oradiff/home)
 - [Database expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home?session=416975919135629)
 - ---
-- [AI Meal - demo/demo2023](https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
+- [AI Meal planning - demo/demo2023](https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
 - ---
 - Community listing of public sites & pages that are built with APEX [Built with APEX ](https://www.builtwithapex.com/ords/r/bwa/built-with-apex/home)
 
@@ -178,6 +178,9 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Unlock the Power of Oracle APEX](https://videohub.oracle.com/media/Unlock%20the%20Power%20of%20Oracle%20APEX%3A%20How%20Native%20Low-Code%20Development%20Can%20Take%20Your%20Business%20to%20New%20Heights!/1_yy0ry8nn)
 - -----------
 - [APEX CloudWorld23 short](https://www.dropbox.com/scl/fi/4txcfqwnocwyo4l9oflnl/APEX_CloudWorld23.mp4?rlkey=704fgs89nddw9iabpkx640aj3&dl=0)
+
+## Community
+- [](https://stackoverflow.com/questions/tagged/oracle-apex)
 
 ## Apex Learning
 - [Become An Oracle APEX Developer Professional - 2023](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional-2023/121230)

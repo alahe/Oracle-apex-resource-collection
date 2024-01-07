@@ -134,7 +134,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
  - [MT ITsolution: Low Code Testing - UI testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en)
  - [Youtube - Oracle Developers: - Testing with utPLSQL](https://youtu.be/5WGHplRgXzQ?si=VyGa2Te5cAOZcY2R)
  - [utPLSQL.org - home](https://www.utplsql.org/utPLSQL/v2.3.1/index.html)
- - [Youtube: ](https://www.youtube.com/playlist?list=PL25b72h8A54fbucEfvH3C2Q1yMqGhc15o)
+ - [Youtube: utPLSQL channel](https://www.youtube.com/playlist?list=PL25b72h8A54fbucEfvH3C2Q1yMqGhc15o)
  - [Source: GitHUb - utPLSQL ](https://github.com/utPLSQL)
  - [Youtube - OracleMania: Testing with utPLSQL – Made Easy with SQL Developer by Philipp Salvisberg](https://youtu.be/B7qWmF4rDd4?si=q5jLsIbxH6-wB5iD)
  - [Youtube - EMEA EOUC: Lino Schildenfeld: Cypress and APEX automated testing](https://www.youtube.com/watch?v=mSO0m-4uxGw)
@@ -150,7 +150,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 
 ## ORDS
-- [](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs)
+- [cloud neva](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs)
 
 ## UX & APEX
   - [UX and APEX]([https://flowsforapex.org/](https://www.dropbox.com/s/di85yi9svo1zbxo/AAA_UX.mp4?dl=0)

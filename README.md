@@ -28,6 +28,8 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Apex Blog](https://blogs.oracle.com/apex/)
 - [Joel Kallman Blog](https://joelkallman.blogspot.com/)
 - [Insum Blog ](https://www.insum.ca/resources/blog/)
+- [Laureston Solution ](https://www.laureston.ca/blog/)
+-  - []()
 - [Louis Moreaux - Tips & Tricks](https://lmoreaux.hashnode.dev/)
 - [Jon Dixon - APEX, ORDS, ADB ](https://blog.cloudnueva.com/)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
@@ -46,7 +48,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Jeff Kemp on Oracle](https://jeffkemponoracle.com/)
 - [Plamen Mushkov - APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home)
 - - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
-- [Scott Wesley ](http://www.grassroots-oracle.com/)
+- [Scott Wesley - Mentations of an oracle developer](http://www.grassroots-oracle.com/)
 - [Rodrigo Mesquita - APEX Blog ](https://apexblog.dev/)
 - -[New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
 - [Timo Herwix & Mohamed Bouchi ](https://tm-apex.hashnode.dev/)
@@ -66,10 +68,13 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - - [Rittmanmead - Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - - [Petar Simic ](https://www.rittmanmead.com/blog/author/petar/)
 - - [Lucas Hirschegger Blog](https://www.rittmanmead.com/blog/author/lucas/)
+- [TH Technology](https://thtechnology.com/)
 - [Trent's Tech Tips ](https://apextips.blogspot.com/)
+- [Kris Rice - DB Tools and Cloud Ramblings](https://krisrice.io/)
 - [Alex Nuijten - Notes on Oracle](https://nuijten.blogspot.com/)
 - [Morten Braten - ORA-00001: Unique constraint violated](https://ora-00001.blogspot.com/)
 - [Martin Giffy D'Souza - TalkApex](https://talkapex.com/)
+- [Monty Latiolais - Welcome to my corner of the web](https://montylatiolais.blogspot.com/)
 - [Roel Hartman ](https://roelhartman.blogspot.com/)
 - [Marko Gorički - Apex by G ](https://apexbyg.blogspot.com/)
 - [Dimitri Gielis Blog](https://dgielis.blogspot.com/)
@@ -77,6 +82,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Daniel Hochleitner - Blog ](https://blog.danielhochleitner.de/)
 - [Dick Dral - blog](https://dickdral.blogspot.com/)
 - [Aljaž Mali  B-Apex](https://b-apex.blogspot.com/)
+- [Christian Rokitta - Oracle & APEX Geekery](https://rokitta.blogspot.com/)
 
 
 ## DevOps - GitHub & APEX
@@ -105,6 +111,8 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Apex Release Notes](https://apex.mt-itsolutions.com/ords/tools/r/release/notes)
 - [ORAdiff](https://oradiff.oracle.com/ords/r/oradiff/oradiff/home)
 - [Database expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home?session=416975919135629)
+- ---
+[AI Meal - demo/demo2023](https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
 
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)

@@ -34,7 +34,20 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Pretius Blog](https://pretius.com/blog/)
 - [United Codes Blog](https://blog.united-codes.com/)
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
-- 
+- [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott
+- [A Backup for My Brain!](https://ruepprich.com/) by Christoph Ruepprich
+- [Dive into APEX ](https://diveintoapex.com/) by Steve Muench
+- [Thinking Anew - Blog](https://fuzziebrain.com/content/a-yearful-of-ai-but-whats-next) by Ardian Png 
+- [Weblog](https://blogs.oracle.com/shay/) by Shay Shmeltzer
+- [Mostly APEX Information](https://rimblas.com/blog/) by Jorge Rimblas
+- Blog](https://vmorneau.me/) by Vincent Morneau
+- [Mentations of an oracle developer](http://www.grassroots-oracle.com/) by Scott Wesley
+- [The Coding & Thoughts blog](https://micodify.de/) by Maik Michel
+- [HardLikeSoftware](https://hardlikesoftware.com/weblog/category/apex/) by John Snyders
+- [Oracle  Apex blog](https://jeffkemponoracle.com/) by Jeff Kemp
+- [TH Technology](https://thtechnology.com/)
+- [DB Tools and Cloud Ramblings](https://krisrice.io/) by Kris Rice
+- [Blog ](https://blog.danielhochleitner.de/) by Daniel Hochleitner
 ### [Blogs in Hashnode](https://hashnode.com/)
 - [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
 - [APEX, ORDS, ADB ](https://blog.cloudnueva.com/) by Jon Dixon
@@ -45,22 +58,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
 - [Cloudify Hub](https://blog.cloudifyhub.com/) by Richmond
 - [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home) by Plamen Mushkov
-     
-
-
-- [A Backup for My Brain!](https://ruepprich.com/) by Christoph Ruepprich
-- [Blog](https://vmorneau.me/) by Vincent Morneau
-- [Dive into APEX ](https://diveintoapex.com/) by Steve Muench
-- [Thinking Anew - Blog](https://fuzziebrain.com/content/a-yearful-of-ai-but-whats-next) by Ardian Png 
-- [Weblog](https://blogs.oracle.com/shay/) by Shay Shmeltzer
-- [Mostly APEX Information](https://rimblas.com/blog/) by Jorge Rimblas
-- [The Coding & Thoughts blog](https://micodify.de/) by Maik Michel
-- [HardLikeSoftware](https://hardlikesoftware.com/weblog/category/apex/) by John Snyders
-- [Oracle  Apex blog](https://jeffkemponoracle.com/) by Jeff Kemp
-- 
-
-- - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
-- [Mentations of an oracle developer](http://www.grassroots-oracle.com/) by Scott Wesley
+- - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)     
 - [APEX Blog ](https://apexblog.dev/) by Rodrigo Mesquita
 - -[New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
 - [Blogs ](https://tm-apex.hashnode.dev/) by Timo Herwix & Mohamed Bouchi
@@ -74,17 +72,13 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
   - [Use SQLcl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-sqlcl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
 - [APEX World](https://blog.apex.world/) by Juergen Schuster
 - [Yet another IT Consultant](https://yaitcon.hashnode.dev/?source=top_nav_blog_home) by Tom Lie
-- [Rittmanmead - Blog/ ](https://www.rittmanmead.com/blog/)
+- [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
+- [Blog](https://hashnode.com/@danielhochleitner) by Daniel Hochleitner
+- [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
+- ### [Rittmanmead - Blogs/ ](https://www.rittmanmead.com/blog/)
 - - [Rittmanmead - Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - - [ Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic 
 - - [ Blog](https://www.rittmanmead.com/blog/author/lucas/) by Lucas Hirschegger
-- [TH Technology](https://thtechnology.com/)
-- [DB Tools and Cloud Ramblings](https://krisrice.io/) by Kris Rice
-- [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
-- [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
-- [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott
-- [](https://hashnode.com/@danielhochleitner)
-- [Blog ](https://blog.danielhochleitner.de/) by Daniel Hochleitner
 ### [Blogs in blogspot] (https://blogspot.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
 - [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino
@@ -98,7 +92,6 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta 
-
 
 
 ## GitHub & APEX

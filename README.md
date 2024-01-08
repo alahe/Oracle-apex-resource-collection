@@ -18,78 +18,80 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [PL/SQL API](https://apex.oracle.com/api)
 - [APEX Forum](https://forums.oracle.com/ords/apexds/domain/dev-community/category/apex)
 - [Office Hours](https://asktom.oracle.com/ords/r/tech/catalog/home)
-- [Shortcuts](https://apex.oracle.com/pls/apex/f?p=411:18)
 - [LiveLabs](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [LiveSQL](https://apex.oracle.com/quicksql)
-- [Daniel Hochleitner - Awesome Oracle APEX ](https://github.com/Dani3lSun/awesome-orclapex)
+- [Shortcuts](https://apex.oracle.com/pls/apex/f?p=411:18)
+- [Awesome Oracle APEX ](https://github.com/Dani3lSun/awesome-orclapex) by Daniel Hochleitner
   
 
 ## Blogs
 - [Apex Blog](https://blogs.oracle.com/apex/)
-- Joel Kallman [ Blog](https://joelkallman.blogspot.com/)
+- [Blog](https://joelkallman.blogspot.com/) by Joel Kallman 
 - [Insum Blog ](https://www.insum.ca/resources/blog/)
 - [Laureston Solution ](https://www.laureston.ca/blog/)
 -  - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/)
    - [15 Top Tips to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top-tips-to-tune-your-oracle-apex-performance/)
-- Louis Moreaux [Tips & Tricks](https://lmoreaux.hashnode.dev/)
-- Jon Dixon [APEX, ORDS, ADB ](https://blog.cloudnueva.com/)
+- [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
+- [APEX, ORDS, ADB ](https://blog.cloudnueva.com/) by Jon Dixon
 -  - [Two Methods of Setting an APEX Authentication Scheme at Run-Time](https://blog.cloudnueva.com/setting-an-apex-authentication-scheme-at-run-time)
    - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
 - [United Codes Blog](https://blog.united-codes.com/)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
-- Anton Nielsen [apex_debug](https://apexdebug.com/)
-- Christoph Ruepprich [A Backup for My Brain!](https://ruepprich.com/)
-- Vincent Morneau [Blog](https://vmorneau.me/)
-- Steve Muench [Dive into APEX ](https://diveintoapex.com/)
+- [Apex_debug](https://apexdebug.com/) Anton Nielsen
+- [A Backup for My Brain!](https://ruepprich.com/) by Christoph Ruepprich
+- [Blog](https://vmorneau.me/) by Vincent Morneau
+- [Dive into APEX ](https://diveintoapex.com/) by Steve Muench
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
-- Pretius [Blog](https://pretius.com/blog/)
-- Ardian Png [ blog](https://fuzziebrain.com/content/a-yearful-of-ai-but-whats-next)
-- Shay Shmeltzer [Weblog](https://blogs.oracle.com/shay/)
-- Jorge Rimblas [Mostly APEX Information](https://rimblas.com/blog/)
+- [Pretius Blog](https://pretius.com/blog/)
+- [Blog](https://fuzziebrain.com/content/a-yearful-of-ai-but-whats-next) by Ardian Png 
+- [Weblog](https://blogs.oracle.com/shay/) by Shay Shmeltzer
+- [Mostly APEX Information](https://rimblas.com/blog/) by Jorge Rimblas
 - [The Coding & Thoughts blog](https://micodify.de/)
-- Richmond [ Blogs ](https://blog.cloudifyhub.com/)
-- John Snyders [HardLikeSoftware](https://hardlikesoftware.com/weblog/category/apex/)
-- Slino [APEX stuff in one place](https://lschilde.blogspot.com/)
-- [Jeff Kemp on Oracle](https://jeffkemponoracle.com/)
-- Plamen Mushkov [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home)
+- [Blogs ](https://blog.cloudifyhub.com/) by Richmond
+- [HardLikeSoftware](https://hardlikesoftware.com/weblog/category/apex/) by John Snyders
+- [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino
+- [Oracle  Apex blog](https://jeffkemponoracle.com/) by Jeff Kemp
+- [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home) by Plamen Mushkov
 - - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
-- Scott Wesley [Mentations of an oracle developer](http://www.grassroots-oracle.com/)
-- Rodrigo Mesquita [APEX Blog ](https://apexblog.dev/)
+- [Mentations of an oracle developer](http://www.grassroots-oracle.com/) by Scott Wesley
+- [APEX Blog ](https://apexblog.dev/) by Rodrigo Mesquita
 - -[New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
-- Timo Herwix & Mohamed Bouchi [ Blogs ](https://tm-apex.hashnode.dev/)
-- Simon Joyce [You can do that with APEX ](https://ebs-apex.hashnode.dev/?source=top_nav_blog_home)
+- [Blogs ](https://tm-apex.hashnode.dev/) by Timo Herwix & Mohamed Bouchi
+- [You can do that with APEX ](https://ebs-apex.hashnode.dev/?source=top_nav_blog_home) by Simon Joyce
 - - [New 23.2 "Capture Using" file upload setting!](https://ebs-apex.hashnode.dev/new-232-capture-using-file-upload-setting)
   - [Using Workflow in APEX 23.2](https://ebs-apex.hashnode.dev/using-workflow-in-apex-232?source=more_articles_bottom_blogs)
-- Lech Cieślik [Just another APEX story... ](https://lcieslik.hashnode.dev/?source=top_nav_blog_home)
+- [Just another APEX story... ](https://lcieslik.hashnode.dev/?source=top_nav_blog_home) by Lech Cieślik
 - - [Marking countries on the map - Oracle APEX, Map and 'Have been' app](https://lcieslik.hashnode.dev/marking-countries-on-the-map-oracle-apex-map-and-have-been-app)
-- Rafal Grzegorczyk [Keep It Simple. Developer's tips.](https://rafal.hashnode.dev/)
+- [Keep It Simple. Developer's tips.](https://rafal.hashnode.dev/) by Rafal Grzegorczyk
 - - [Install Oracle APEX into...Oracle APEX](https://rafal.hashnode.dev/install-oracle-apex-intooracle-apex)
   - [Use SQLcl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-sqlcl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
-- Juergen Schuster [APEX World](https://blog.apex.world/)
-- Tom Lieber [Yet another IT Consultant](https://yaitcon.hashnode.dev/?source=top_nav_blog_home)
-- Scott Spendolini [Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home)
+- [APEX World](https://blog.apex.world/) by Juergen Schuster
+- [Yet another IT Consultant](https://yaitcon.hashnode.dev/?source=top_nav_blog_home) by Tom Lieber
+- [Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home) by Scott Spendolini
 - - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
 - [Rittmanmead - Blog/ ](https://www.rittmanmead.com/blog/)
 - - [Rittmanmead - Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
-- - Petar Simic [ Blog ](https://www.rittmanmead.com/blog/author/petar/)
-- - Lucas Hirschegger [ Blog](https://www.rittmanmead.com/blog/author/lucas/)
+- - [ Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic 
+- - [ Blog](https://www.rittmanmead.com/blog/author/lucas/) by Lucas Hirschegger
 - [TH Technology](https://thtechnology.com/)
+- [DB Tools and Cloud Ramblings](https://krisrice.io/) by Kris Rice
+- [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
+- [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
+- [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott
+- [Blog ](https://blog.danielhochleitner.de/) by Daniel Hochleitner
+- ----------
 - [Trent's Tech Tips ](https://apextips.blogspot.com/)
-- Kris Rice [DB Tools and Cloud Ramblings](https://krisrice.io/)
-- Alex Nuijten [Notes on Oracle](https://nuijten.blogspot.com/)
-- Morten Braten [ORA-00001: Unique constraint violated](https://ora-00001.blogspot.com/)
-- Martin Giffy D'Souza [TalkApex](https://talkapex.com/)
-- Monty Latiolais [Welcome to my corner of the web](https://montylatiolais.blogspot.com/)
-- Roel Hartman [ Blog ](https://roelhartman.blogspot.com/)
-- [](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
-- Marko Gorički [Apex by G ](https://apexbyg.blogspot.com/)
-- Dimitri Gielis [ Blog](https://dgielis.blogspot.com/)
-- John Scott [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/)
-- Daniel Hochleitner [Blog ](https://blog.danielhochleitner.de/)
-- Dick Dral [Blog](https://dickdral.blogspot.com/)
-- Aljaž Mali [B-Apex](https://b-apex.blogspot.com/)
-- Christian Rokitta [Oracle & APEX Geekery](https://rokitta.blogspot.com/)
+- [Notes on Oracle](https://nuijten.blogspot.com/) by Alex Nuijten
+- [ORA-00001: Unique constraint violated](https://ora-00001.blogspot.com/) by Morten Braten
+- [Welcome to my corner of the web](https://montylatiolais.blogspot.com/) by Monty Latiolais
+- [Blog in Blogspot ](https://roelhartman.blogspot.com/) by Roel Hartman
+- [Apex by G ](https://apexbyg.blogspot.com/) by Marko Gorički 
+- [Blog in Blogspot](https://dgielis.blogspot.com/) by Dimitri Gielis
+- [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
+- [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
+- [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta 
+
 
 
 ## GitHub & APEX

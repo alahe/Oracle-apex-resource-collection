@@ -170,6 +170,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Youtube
 - [Oracle Apex channel](https://www.youtube.com/@OracleAPEX)
+- - [Oracle APEX 23.2 ](https://www.youtube.com/playlist?list=PLUo-NIMouZ_tJq7R0nRLkP9hB8hMMBgtA) playlist
 - [Oracle Developer channel](https://www.youtube.com/@oracledevs)
 - [Apex.world channel](https://www.youtube.com/channel/UCY7t5jZ2cyZXIil1L8jfTwg)
 - [OUTUG channel ](https://www.youtube.com/channel/UC_Aky4HG2cEy3njLWTHQ82A)

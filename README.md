@@ -26,38 +26,39 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Blogs
 - [Apex Blog](https://blogs.oracle.com/apex/)
-- [Blog](https://joelkallman.blogspot.com/) by Joel Kallman 
+- [Blog ](https://joelkallman.blogspot.com/) by Joel Kallman 
 - [Insum Blog ](https://www.insum.ca/resources/blog/)
 - [Laureston Solution ](https://www.laureston.ca/blog/)
 -  - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/)
    - [15 Top Tips to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top-tips-to-tune-your-oracle-apex-performance/)
-### [Hashnode blogs](https://hashnode.com/) 
+- [Pretius Blog](https://pretius.com/blog/)
+- [United Codes Blog](https://blog.united-codes.com/)
+- [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
+- 
+### [Blogs in Hashnode](https://hashnode.com/)
 - [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
 - [APEX, ORDS, ADB ](https://blog.cloudnueva.com/) by Jon Dixon
 -  - [Two Methods of Setting an APEX Authentication Scheme at Run-Time](https://blog.cloudnueva.com/setting-an-apex-authentication-scheme-at-run-time)
    - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
-- [Apex_debug](https://apexdebug.com/) Anton Nielsen
+- [Apex_debug](https://apexdebug.com/) by Anton Nielsen
 - [Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home) by Scott Spendolini
 - - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
+- [Cloudify Hub](https://blog.cloudifyhub.com/) by Richmond
+- [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home) by Plamen Mushkov
      
-- [United Codes Blog](https://blog.united-codes.com/)
-- [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
-- [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
+
 
 - [A Backup for My Brain!](https://ruepprich.com/) by Christoph Ruepprich
 - [Blog](https://vmorneau.me/) by Vincent Morneau
 - [Dive into APEX ](https://diveintoapex.com/) by Steve Muench
-- [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
-- [Pretius Blog](https://pretius.com/blog/)
-- [Blog](https://fuzziebrain.com/content/a-yearful-of-ai-but-whats-next) by Ardian Png 
+- [Thinking Anew - Blog](https://fuzziebrain.com/content/a-yearful-of-ai-but-whats-next) by Ardian Png 
 - [Weblog](https://blogs.oracle.com/shay/) by Shay Shmeltzer
 - [Mostly APEX Information](https://rimblas.com/blog/) by Jorge Rimblas
-- [The Coding & Thoughts blog](https://micodify.de/)
-- [Blogs ](https://blog.cloudifyhub.com/) by Richmond
+- [The Coding & Thoughts blog](https://micodify.de/) by Maik Michel
 - [HardLikeSoftware](https://hardlikesoftware.com/weblog/category/apex/) by John Snyders
-- [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino
 - [Oracle  Apex blog](https://jeffkemponoracle.com/) by Jeff Kemp
-- [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home) by Plamen Mushkov
+- 
+
 - - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
 - [Mentations of an oracle developer](http://www.grassroots-oracle.com/) by Scott Wesley
 - [APEX Blog ](https://apexblog.dev/) by Rodrigo Mesquita
@@ -84,7 +85,9 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott
 - [](https://hashnode.com/@danielhochleitner)
 - [Blog ](https://blog.danielhochleitner.de/) by Daniel Hochleitner
-- ----------
+### [Blogs in blogspot] (https://blogspot.com/)
+- [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
+- [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino
 - [Trent's Tech Tips ](https://apextips.blogspot.com/)
 - [Notes on Oracle](https://nuijten.blogspot.com/) by Alex Nuijten
 - [ORA-00001: Unique constraint violated](https://ora-00001.blogspot.com/) by Morten Braten
@@ -107,14 +110,14 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [DevOps](https://apex.mt-itsolutions.com/ords/r/portal/apex/devops?session=100662757604)
 - [Toufiq Mohammed - Oracle APEX Application Development Lifecycle ](https://www.linkedin.com/events/toufiqmohammed-oracleapexapplic7048855778593542144/theater/)
 - [Youtube: Shay Shmeltzer - Oracle APEX Development Lifecycle - Git and Continuous Delivery Automation](https://youtu.be/JiP1jKO-nx8?si=DCKognz7aWOrP1pr)
-- Blaine Carter [Testing PL/SQL in your Ci/Cd pipeline with utPLSQL](https://youtu.be/rgbAG8RgR9U?si=Mqu8s4--URDGjcNq)
+- [Testing PL/SQL in your Ci/Cd pipeline with utPLSQL](https://youtu.be/rgbAG8RgR9U?si=Mqu8s4--URDGjcNq) by Blaine Carter
 
 ## Source, Github 
 - [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)
 - [Apex plugins](https://github.com/Pretius) By Pretius
 
 ## Development support APEX apps
-- Louis Moreaux [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home)
+- [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home) by Louis Moreaux
 - [Community Plug-Ins](https://www.united-codes.com/ords/r/pluginspro_web/pluginspro_free/getting-started)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
 - [Ted Struik](https://tedstruik-oracle.nl/ords/f?p=25384:1::::::)
@@ -122,7 +125,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [APEX AppLab - Demo](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts)
 - [Dynamic-action.com ](https://www.juergen-schuster-it.de/ords/f?p=161:1:9068317033900:::::)
 - [APEX Debugging Playground](https://apex.oracle.com/pls/apex/f?p=25355:9:103981530529661:::::)
-- Scott Wesley [Dynamic Actions, Javascript, & CSS for APEX Beginners ](https://apex.oracle.com/pls/apex/f?p=27882:1:100092276829851:::::)
+- [Dynamic Actions, Javascript, & CSS for APEX Beginners ](https://apex.oracle.com/pls/apex/f?p=27882:1:100092276829851:::::) by Scott Wesley
 - --------
 - [Charts](https://apex.oracle.com/go/sample_charts)
 - [Cards](https://apex.oracle.com/go/sample_cards)
@@ -156,11 +159,11 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Forms to Apex
 - [Forms goes APEX](https://apex.mt-itsolutions.com/ords/r/portal/apex/forms-goes-apex?session=100662757604)
-- Youtube: [EOUC EMEA - Oracle APEX the promising future of Oracle Forms](https://www.youtube.com/watch?v=0-3bC79hg5Y)
-- [Insum - Readiness for an Oracle Forms Modernization](https://www.insum.ca/oracle-forms-migration-survey/)
-- [Insum - Forms to APEX / Tools and Methologia](https://www.insum.ca/portfolio/forms-to-apex-using-tools-methodology/)
-- [Scott Wesley - Oracle APEX for Forms Developers ](https://prezi.com/i52u-kdd2gmu/oracle-apex-for-forms-developers/)
-- [Office Hours - Joel Kallman - Forms Modernization ](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=4825)
+- Youtube: [EOUC EMEA - Oracle APEX the promising future of Oracle Forms](https://www.youtube.com/watch?v=0-3bC79hg5Y) by Mark Eichhorst
+- [Readiness for an Oracle Forms Modernization](https://www.insum.ca/oracle-forms-migration-survey/) by Insum
+- [Forms to APEX / Tools and Methologia](https://www.insum.ca/portfolio/forms-to-apex-using-tools-methodology/) by Insum
+- [Oracle APEX for Forms Developers ](https://prezi.com/i52u-kdd2gmu/oracle-apex-for-forms-developers/) by Scott Wesley
+- [Office Hours - Forms Modernization ](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=4825) by  Joel Kallman
 
 
 ## ORDS
@@ -198,7 +201,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 
 ## Apex Learning
 - [Become An Oracle APEX Developer Professional - 2023](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional-2023/121230)
-- Chris Saxon [Dev Gym - Databases for Developers: Foundations](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html)
+- [Dev Gym - Databases for Developers: Foundations](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) by Chris Saxon
 
 ## Misc
 - [Ask Max Solution ](https://askmax.solutions/ords/r/askmax/home/home)
@@ -206,3 +209,4 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [VS code - ](https://github.com/swesley/logger-snippets)
 - [Keyboard shortcuts](https://cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/)
 - [Template component plugin](https://apex.mt-itsolutions.com/ords/r/portal/apex/template-component-challenge)
+- [TARDIA – Time And Related Datatypes In APEX ](https://www.linkedin.com/events/tardia-timeandrelateddatatypesi7081454729582575616/theater/) by Ed Jones

@@ -31,14 +31,19 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Laureston Solution ](https://www.laureston.ca/blog/)
 -  - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/)
    - [15 Top Tips to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top-tips-to-tune-your-oracle-apex-performance/)
+### [Hashnode blogs](https://hashnode.com/) 
 - [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
 - [APEX, ORDS, ADB ](https://blog.cloudnueva.com/) by Jon Dixon
 -  - [Two Methods of Setting an APEX Authentication Scheme at Run-Time](https://blog.cloudnueva.com/setting-an-apex-authentication-scheme-at-run-time)
    - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
+- [Apex_debug](https://apexdebug.com/) Anton Nielsen
+- [Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home) by Scott Spendolini
+- - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
+     
 - [United Codes Blog](https://blog.united-codes.com/)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
-- [Apex_debug](https://apexdebug.com/) Anton Nielsen
+
 - [A Backup for My Brain!](https://ruepprich.com/) by Christoph Ruepprich
 - [Blog](https://vmorneau.me/) by Vincent Morneau
 - [Dive into APEX ](https://diveintoapex.com/) by Steve Muench
@@ -67,9 +72,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - - [Install Oracle APEX into...Oracle APEX](https://rafal.hashnode.dev/install-oracle-apex-intooracle-apex)
   - [Use SQLcl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-sqlcl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
 - [APEX World](https://blog.apex.world/) by Juergen Schuster
-- [Yet another IT Consultant](https://yaitcon.hashnode.dev/?source=top_nav_blog_home) by Tom Lieber
-- [Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home) by Scott Spendolini
-- - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
+- [Yet another IT Consultant](https://yaitcon.hashnode.dev/?source=top_nav_blog_home) by Tom Lie
 - [Rittmanmead - Blog/ ](https://www.rittmanmead.com/blog/)
 - - [Rittmanmead - Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - - [ Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic 
@@ -79,6 +82,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
 - [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
 - [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott
+- [](https://hashnode.com/@danielhochleitner)
 - [Blog ](https://blog.danielhochleitner.de/) by Daniel Hochleitner
 - ----------
 - [Trent's Tech Tips ](https://apextips.blogspot.com/)

@@ -40,14 +40,14 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Thinking Anew - Blog](https://fuzziebrain.com/content/a-yearful-of-ai-but-whats-next) by Ardian Png 
 - [Weblog](https://blogs.oracle.com/shay/) by Shay Shmeltzer
 - [Mostly APEX Information](https://rimblas.com/blog/) by Jorge Rimblas
-- Blog](https://vmorneau.me/) by Vincent Morneau
+- [Vincent Blog](https://vmorneau.me/) by Vincent Morneau
 - [Mentations of an oracle developer](http://www.grassroots-oracle.com/) by Scott Wesley
 - [The Coding & Thoughts blog](https://micodify.de/) by Maik Michel
 - [HardLikeSoftware](https://hardlikesoftware.com/weblog/category/apex/) by John Snyders
 - [Oracle  Apex blog](https://jeffkemponoracle.com/) by Jeff Kemp
 - [TH Technology](https://thtechnology.com/)
 - [DB Tools and Cloud Ramblings](https://krisrice.io/) by Kris Rice
-- [Blog ](https://blog.danielhochleitner.de/) by Daniel Hochleitner
+- [Daniel Blog ](https://blog.danielhochleitner.de/) by Daniel Hochleitner
 ### [Blogs in Hashnode](https://hashnode.com/)
 - [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
 - [APEX, ORDS, ADB ](https://blog.cloudnueva.com/) by Jon Dixon
@@ -75,11 +75,11 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
 - [Blog](https://hashnode.com/@danielhochleitner) by Daniel Hochleitner
 - [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
-- ### [Rittmanmead - Blogs/ ](https://www.rittmanmead.com/blog/)
-- - [Rittmanmead - Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
-- - [ Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic 
-- - [ Blog](https://www.rittmanmead.com/blog/author/lucas/) by Lucas Hirschegger
-### [Blogs in blogspot] (https://blogspot.com/)
+- ### [Rittmanmead - Blogs](https://www.rittmanmead.com/blog/)
+- - [Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
+- - [Petar Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic 
+- - [Lucas Blog](https://www.rittmanmead.com/blog/author/lucas/) by Lucas Hirschegger
+### [Blogs in blogspot](https://blogspot.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
 - [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino
 - [Trent's Tech Tips ](https://apextips.blogspot.com/)

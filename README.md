@@ -180,6 +180,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [APEX Instance Tips](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP)
 - [APEX India: Learn, Conect and Collaborate](https://www.youtube.com/watch?v=mszEBHeMBDE)
 - [Getting started with AJAX in APEX](https://www.youtube.com/watch?v=ga-IgB15wDI)
+- [Low-Code and AI for Automating Invoice Processing & Approval Workflow - a customer Story](https://www.youtube.com/watch?v=TsbNU6xdQPw) by Trailcon
 - -----------
 - [Insum - Anton & Hyden - APEX Instant Tips ](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP)
 - [Insum - Hyden ](https://www.youtube.com/@Oapmpuag/videos)

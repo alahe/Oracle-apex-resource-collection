@@ -207,7 +207,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [Template component plugin](https://apex.mt-itsolutions.com/ords/r/portal/apex/template-component-challenge)
 - [TARDIA – Time And Related Datatypes In APEX ](https://www.linkedin.com/events/tardia-timeandrelateddatatypesi7081454729582575616/theater/) by Ed Jones
 
-#ADB
+# ADB
 - [Autonomous Database](https://www.oracle.com/autonomous-database/)
 - [What Is an Autonomous Database](https://www.oracle.com/autonomous-database/what-is-autonomous-database/)
 - [Autonomous Database Learning Lounge](https://blogs.oracle.com/datawarehousing/post/oracle-autonomous-database-learning-lounge)
@@ -215,6 +215,6 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [LiveLabs Workshop Series: Get Started with Autonomous Database](https://bit.ly/adb-livelabs)
 - [What’s New for Oracle Autonomous Database Serverless](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/whats-new-adwc.html#GUID-F31A86F8-012B-4235-A0BE-4ABF75164853)
 - [Under the hood of Oracle Autonomous Database: YouTube 45min video](https://www.youtube.com/watch?v=2ZPTNtoXVQ8)
-- ADB Learning Lounge[New Autonomous Database features announced at Oracle CloudWorld'23 (EMEA edition)](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=22387)
+- [New Autonomous Database features announced at Oracle CloudWorld'23 (EMEA edition)](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=22387)  ADB Learning Lounge
 - [Database Expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home)
 - [Migrate Oracle Databases to OCI](https://www.oracle.com/database/cloud-migration/)

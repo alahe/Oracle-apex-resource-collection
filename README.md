@@ -5,7 +5,7 @@
  
 -->
 
-# Oracle APEX and ADB resource collection
+# Oracle APEX resource collection
 _All about Oracle APEX and ADB.  Tutorial, Videos, Blogs, Tips nad tricks, Important website._
 _My backup memory_
 

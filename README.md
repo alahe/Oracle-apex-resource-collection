@@ -161,6 +161,9 @@ _My backup memory_
 - [Oracle APEX for Forms Developers ](https://prezi.com/i52u-kdd2gmu/oracle-apex-for-forms-developers/) by Scott Wesley
 - [Office Hours - Forms Modernization ](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=4825) by  Joel Kallman
 
+## Files
+- [Upload Multiple Files to Oracle Object Storage from an Oracle Apex Application](https://medium.com/oracledevs/upload-multiple-files-to-oracle-object-storage-from-an-oracle-apex-application-90e10c47e9d0) in Medium
+- []()
 
 ## ORDS
 - Jon Dixon - [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs)
@@ -203,6 +206,8 @@ _My backup memory_
 ## Apex Learning
 - [Become An Oracle APEX Developer Professional - 2023](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional-2023/121230)
 - [Dev Gym - Databases for Developers: Foundations](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) by Chris Saxon
+- [Welcome to the Oracle Certview Portal](https://brm-certification.oracle.com/apex/f?p=1111:2:884964841994::NO:::)
+- [My Learning](https://mylearn.oracle.com/ou/home)
 
 ## Misc
 - [Ask Max Solution ](https://askmax.solutions/ords/r/askmax/home/home)
@@ -222,12 +227,25 @@ _My backup memory_
 - [Autonomous Database Demonstrations](https://www.oracle.com/database/autonomous-database/adb-demos/)
 - [LiveLabs Workshop Series: Get Started with Autonomous Database](https://bit.ly/adb-livelabs)
 - [What’s New for Oracle Autonomous Database Serverless](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/whats-new-adwc.html#GUID-F31A86F8-012B-4235-A0BE-4ABF75164853)
-
 - [Under the hood of Oracle Autonomous Database: YouTube 45min video](https://www.youtube.com/watch?v=2ZPTNtoXVQ8)
 - [New Autonomous Database features announced at Oracle CloudWorld'23 (EMEA edition)](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=22387)  ADB Learning Lounge
 - [Database Expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home)
 - [Migrate Oracle Databases to OCI](https://www.oracle.com/database/cloud-migration/)
 - [Database Error Messages](https://docs.oracle.com/en/error-help/db/index.html)
+- [Databases Are Fun](https://dohdatabase.com/webinars/) for DBA
+
+## Tips and Tricks
+ - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
+
+
+## Globalizations
+- [SYSDATE vs. CURRENT_DATE in Oracle Database](https://database-heartbeat.com/2021/09/28/sysdate-vs-current_date-in-oracle-database/) by Sinan Petrus Toma
+- [Awesome DATE / TIMESTAMP enhancement in Autonomous Database](https://connor-mcdonald.com/2022/02/02/awesome-date-timestamp-enhancement-in-autonomous-database/) by  Connor McDonald
+- [Oracle Database Features in Autonomous Database on Dedicated Exadata Infrastructure](https://docs.oracle.com/en-us/iaas/autonomous-database/doc/features-and-characteristics.html?Highlight=SYSDATE_AT_DBTIMEZONE)
+
+
+## Migration
+- [Oracle Database Upgrades and Migrations](https://www.youtube.com/channel/UCTKvCZwAbOeTSRFQDAh7yXw) - Youtube channel
 
 ## Development and CI/CD
 - [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)
@@ -235,17 +253,35 @@ _My backup memory_
 
 ## ADB presentations
 -[Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019
+[Move to the Cloud](https://dohdatabase.files.wordpress.com/2022/02/move_to_the_cloud.pdf) by Roy F. Swonger, Mike Dietrich, Daniel Overby Hansen, William Beauregard, Rodrigo Jorge,  2022
 
 ## Security
 - [AskTom DB Security](https://github.com/oradbsec/AskTomDBSecurity/tree/main) 
 - [Oracle Proxy User Accounts](https://www.dbsecworx.com/res_code/proxy_users.html)
 - [Oracle users](https://www.morganslibrary.org/reference/users.html#upxy) by Morgans Library .org
+- [DB Security Data Masking and Subsetting](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=704&p210_wec=&session=2881795731005) - LiveLabs
+- [Database Security Office Hours](https://asktom.oracle.com/ords/r/tech/catalog/series-landing-page?p5_oh_id=3661)
+- [Oracle Database Vault Academy ("DV Academy")]([https://github.com/oradbsec](https://github.com/oradbsec/DV/tree/main/Academy)) - GitHub
+- [Oracle Database Security – Encryption and Decryption ](https://codingsight.com/oracle-database-security-encryption-and-decryption/) - by  ANDREEA-ELENA PANAIT,  Coding}Sight 2018
+- [Database Vault Use Cases - Part 1](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=6145) - Office hours
+- [Database Vault Basics Part 1- Enforcing a Trusted Path to Data](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=6974)- Office hours
+- [Database Vault Advanced Use Cases - Part 2](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=6147)- Office hours
+- [Oracle Database Vault Deployment Strategies](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=18507)- Office hours
+- [Oracle Database Vault on Autonomous Database: Quickly and Easily](https://blogs.oracle.com/datawarehousing/post/oracle-database-vault-on-autonomous-database-quickly-and-easily) by Can Tuzla, 2020
+- [DB Security - Database Vault](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=682) - LiveLabs
+- [Securing a legacy application using Oracle Database Vault on Oracle Autonomous Database](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=3530) - Livelabs
+- [Administering Oracle Data Safe](https://docs.oracle.com/en/cloud/paas/data-safe/admds/tasks-that-require-permissions.html#GUID-D6EE7D8E-BD90-4482-B258-251A98D03E02) - Help Center
+- [DB - Oracle Advanced Security](https://www.oracle.com/security/database-security/advanced-security/#rc30p5)
+- 
+- []()
+- []()
 
 
 # OCI
 - [What can we help you find?](https://docs.oracle.com/en/) - Help Center
 - [Oracle Cloud Infrastructure Documentation](https://docs.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm) - Help Center
 - [Oracle Cloud Infrastructure CLI Command Reference](https://docs.oracle.com/en-us/iaas/tools/oci-cli/3.37.2/oci_cli_docs/)
+- [Developer Community](https://forums.oracle.com/ords/apexds/domain/dev-community)
 
 
 ## OCI Best practise

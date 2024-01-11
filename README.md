@@ -232,6 +232,11 @@ _My backup memory_
 ## ADB presentations
 -[Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019
 
+## Security
+- [AskTom DB Security](https://github.com/oradbsec/AskTomDBSecurity/tree/main) 
+- [Oracle Proxy User Accounts](https://www.dbsecworx.com/res_code/proxy_users.html)
+- [Oracle users](https://www.morganslibrary.org/reference/users.html#upxy) by Morgans Library .org
+
 
 # OCI
 - [What can we help you find?](https://docs.oracle.com/en/) - Help Center

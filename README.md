@@ -6,7 +6,7 @@
 -->
 
 # Oracle APEX resource collection
-_All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important website._
+_All about Oracle APEX & ADB.  Tutorial, Videos, Blogs, Tips nad tricks, Important website._
 _My backup memory for Oracle APEX and ADB information._
 
 </header>

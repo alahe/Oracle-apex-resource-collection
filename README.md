@@ -164,7 +164,7 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - Jon Dixon - [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs)
 
 ## UX & APEX
-  - [UX and APEX]([https://flowsforapex.org/](https://www.dropbox.com/s/di85yi9svo1zbxo/AAA_UX.mp4?dl=0)
+  - [UX and APEX](https://www.dropbox.com/s/di85yi9svo1zbxo/AAA_UX.mp4?dl=0)
 
 ## Flows for APEX
   - [Flows for APEX](https://flowsforapex.org/)

@@ -220,7 +220,9 @@ _My backup memory_
 # ADB
 - [Autonomous Database](https://www.oracle.com/autonomous-database/)
 - [Oracle Autonomous Database](https://docs.oracle.com/en/cloud/paas/autonomous-database/index.html) - Help Center
+- [The Autonomous Database Insider](https://blogs.oracle.com/datawarehousing/category/dwh-newsletter)
 - [What Is an Autonomous Database](https://www.oracle.com/autonomous-database/what-is-autonomous-database/)
+- [Get started with Autonomous Database](https://www.oracle.com/autonomous-database/get-started/)
 - [Using Oracle Autonomous Database Serverless](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/index.html#Oracle%C2%AE-Cloud)
 - [Oracle Autonomous Database on Dedicated Exadata Infrastructure](https://docs.oracle.com/en/cloud/paas/autonomous-database/dedicated/adbaa/#articletitle)
 - [Autonomous Database Learning Lounge](https://blogs.oracle.com/datawarehousing/post/oracle-autonomous-database-learning-lounge)
@@ -233,6 +235,7 @@ _My backup memory_
 - [Migrate Oracle Databases to OCI](https://www.oracle.com/database/cloud-migration/)
 - [Database Error Messages](https://docs.oracle.com/en/error-help/db/index.html)
 - [Databases Are Fun](https://dohdatabase.com/webinars/) for DBA
+- [Questions tagged oracle-autonomous-db](https://stackoverflow.com/questions/tagged/oracle-autonomous-db?tab=newest&pagesize=50) in Stackoverflow
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald

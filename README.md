@@ -15,6 +15,7 @@ _My backup memory_
 
 ## General
 - [APEX Document](https://docs.oracle.com/en/database/oracle/apex/)
+- [App Builder User's Guide](https://docs.oracle.com/en/database/oracle/apex/23.1/htmdb/index.html#Oracle%C2%AE-APEX)
 - [Javascript API doc](https://apex.oracle.com/jsapi)
 - [PL/SQL API](https://apex.oracle.com/api)
 - [APEX Forum](https://forums.oracle.com/ords/apexds/domain/dev-community/category/apex)
@@ -213,13 +214,32 @@ _My backup memory_
 
 # ADB
 - [Autonomous Database](https://www.oracle.com/autonomous-database/)
+- [Oracle Autonomous Database](https://docs.oracle.com/en/cloud/paas/autonomous-database/index.html) - Help Center
 - [What Is an Autonomous Database](https://www.oracle.com/autonomous-database/what-is-autonomous-database/)
+- [Using Oracle Autonomous Database Serverless](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/index.html#Oracle%C2%AE-Cloud)
+- [Oracle Autonomous Database on Dedicated Exadata Infrastructure](https://docs.oracle.com/en/cloud/paas/autonomous-database/dedicated/adbaa/#articletitle)
 - [Autonomous Database Learning Lounge](https://blogs.oracle.com/datawarehousing/post/oracle-autonomous-database-learning-lounge)
 - [Autonomous Database Demonstrations](https://www.oracle.com/database/autonomous-database/adb-demos/)
 - [LiveLabs Workshop Series: Get Started with Autonomous Database](https://bit.ly/adb-livelabs)
 - [What’s New for Oracle Autonomous Database Serverless](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/whats-new-adwc.html#GUID-F31A86F8-012B-4235-A0BE-4ABF75164853)
+- [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)
 - [Under the hood of Oracle Autonomous Database: YouTube 45min video](https://www.youtube.com/watch?v=2ZPTNtoXVQ8)
 - [New Autonomous Database features announced at Oracle CloudWorld'23 (EMEA edition)](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=22387)  ADB Learning Lounge
 - [Database Expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home)
 - [Migrate Oracle Databases to OCI](https://www.oracle.com/database/cloud-migration/)
 - [Database Error Messages](https://docs.oracle.com/en/error-help/db/index.html)
+
+## ADB presentations
+-[Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019
+
+
+# OCI
+- [What can we help you find?](https://docs.oracle.com/en/) - Help Center
+- [Oracle Cloud Infrastructure Documentation](https://docs.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm) - Help Center
+- [Oracle Cloud Infrastructure CLI Command Reference](https://docs.oracle.com/en-us/iaas/tools/oci-cli/3.37.2/oci_cli_docs/)
+
+
+## OCI Best practise
+  - [Best practices framework for Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/oci-best-practices/toc.htm#Table-of-Contents)
+  - [](https://docs.oracle.com/en/cloud/paas/autonomous-database/index.html)
+  

@@ -221,4 +221,4 @@ _All about Oracle APEX.  Tutorial, Videos, Blogs, Tips nad tricks, Important web
 - [New Autonomous Database features announced at Oracle CloudWorld'23 (EMEA edition)](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=22387)  ADB Learning Lounge
 - [Database Expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home)
 - [Migrate Oracle Databases to OCI](https://www.oracle.com/database/cloud-migration/)
-- [ORA-errors](https://docs.oracle.com/en/error-help/db/index.html)
+- [Database Error Messages](https://docs.oracle.com/en/error-help/db/index.html)

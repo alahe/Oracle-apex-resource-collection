@@ -22,8 +22,9 @@ _My backup memory_
 - [Office Hours](https://asktom.oracle.com/ords/r/tech/catalog/home)
 - [LiveLabs](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [LiveSQL](https://apex.oracle.com/quicksql)
+- ----------------
 - [Shortcuts](https://apex.oracle.com/pls/apex/f?p=411:18)
-- [Awesome Oracle APEX ](https://github.com/Dani3lSun/awesome-orclapex) by Daniel Hochleitner
+- [Links - Awesome Oracle APEX ](https://github.com/Dani3lSun/awesome-orclapex) by Daniel Hochleitner
   
 
 ## Blogs
@@ -103,8 +104,8 @@ _My backup memory_
 ---
 ## DevOps - CI/CD
 - [DevOps](https://apex.mt-itsolutions.com/ords/r/portal/apex/devops?session=100662757604)
-- [Toufiq Mohammed - Oracle APEX Application Development Lifecycle ](https://www.linkedin.com/events/toufiqmohammed-oracleapexapplic7048855778593542144/theater/)
-- [Youtube: Shay Shmeltzer - Oracle APEX Development Lifecycle - Git and Continuous Delivery Automation](https://youtu.be/JiP1jKO-nx8?si=DCKognz7aWOrP1pr)
+- [Oracle APEX Application Development Lifecycle ](https://www.linkedin.com/events/toufiqmohammed-oracleapexapplic7048855778593542144/theater/) by Toufiq Mohammed 
+- [Youtube: Oracle APEX Development Lifecycle - Git and Continuous Delivery Automation](https://youtu.be/JiP1jKO-nx8?si=DCKognz7aWOrP1pr) by Shay Shmeltzer
 - [Testing PL/SQL in your Ci/Cd pipeline with utPLSQL](https://youtu.be/rgbAG8RgR9U?si=Mqu8s4--URDGjcNq) by Blaine Carter
 
 ## Source, Github 
@@ -144,7 +145,7 @@ _My backup memory_
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
 
 ## Testing
- - [MT ITsolution: Low Code Testing - UI testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en)
+ - [Low Code Testing - UI testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en) by MT IT Solution
  - [Youtube - Oracle Developers: - Testing with utPLSQL](https://youtu.be/5WGHplRgXzQ?si=VyGa2Te5cAOZcY2R)
  - [utPLSQL.org - home](https://www.utplsql.org/utPLSQL/v2.3.1/index.html)
  - [Youtube: utPLSQL channel](https://www.youtube.com/playlist?list=PL25b72h8A54fbucEfvH3C2Q1yMqGhc15o)
@@ -163,10 +164,9 @@ _My backup memory_
 
 ## Files
 - [Upload Multiple Files to Oracle Object Storage from an Oracle Apex Application](https://medium.com/oracledevs/upload-multiple-files-to-oracle-object-storage-from-an-oracle-apex-application-90e10c47e9d0) in Medium
-- []()
 
 ## ORDS
-- Jon Dixon - [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs)
+- [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs) by Jon Dixon 
 
 ## UX & APEX
   - [UX and APEX](https://www.dropbox.com/s/di85yi9svo1zbxo/AAA_UX.mp4?dl=0)
@@ -201,7 +201,6 @@ _My backup memory_
 ## Community
 - [Ask questions from cummunity Stackoverflow ](https://stackoverflow.com/questions/tagged/oracle-apex)
 - [APEX Forums](https://forums.oracle.com/ords/apexds/domain/dev-community/category/apex)
-- 
 
 ## Apex Learning
 - [Become An Oracle APEX Developer Professional - 2023](https://mylearn.oracle.com/ou/learning-path/become-an-oracle-apex-developer-professional-2023/121230)
@@ -264,7 +263,7 @@ _My backup memory_
 - [Oracle users](https://www.morganslibrary.org/reference/users.html#upxy) by Morgans Library .org
 - [DB Security Data Masking and Subsetting](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=704&p210_wec=&session=2881795731005) - LiveLabs
 - [Database Security Office Hours](https://asktom.oracle.com/ords/r/tech/catalog/series-landing-page?p5_oh_id=3661)
-- [Oracle Database Vault Academy ("DV Academy")]([https://github.com/oradbsec](https://github.com/oradbsec/DV/tree/main/Academy)) - GitHub
+- [Oracle Database Vault Academy "DV Academy"](https://github.com/oradbsec/DV/tree/main/Academy) - GitHub
 - [Oracle Database Security – Encryption and Decryption ](https://codingsight.com/oracle-database-security-encryption-and-decryption/) - by  ANDREEA-ELENA PANAIT,  Coding}Sight 2018
 - [Database Vault Use Cases - Part 1](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=6145) - Office hours
 - [Database Vault Basics Part 1- Enforcing a Trusted Path to Data](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=6974)- Office hours
@@ -275,9 +274,6 @@ _My backup memory_
 - [Securing a legacy application using Oracle Database Vault on Oracle Autonomous Database](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=3530) - Livelabs
 - [Administering Oracle Data Safe](https://docs.oracle.com/en/cloud/paas/data-safe/admds/tasks-that-require-permissions.html#GUID-D6EE7D8E-BD90-4482-B258-251A98D03E02) - Help Center
 - [DB - Oracle Advanced Security](https://www.oracle.com/security/database-security/advanced-security/#rc30p5)
-- 
-- []()
-- []()
 
 
 # OCI

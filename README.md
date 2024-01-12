@@ -290,6 +290,16 @@ _My backup memory_
 - [Oracle Cloud Infrastructure CLI Command Reference](https://docs.oracle.com/en-us/iaas/tools/oci-cli/3.37.2/oci_cli_docs/)
 - [Developer Community](https://forums.oracle.com/ords/apexds/domain/dev-community)
 
+# Video
+- [Oracle Video Hub](https://videohub.oracle.com/)
+- [OCI in 5](https://www.oracle.com/uk/cloud/architecture-center/oci-in-5/#free-tier)
+- [Oracle Office Hours](https://apexadb.oracle.com/ords/r/tech/catalog/videos?clear=22&session=501692299967767&cs=34UOyPUED9INcvHgWDZNcz3pgYKNlEGNlfIZGBGXxU4wrQadFv_B-MX5wyhTHTQ0TTwsWgce6HHtY1Mv7lmvygA)
+
+# OCI events
+- [Cloud Coaching events](https://www.oracle.com/emea/cloud/events/cloud-coaching/)
+- [Oracle Cloud Infrastructure Events](https://community.oracle.com/customerconnect/categories/events-oci)
+- [Oracle CloudWorld - sessions](https://reg.rf.oracle.com/flow/oracle/cwoh23/catalog/page/catalog)
+- [Oracle Tech Lounge](https://go.oracle.com/LP=138585?src1=:em:lw:ie:mt:::RC_WWMK230907P00020:SEV400311685&elq_mid=247900&sh=0712180512072614140608163331351619&cmid=WWMK230907P00020)
 
 ## OCI Best practise
   - [Best practices framework for Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/oci-best-practices/toc.htm#Table-of-Contents)

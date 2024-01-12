@@ -255,8 +255,8 @@ _My backup memory_
 - [What is Liquibase and how to start using it? Automate your database scripts deployment with this Liquibase tutorial](https://pretius.com/blog/liquibase-tutorial/#basics) By Rafał Grzegorczyk, 2021
 
 ## ADB presentations
--[Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019
-[Move to the Cloud](https://dohdatabase.files.wordpress.com/2022/02/move_to_the_cloud.pdf) by Roy F. Swonger, Mike Dietrich, Daniel Overby Hansen, William Beauregard, Rodrigo Jorge,  2022
+- [Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019
+- [Move to the Cloud](https://dohdatabase.files.wordpress.com/2022/02/move_to_the_cloud.pdf) by Roy F. Swonger, Mike Dietrich, Daniel Overby Hansen, William Beauregard, Rodrigo Jorge,  2022
 
 ## Security
 - [AskTom DB Security](https://github.com/oradbsec/AskTomDBSecurity/tree/main) 

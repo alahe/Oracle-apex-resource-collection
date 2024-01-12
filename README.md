@@ -243,6 +243,9 @@ _My backup memory_
 - [Databases Are Fun](https://dohdatabase.com/webinars/) for DBA
 - [Questions tagged oracle-autonomous-db](https://stackoverflow.com/questions/tagged/oracle-autonomous-db?tab=newest&pagesize=50) in Stackoverflow
 
+## Blogs
+- [](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)
+
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
 
@@ -260,10 +263,12 @@ _My backup memory_
 - [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)
 - [What is Liquibase and how to start using it? Automate your database scripts deployment with this Liquibase tutorial](https://pretius.com/blog/liquibase-tutorial/#basics) By Rafał Grzegorczyk, 2021
 - [Oracle PL/SQL Debugging with SQL Developer](https://www.youtube.com/watch?v=rBA8gL8NyXE&t=3s) By Jeff Smith
+- [Learn to manage cloud code repositories (GitHub, Azure Repos, AWS CodeCommit) with Autonomous Database](https://blogs.oracle.com/datawarehousing/post/cloud-code-repositories-in-autonomous-database)
 
 ## ADB presentations
 - [Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019
 - [Move to the Cloud](https://dohdatabase.files.wordpress.com/2022/02/move_to_the_cloud.pdf) by Roy F. Swonger, Mike Dietrich, Daniel Overby Hansen, William Beauregard, Rodrigo Jorge,  2022
+
 
 ## Security
 - [AskTom DB Security](https://github.com/oradbsec/AskTomDBSecurity/tree/main) 
@@ -292,16 +297,16 @@ _My backup memory_
 
 # Video
 - [Oracle Video Hub](https://videohub.oracle.com/)
+- [Cloud Coaching](https://developer.oracle.com/events/cloud-coaching.html)
 - [OCI in 5](https://www.oracle.com/uk/cloud/architecture-center/oci-in-5/#free-tier)
 - [Oracle Office Hours](https://apexadb.oracle.com/ords/r/tech/catalog/videos?clear=22&session=501692299967767&cs=34UOyPUED9INcvHgWDZNcz3pgYKNlEGNlfIZGBGXxU4wrQadFv_B-MX5wyhTHTQ0TTwsWgce6HHtY1Mv7lmvygA)
 
 # OCI events
-- [Cloud Coaching events](https://www.oracle.com/emea/cloud/events/cloud-coaching/)
+- [Cloud Coaching events](https://www.oracle.com/emea/cloud/events/cloud-coaching/) by EMEA
 - [Oracle Cloud Infrastructure Events](https://community.oracle.com/customerconnect/categories/events-oci)
 - [Oracle CloudWorld - sessions](https://reg.rf.oracle.com/flow/oracle/cwoh23/catalog/page/catalog)
 - [Oracle Tech Lounge](https://go.oracle.com/LP=138585?src1=:em:lw:ie:mt:::RC_WWMK230907P00020:SEV400311685&elq_mid=247900&sh=0712180512072614140608163331351619&cmid=WWMK230907P00020)
 
 ## OCI Best practise
   - [Best practices framework for Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/oci-best-practices/toc.htm#Table-of-Contents)
-  - [](https://docs.oracle.com/en/cloud/paas/autonomous-database/index.html)
-  
+  - [Best Practices for Compartments](https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments)

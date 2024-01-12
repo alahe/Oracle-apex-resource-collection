@@ -128,7 +128,7 @@ _My backup memory_
 - [Cards](https://apex.oracle.com/go/sample_cards)
 - [Maps](https://apex.oracle.com/go/sample_maps)
 - [Progressive Web Apps in APEX](https://apex.oracle.com/go/pwa)
-- [Apex Release Notes](https://apex.mt-itsolutions.com/ords/tools/r/release/notes)
+- [Apex Release Notes](https://apex.mt-itsolutions.com/ords/tools/r/release/notes) by MT IT Solutions
 - [ORAdiff](https://oradiff.oracle.com/ords/r/oradiff/oradiff/home)
 - [Database expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home?session=416975919135629)
 - ---
@@ -145,7 +145,7 @@ _My backup memory_
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
 
 ## Testing
- - [Low Code Testing - UI testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en) by MT IT Solution
+ - [Low Code Testing - UI testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en) by MT IT Solutions
  - [Youtube - Oracle Developers: - Testing with utPLSQL](https://youtu.be/5WGHplRgXzQ?si=VyGa2Te5cAOZcY2R)
  - [utPLSQL.org - home](https://www.utplsql.org/utPLSQL/v2.3.1/index.html)
  - [Youtube: utPLSQL channel](https://www.youtube.com/playlist?list=PL25b72h8A54fbucEfvH3C2Q1yMqGhc15o)

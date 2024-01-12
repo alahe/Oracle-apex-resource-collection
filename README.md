@@ -94,7 +94,10 @@ _My backup memory_
 - [Blog in Blogspot](https://dgielis.blogspot.com/) by Dimitri Gielis
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
-- [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta 
+- [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
+-----
+   [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
+   [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
 
 
 ## GitHub & APEX
@@ -143,6 +146,10 @@ _My backup memory_
 
 ## Security
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
+
+## Debugging
+- [Debugging in Oracle APEX](https://www.youtube.com/watch?v=VVr8dybBeuE)
+- []()
 
 ## Testing
  - [Low Code Testing - UI testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en) by MT IT Solutions

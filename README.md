@@ -252,6 +252,7 @@ _My backup memory_
 ## Development and CI/CD
 - [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)
 - [What is Liquibase and how to start using it? Automate your database scripts deployment with this Liquibase tutorial](https://pretius.com/blog/liquibase-tutorial/#basics) By Rafał Grzegorczyk, 2021
+- [Oracle PL/SQL Debugging with SQL Developer](https://www.youtube.com/watch?v=rBA8gL8NyXE&t=3s) By Jeff Smith
 
 ## ADB presentations
 - [Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019

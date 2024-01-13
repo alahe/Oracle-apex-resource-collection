@@ -278,6 +278,7 @@ _My backup memory_
 - [Database Security Office Hours](https://asktom.oracle.com/ords/r/tech/catalog/series-landing-page?p5_oh_id=3661)
 - [Oracle Database Vault Academy "DV Academy"](https://github.com/oradbsec/DV/tree/main/Academy) - GitHub
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity) -Github
+- [ Critical Patch Updates, Security Alerts, and Bulletins ](https://www.oracle.com/security-alerts/) 
 - [Oracle Database Security – Encryption and Decryption ](https://codingsight.com/oracle-database-security-encryption-and-decryption/) - by  ANDREEA-ELENA PANAIT,  Coding}Sight 2018
 - [Database Vault Use Cases - Part 1](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=6145) - Office hours
 - [Database Vault Basics Part 1- Enforcing a Trusted Path to Data](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=6974)- Office hours

@@ -277,7 +277,7 @@ _My backup memory_
 - [DB Security Data Masking and Subsetting](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=704&p210_wec=&session=2881795731005) - LiveLabs
 - [Database Security Office Hours](https://asktom.oracle.com/ords/r/tech/catalog/series-landing-page?p5_oh_id=3661)
 - [Oracle Database Vault Academy "DV Academy"](https://github.com/oradbsec/DV/tree/main/Academy) - GitHub
-- [skTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity) -Github
+- [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity) -Github
 - [Oracle Database Security – Encryption and Decryption ](https://codingsight.com/oracle-database-security-encryption-and-decryption/) - by  ANDREEA-ELENA PANAIT,  Coding}Sight 2018
 - [Database Vault Use Cases - Part 1](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=6145) - Office hours
 - [Database Vault Basics Part 1- Enforcing a Trusted Path to Data](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=6974)- Office hours

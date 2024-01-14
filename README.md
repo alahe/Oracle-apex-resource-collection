@@ -160,9 +160,10 @@ _My backup memory_
  - [utPLSQL.org - home](https://www.utplsql.org/utPLSQL/v2.3.1/index.html)
  - [Youtube: utPLSQL channel](https://www.youtube.com/playlist?list=PL25b72h8A54fbucEfvH3C2Q1yMqGhc15o)
  - [Source: GitHUb - utPLSQL ](https://github.com/utPLSQL)
- - [Youtube - OracleMania: Testing with utPLSQL – Made Easy with SQL Developer by Philipp Salvisberg](https://youtu.be/B7qWmF4rDd4?si=q5jLsIbxH6-wB5iD)
- - [Youtube - EMEA EOUC: Lino Schildenfeld: Cypress and APEX automated testing](https://www.youtube.com/watch?v=mSO0m-4uxGw)
+ - [Youtube - OracleMania: Testing with utPLSQL – Made Easy with SQL Developer](https://youtu.be/B7qWmF4rDd4?si=q5jLsIbxH6-wB5iD) by Philipp Salvisberg
+ - [Youtube - EMEA EOUC: Cypress and APEX automated testing](https://www.youtube.com/watch?v=mSO0m-4uxGw) by Lino Schildenfeld
  - [Youtube - Insum: Advanced APEX UI Test Automation with Cypress](https://youtu.be/QFzN_0soxiQ?si=eUFDUlbiycdygrdC)
+ - [Testing With utPLSQL – Made Easy With SQL Developer](https://www.salvis.com/blog/2022/07/31/testing-with-utplsql-made-easy-with-sql-developer/) by Philipp Salvisberg
 
 ## Forms to Apex
 - [Forms goes APEX](https://apex.mt-itsolutions.com/ords/r/portal/apex/forms-goes-apex?session=100662757604)
@@ -248,6 +249,7 @@ _My backup memory_
 
 ## Blogs
 - [2023 in Review for Autonomous Database on Dedicated Exadata Infrastructure](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)
+- [Database-centric development blog ](https://www.salvis.com/blog/) by Philipp Salvisberg
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald

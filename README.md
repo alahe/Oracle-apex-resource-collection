@@ -148,8 +148,9 @@ _My backup memory_
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
 
 ## Debugging
+- [APEX Debugging 101](https://www.youtube.com/watch?v=GDfN45Vq9WA) by Peter Raganitsch
 - [Debugging in Oracle APEX](https://www.youtube.com/watch?v=VVr8dybBeuE)
-- []()
+- [Enhancing the APEX Debugger ](https://content.dsp.co.uk/apex/enhancing-apex-debugger) by Matt Mulvanye, 2019
 
 ## Testing
  - [Low Code Testing - UI testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en) by MT IT Solutions
@@ -244,7 +245,7 @@ _My backup memory_
 - [Questions tagged oracle-autonomous-db](https://stackoverflow.com/questions/tagged/oracle-autonomous-db?tab=newest&pagesize=50) in Stackoverflow
 
 ## Blogs
-- [](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)
+- [2023 in Review for Autonomous Database on Dedicated Exadata Infrastructure](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
@@ -261,6 +262,7 @@ _My backup memory_
 
 ## Development and CI/CD
 - [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)
+- [Morgan Library ](https://www.morganslibrary.org/library.html) 
 - [What is Liquibase and how to start using it? Automate your database scripts deployment with this Liquibase tutorial](https://pretius.com/blog/liquibase-tutorial/#basics) By Rafał Grzegorczyk, 2021
 - [Oracle PL/SQL Debugging with SQL Developer](https://www.youtube.com/watch?v=rBA8gL8NyXE&t=3s) By Jeff Smith
 - [Learn to manage cloud code repositories (GitHub, Azure Repos, AWS CodeCommit) with Autonomous Database](https://blogs.oracle.com/datawarehousing/post/cloud-code-repositories-in-autonomous-database)
@@ -291,7 +293,6 @@ _My backup memory_
 - [Administering Oracle Data Safe](https://docs.oracle.com/en/cloud/paas/data-safe/admds/tasks-that-require-permissions.html#GUID-D6EE7D8E-BD90-4482-B258-251A98D03E02) - Help Center
 - [DB - Oracle Advanced Security](https://www.oracle.com/security/database-security/advanced-security/#rc30p5)
 - [Proxy Authentication](https://docs.oracle.com/en/database/oracle/oracle-database/19/dbseg/configuring-authentication.html#GUID-F2004DF1-1122-4614-9D3D-2F8330855A93)
-- []()
 
 
 # OCI

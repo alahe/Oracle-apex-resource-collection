@@ -273,6 +273,7 @@ _My backup memory_
 ## Security
 - [AskTom DB Security](https://github.com/oradbsec/AskTomDBSecurity/tree/main) 
 - [Oracle Proxy User Accounts](https://www.dbsecworx.com/res_code/proxy_users.html)
+- [Morgan Library ](https://www.morganslibrary.org/library.html) 
 - [Oracle users](https://www.morganslibrary.org/reference/users.html#upxy) by Morgans Library .org
 - [DB Security Data Masking and Subsetting](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=704&p210_wec=&session=2881795731005) - LiveLabs
 - [Database Security Office Hours](https://asktom.oracle.com/ords/r/tech/catalog/series-landing-page?p5_oh_id=3661)
@@ -289,6 +290,8 @@ _My backup memory_
 - [Securing a legacy application using Oracle Database Vault on Oracle Autonomous Database](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=3530) - Livelabs
 - [Administering Oracle Data Safe](https://docs.oracle.com/en/cloud/paas/data-safe/admds/tasks-that-require-permissions.html#GUID-D6EE7D8E-BD90-4482-B258-251A98D03E02) - Help Center
 - [DB - Oracle Advanced Security](https://www.oracle.com/security/database-security/advanced-security/#rc30p5)
+- [Proxy Authentication](https://docs.oracle.com/en/database/oracle/oracle-database/19/dbseg/configuring-authentication.html#GUID-F2004DF1-1122-4614-9D3D-2F8330855A93)
+- []()
 
 
 # OCI

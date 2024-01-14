@@ -149,6 +149,7 @@ _My backup memory_
 
 ## Debugging
 - [APEX Debugging 101](https://www.youtube.com/watch?v=GDfN45Vq9WA) by Peter Raganitsch, Apex@Home 2020
+- [APEX Debugging Playground](https://apex.oracle.com/pls/apex/f?p=25355:1::::::) app by Peter Raganitsch
 - [Using the PL/SQL Debugger](https://www.youtube.com/watch?v=b7Q55YvrcgA&list=PLPIzp-E1msrblCGG4bOcg1wnNHj2QnIqZ&index=5&t=4s) by Philipp Salvisberg, Apex@Home 2020
 - [Debugging in Oracle APEX](https://www.youtube.com/watch?v=VVr8dybBeuE) by Malik Sikandar Hayat, 2023
 - [Enhancing the APEX Debugger ](https://content.dsp.co.uk/apex/enhancing-apex-debugger) by Matt Mulvanye, 2019

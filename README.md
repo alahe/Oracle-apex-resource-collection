@@ -148,7 +148,8 @@ _My backup memory_
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
 
 ## Debugging
-- [APEX Debugging 101](https://www.youtube.com/watch?v=GDfN45Vq9WA) by Peter Raganitsch
+- [APEX Debugging 101](https://www.youtube.com/watch?v=GDfN45Vq9WA) by Peter Raganitsch, Apex@Home 2020
+- [Using the PL/SQL Debugger](https://www.youtube.com/watch?v=b7Q55YvrcgA&list=PLPIzp-E1msrblCGG4bOcg1wnNHj2QnIqZ&index=5&t=4s) by Philipp Salvisberg, Apex@Home 2020
 - [Debugging in Oracle APEX](https://www.youtube.com/watch?v=VVr8dybBeuE)
 - [Enhancing the APEX Debugger ](https://content.dsp.co.uk/apex/enhancing-apex-debugger) by Matt Mulvanye, 2019
 

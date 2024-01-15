@@ -154,6 +154,7 @@ _My backup memory_
 - [Debugging in Oracle APEX](https://www.youtube.com/watch?v=VVr8dybBeuE) by Malik Sikandar Hayat, 2023
 - [Enhancing the APEX Debugger ](https://content.dsp.co.uk/apex/enhancing-apex-debugger) by Matt Mulvanye, 2019
 - [How to Quickly Debug a PL/SQL Body Returning a SQL Query for a Report in Oracle APEX](https://www.youtube.com/watch?v=sY5qgqUK604) by Chip Baber
+- [APEX Instant Tips #12: How to remote debug a user's session ](https://www.youtube.com/watch?v=fNO4qwvDReM) by Anton, Hayden and Joel
 
 ## Testing
  - [Low Code Testing - UI testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en) by MT IT Solutions
@@ -210,6 +211,7 @@ _My backup memory_
 - -----------
 - [APEX CloudWorld23 short](https://www.dropbox.com/scl/fi/4txcfqwnocwyo4l9oflnl/APEX_CloudWorld23.mp4?rlkey=704fgs89nddw9iabpkx640aj3&dl=0)
 - [Youtube playlist: Technology and Coding ](https://www.youtube.com/playlist?list=PLsnBif_-5JnA8Hzvp8e1bQ3fo6VEvYEB0) by Chip Baber
+- [APEX Instant Tips](https://www.youtube.com/watch?v=KYdwsY7wSag&list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP) by Anton and Hayden
 
 ## Community
 - [Ask questions from cummunity Stackoverflow ](https://stackoverflow.com/questions/tagged/oracle-apex)

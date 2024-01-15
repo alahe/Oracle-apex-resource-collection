@@ -82,6 +82,7 @@ _My backup memory_
 - [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
 - [Blog](https://hashnode.com/@danielhochleitner) by Daniel Hochleitner
 - [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
+- [Oracle APEX Blog](https://epolanco.dev/) by Ender Polanco Rivas
 ### [Blogs in blogspot](https://blogspot.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
 - [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino

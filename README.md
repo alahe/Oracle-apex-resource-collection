@@ -121,7 +121,7 @@ _My backup memory_
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
 - [Ted Struik](https://tedstruik-oracle.nl/ords/f?p=25384:1::::::)
 - [Canada APEX Samples](https://apex.oracle.com/pls/apex/f?p=111708:1:107547918643401:::::)
-- [APEX AppLab - Demo](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts)
+- [APEX AppLab - Demo](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts) by Plamen Mushkov
 - [Dynamic-action.com ](https://www.juergen-schuster-it.de/ords/f?p=161:1:9068317033900:::::)
 - [APEX Debugging Playground](https://apex.oracle.com/pls/apex/f?p=25355:9:103981530529661:::::)
 - [Dynamic Actions, Javascript, & CSS for APEX Beginners ](https://apex.oracle.com/pls/apex/f?p=27882:1:100092276829851:::::) by Scott Wesley

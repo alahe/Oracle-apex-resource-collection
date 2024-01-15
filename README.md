@@ -252,7 +252,10 @@ _My backup memory_
 - [Database-centric development blog ](https://www.salvis.com/blog/) by Philipp Salvisberg
 - [All Things SQL ](https://blogs.oracle.com/sql/) by Oracle
 - - [How to compare two tables to get the different rows with SQL ](https://blogs.oracle.com/sql/post/how-to-compare-two-tables-to-get-the-different-rows-with-sql) by Chris Saxon
+- [Ask TOM Questions](https://asktom.oracle.com/ords/f?p=100:1::::1::) 
   - [Script to compare data in all tables in two different databases, if the table is present in both the databases.](https://asktom.oracle.com/ords/f?p=100:11:0::::P11_QUESTION_ID:9531089900346576427)  by  Connor McDonald
+- [ORACLE-BASE](https://oracle-base.com/)
+  - [DBMS_COMPARISON : Identify Row Differences Between Objects and Optionally Converge the Data ](https://oracle-base.com/articles/11g/dbms_comparison-identify-row-differences-between-objects) by Oracle-Base (Tim Hall)
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald

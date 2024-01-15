@@ -213,6 +213,7 @@ _My backup memory_
 - [APEX CloudWorld23 short](https://www.dropbox.com/scl/fi/4txcfqwnocwyo4l9oflnl/APEX_CloudWorld23.mp4?rlkey=704fgs89nddw9iabpkx640aj3&dl=0)
 - [Youtube playlist: Technology and Coding ](https://www.youtube.com/playlist?list=PLsnBif_-5JnA8Hzvp8e1bQ3fo6VEvYEB0) by Chip Baber
 - [APEX Instant Tips](https://www.youtube.com/watch?v=KYdwsY7wSag&list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP) by Anton and Hayden
+- [Oracle APEX Solutions ](https://www.youtube.com/@oracleapexsolutions3217/featured) 
 
 ## Community
 - [Ask questions from cummunity Stackoverflow ](https://stackoverflow.com/questions/tagged/oracle-apex)

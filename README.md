@@ -250,6 +250,7 @@ _My backup memory_
 ## Blogs
 - [2023 in Review for Autonomous Database on Dedicated Exadata Infrastructure](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)
 - [Database-centric development blog ](https://www.salvis.com/blog/) by Philipp Salvisberg
+- [Connor McDonald Blog](https://connor-mcdonald.com/)
 - [All Things SQL ](https://blogs.oracle.com/sql/) by Oracle
 - - [How to compare two tables to get the different rows with SQL ](https://blogs.oracle.com/sql/post/how-to-compare-two-tables-to-get-the-different-rows-with-sql) by Chris Saxon
 - [Ask TOM Questions](https://asktom.oracle.com/ords/f?p=100:1::::1::) 

@@ -168,6 +168,7 @@ _My backup memory_
  - [Youtube - EMEA EOUC: Cypress and APEX automated testing](https://www.youtube.com/watch?v=mSO0m-4uxGw) by Lino Schildenfeld
  - [Youtube - Insum: Advanced APEX UI Test Automation with Cypress](https://youtu.be/QFzN_0soxiQ?si=eUFDUlbiycdygrdC)
  - [Testing With utPLSQL – Made Easy With SQL Developer](https://www.salvis.com/blog/2022/07/31/testing-with-utplsql-made-easy-with-sql-developer/) by Philipp Salvisberg
+ - [](https://tm-apex.hashnode.dev/the-importance-of-software-testing)
 
 ## Forms to Apex
 - [Forms goes APEX](https://apex.mt-itsolutions.com/ords/r/portal/apex/forms-goes-apex?session=100662757604)

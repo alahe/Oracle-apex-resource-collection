@@ -335,3 +335,10 @@ _My backup memory_
 ## OCI Best practise
   - [Best practices framework for Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/oci-best-practices/toc.htm#Table-of-Contents)
   - [Best Practices for Compartments](https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments)
+
+# Development tools
+## Visual Studio code
+- [Oracle Developer Tools for VS Code](https://medium.com/oracledevs/oracle-developer-tools-for-vs-code-f26d31535925) by Christian Shay
+- [Visual Studio Code Integration with Oracle Autonomous Database](https://medium.com/oracledevs/visual-studio-code-integration-with-oracle-autonomous-database-9c558cd761fc)by Christian Shay
+- [Debugging PL/SQL with Visual Studio Code (and more)](https://medium.com/oracledevs/debugging-pl-sql-with-visual-studio-code-and-more-45631f3952cf) by Christian Shay
+- [Real-Time SQL Monitoring with Visual Studio Code](https://medium.com/oracledevs/real-time-sql-monitoring-with-visual-studio-code-9cc2178b0e75) by  Christian Shay

@@ -342,3 +342,6 @@ _My backup memory_
 - [Visual Studio Code Integration with Oracle Autonomous Database](https://medium.com/oracledevs/visual-studio-code-integration-with-oracle-autonomous-database-9c558cd761fc)by Christian Shay
 - [Debugging PL/SQL with Visual Studio Code (and more)](https://medium.com/oracledevs/debugging-pl-sql-with-visual-studio-code-and-more-45631f3952cf) by Christian Shay
 - [Real-Time SQL Monitoring with Visual Studio Code](https://medium.com/oracledevs/real-time-sql-monitoring-with-visual-studio-code-9cc2178b0e75) by  Christian Shay
+
+# Mics
+- [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

@@ -285,6 +285,9 @@ _My backup memory_
 - [What is Liquibase and how to start using it? Automate your database scripts deployment with this Liquibase tutorial](https://pretius.com/blog/liquibase-tutorial/#basics) By Rafał Grzegorczyk, 2021
 - [Oracle PL/SQL Debugging with SQL Developer](https://www.youtube.com/watch?v=rBA8gL8NyXE&t=3s) By Jeff Smith
 - [Learn to manage cloud code repositories (GitHub, Azure Repos, AWS CodeCommit) with Autonomous Database](https://blogs.oracle.com/datawarehousing/post/cloud-code-repositories-in-autonomous-database)
+- [SQLcl & Liquibase: running Oracle Scripts in a changeSe](https://www.thatjeffsmith.com/archive/2020/06/sqlcl-liquibase-running-oracle-scripts-in-a-changeset/)By Jeff Smith
+- [Dropping an Oracle table with SQLcl and Liquibase](https://www.thatjeffsmith.com/archive/2023/05/dropping-an-oracle-table-with-sqlcl-and-liquibase/)
+- [Run Liquibase updates for a specific schema with SQLcl](https://www.thatjeffsmith.com/archive/2022/12/run-liquibase-updates-for-a-specific-schema-with-sqlcl/)
 
 ## ADB presentations
 - [Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019

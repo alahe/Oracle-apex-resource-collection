@@ -346,6 +346,8 @@ _My backup memory_
 - [Debugging PL/SQL with Visual Studio Code (and more)](https://medium.com/oracledevs/debugging-pl-sql-with-visual-studio-code-and-more-45631f3952cf) by Christian Shay
 - [Real-Time SQL Monitoring with Visual Studio Code](https://medium.com/oracledevs/real-time-sql-monitoring-with-visual-studio-code-9cc2178b0e75) by  Christian Shay
 - [Use these shortcuts for selecting text in VS Code!](https://youtu.be/DL0HB_qlSVk?si=ZmwHKiA1G1IRvmpH)
+- [Oracle Developer Tools for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/oracle-developer-tools-for-vs-code) Official Community Forum
+- [SQL Developer for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/sqldev-for-vscode) Official Community Forum
 
 # Mics
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

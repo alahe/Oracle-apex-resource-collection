@@ -349,6 +349,12 @@ _My backup memory_
 - [Oracle Developer Tools for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/oracle-developer-tools-for-vs-code) Official Community Forum
 - [SQL Developer for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/sqldev-for-vscode) Official Community Forum
 
+## Forums
+- [Oracle Developer Tools for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/oracle-developer-tools-for-vs-code) Community Forum
+- [SQL Developer for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/sqldev-for-vscode) Community Forum
+- [Developer Community](https://forums.oracle.com/ords/apexds/domain/dev-community)
+- [APEX Forum](https://forums.oracle.com/ords/apexds/domain/dev-community/category/apex)
+
 # Mics
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)
 - 

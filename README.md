@@ -1,4 +1,4 @@
-<header>
+<preheader>
 
 <!--
   <<< Author notes:  header >>>
@@ -82,6 +82,7 @@ _My backup memory_
 - [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
 - [Blog](https://hashnode.com/@danielhochleitner) by Daniel Hochleitner
 - [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
+- - [Using AI to generate Oracle APEX Theme Roller Styles](https://mattmulvaney.hashnode.dev/using-ai-to-generate-oracle-apex-theme-roller-styles?source=more_articles_bottom_blogs)
 - [Oracle APEX Blog](https://epolanco.dev/) by Ender Polanco Rivas
 ### [Blogs in blogspot](https://blogspot.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)

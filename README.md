@@ -358,4 +358,3 @@ _My backup memory_
 
 # Mics
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)
-- 

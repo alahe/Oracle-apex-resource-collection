@@ -51,6 +51,7 @@ _My backup memory_
 - [TH Technology](https://thtechnology.com/)
 - [DB Tools and Cloud Ramblings](https://krisrice.io/) by Kris Rice
 - [Daniel Blog ](https://blog.danielhochleitner.de/) by Daniel Hochleitner
+- [Oracle & More. Oracle APEX - Web Development](https://blog.neilfernandez.com/) by Neil Fernandez
 ### [Rittmanmead - Blogs](https://www.rittmanmead.com/blog/)
 - [Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - [Petar Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic 
@@ -97,6 +98,9 @@ _My backup memory_
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
+----
+-[Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
+
 -----
    [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
    [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
@@ -260,6 +264,11 @@ _My backup memory_
 - [2023 in Review for Autonomous Database on Dedicated Exadata Infrastructure](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)
 - [Database-centric development blog ](https://www.salvis.com/blog/) by Philipp Salvisberg
 - [Connor McDonald Blog](https://connor-mcdonald.com/)
+- [That Jeff Smith - Mostly Making Oracle easy](https://www.thatjeffsmith.com/)
+- - [Oracle SQLcl supports your Oracle Cloud (OCI) APIs](https://www.thatjeffsmith.com/archive/2020/10/sqlcl-version-20-3-and-oci-support/)
+- - [Oracle SQLcl version 21.4: Data Pump Support](https://www.thatjeffsmith.com/archive/2021/12/oracle-sqlcl-datapump/)
+  - [SQLcl on Oracle Cloud Infrastructure (OCI)](https://www.thatjeffsmith.com/archive/2019/12/sqlcl-on-oracle-cloud-infrastructure-oci/)
+  - [REPEAT after me, it’s easy to monitor with Oracle SQLcl!](https://www.thatjeffsmith.com/archive/2023/05/repeat-after-me-its-easy-to-monitor-with-oracle-sqlcl/)
 - [All Things SQL ](https://blogs.oracle.com/sql/) by Oracle
 - - [How to compare two tables to get the different rows with SQL ](https://blogs.oracle.com/sql/post/how-to-compare-two-tables-to-get-the-different-rows-with-sql) by Chris Saxon
 - [Ask TOM Questions](https://asktom.oracle.com/ords/f?p=100:1::::1::) 
@@ -279,13 +288,16 @@ _My backup memory_
 
 ## Migration
 - [Oracle Database Upgrades and Migrations](https://www.youtube.com/channel/UCTKvCZwAbOeTSRFQDAh7yXw) - Youtube channel
+- [Oracle Databse Insider - Easy Oracle Database Migration with SQLcl](https://blogs.oracle.com/database/post/easy-oracle-database-migration-with-sqlcl)
 
 ## Development and CI/CD
 - [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)
 - [Morgan Library ](https://www.morganslibrary.org/library.html) 
 - [What is Liquibase and how to start using it? Automate your database scripts deployment with this Liquibase tutorial](https://pretius.com/blog/liquibase-tutorial/#basics) By Rafał Grzegorczyk, 2021
-- [Oracle PL/SQL Debugging with SQL Developer](https://www.youtube.com/watch?v=rBA8gL8NyXE&t=3s) By Jeff Smith
 - [Learn to manage cloud code repositories (GitHub, Azure Repos, AWS CodeCommit) with Autonomous Database](https://blogs.oracle.com/datawarehousing/post/cloud-code-repositories-in-autonomous-database)
+- 
+- [Oracle PL/SQL Debugging with SQL Developer](https://www.youtube.com/watch?v=rBA8gL8NyXE&t=3s) By Jeff Smith
+- [Oracle SQLcl supports your Oracle Cloud (OCI) APIs](https://www.thatjeffsmith.com/archive/2020/10/sqlcl-version-20-3-and-oci-support/) by Jeff Smith
 - [SQLcl & Liquibase: running Oracle Scripts in a changeSe](https://www.thatjeffsmith.com/archive/2020/06/sqlcl-liquibase-running-oracle-scripts-in-a-changeset/)By Jeff Smith
 - [Dropping an Oracle table with SQLcl and Liquibase](https://www.thatjeffsmith.com/archive/2023/05/dropping-an-oracle-table-with-sqlcl-and-liquibase/)
 - [Run Liquibase updates for a specific schema with SQLcl](https://www.thatjeffsmith.com/archive/2022/12/run-liquibase-updates-for-a-specific-schema-with-sqlcl/)
@@ -316,6 +328,7 @@ _My backup memory_
 - [Administering Oracle Data Safe](https://docs.oracle.com/en/cloud/paas/data-safe/admds/tasks-that-require-permissions.html#GUID-D6EE7D8E-BD90-4482-B258-251A98D03E02) - Help Center
 - [DB - Oracle Advanced Security](https://www.oracle.com/security/database-security/advanced-security/#rc30p5)
 - [Proxy Authentication](https://docs.oracle.com/en/database/oracle/oracle-database/19/dbseg/configuring-authentication.html#GUID-F2004DF1-1122-4614-9D3D-2F8330855A93)
+- [ORADBA - Just another Site about Oracle, Database Security, Linux, Mac OS X and more](https://www.oradba.ch/wordpress/)
 
 
 # OCI
@@ -355,7 +368,7 @@ _My backup memory_
 - [SQL Developer for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/sqldev-for-vscode) Community Forum
 - [Developer Community](https://forums.oracle.com/ords/apexds/domain/dev-community)
 - [APEX Forum](https://forums.oracle.com/ords/apexds/domain/dev-community/category/apex)
-- [Slack Oracle Developers](https://oracledevs.slack.com/join/shared_invite/zt-2a3ejt4pd-a7KwHtnviPa_~sJZixu89w#/shared-invite/email)
+- [Join - Slack Oracle Developers](https://oracledevs.slack.com/join/shared_invite/zt-2a3ejt4pd-a7KwHtnviPa_~sJZixu89w#/shared-invite/email)
 
 # Mics
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

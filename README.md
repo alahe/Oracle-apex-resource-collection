@@ -243,6 +243,7 @@ _My backup memory_
 - [TARDIA – Time And Related Datatypes In APEX ](https://www.linkedin.com/events/tardia-timeandrelateddatatypesi7081454729582575616/theater/) by Ed Jones
 
 # ADB
+- [Autonomous Database Getting Started](https://www.oracle.com/autonomous-database/get-started/)
 - [Autonomous Database](https://www.oracle.com/autonomous-database/)
 - [Oracle Autonomous Database](https://docs.oracle.com/en/cloud/paas/autonomous-database/index.html) - Help Center
 - [The Autonomous Database Insider](https://blogs.oracle.com/datawarehousing/category/dwh-newsletter)
@@ -281,6 +282,13 @@ _My backup memory_
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
 
+
+##AI
+- [Autonomous Database speaks “human”](https://blogs.oracle.com/datawarehousing/post/autonomous-database-speaks-human)
+- 
+
+##ORDS
+- [Oracle REST Data Services (ORDS) best practices](https://www.oracle.com/database/technologies/appdev/rest/best-practices/)
 
 ## Globalizations
 - [SYSDATE vs. CURRENT_DATE in Oracle Database](https://database-heartbeat.com/2021/09/28/sysdate-vs-current_date-in-oracle-database/) by Sinan Petrus Toma

@@ -194,6 +194,8 @@ _My backup memory_
 
 ## Flows for APEX
   - [Flows for APEX](https://flowsforapex.org/)
+  - [Simplify Business Process Management Using APEX Workflow](https://blogs.oracle.com/apex/post/simplify-medical-appointments-using-apex-workflow) by Ananya Chatterjee (Oracle)
+  - [Using Action Tasks with Oracle APEX 23.2](https://blogs.oracle.com/apex/post/using-action-tasks-with-oracle-apex-232) by Richard Allen (Oracle)
 
 ## Youtube
 - [Oracle Apex channel](https://www.youtube.com/@OracleAPEX)

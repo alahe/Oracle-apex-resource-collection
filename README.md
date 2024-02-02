@@ -316,7 +316,7 @@ _My backup memory_
 ## ADB presentations
 - [Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019
 - [Move to the Cloud](https://dohdatabase.files.wordpress.com/2022/02/move_to_the_cloud.pdf) by Roy F. Swonger, Mike Dietrich, Daniel Overby Hansen, William Beauregard, Rodrigo Jorge,  2022
-
+- [Oracle Cloud World - 2023 presentation in PDF](https://www.dropbox.com/scl/fi/v9f1udy4wyxdk6uuxe99v/All-PDfs-for-download.zip?rlkey=rt58aqsrhjklsnvj2173tm7l7&dl=0)
 
 ## Security
 - [AskTom DB Security](https://github.com/oradbsec/AskTomDBSecurity/tree/main) 
@@ -381,7 +381,10 @@ _My backup memory_
 - [APEX Forum](https://forums.oracle.com/ords/apexds/domain/dev-community/category/apex)
 - [Join - Slack Oracle Developers](https://oracledevs.slack.com/join/shared_invite/zt-2a3ejt4pd-a7KwHtnviPa_~sJZixu89w#/shared-invite/email)
 
-¤¤ Oracle Cloud@Azure
+## Multicloud
+- [Cloud Coaching - Multicloud Network Architectures for DB Migrations to Oracle Cloud Infrastructure](https://www.youtube.com/watch?v=1ngXJRsP5jA&t=3258s)
+
+## Oracle Cloud@Azure
 - [Oracle Database@Azure FAQ](https://www.oracle.com/cloud/azure/oracle-database-at-azure/faq/)
 - [OCI Multicloud](https://community.oracle.com/customerconnect/categories/oci-multicloud)
 -  [Oracle Database@Azure - marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.oracle_database_at_azure?tab=Overview)

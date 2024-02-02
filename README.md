@@ -110,6 +110,7 @@ _My backup memory_
 - Youtube: [How to display content from Github in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
 - [Use Package DBMS_CLOUD_REPO with GitHub](https://fuzziebrain.com/tech-tnt/oracle-cloud/devops/use-package-dbms_cloud_repo-with-github)
 - [Leveraging the Power of DBMS_CLOUD_REPO in Oracle APEX and GitHub](https://blog.cloudifyhub.com/leveraging-the-power-of-dbmscloudrepo-in-oracle-apex-and-github-a-winning-combination)
+- [Oracle Sample Projects](https://github.com/oracle-samples)
 ---
 ## DevOps - CI/CD
 - [DevOps](https://apex.mt-itsolutions.com/ords/r/portal/apex/devops?session=100662757604)

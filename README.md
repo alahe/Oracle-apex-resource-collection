@@ -380,5 +380,14 @@ _My backup memory_
 - [APEX Forum](https://forums.oracle.com/ords/apexds/domain/dev-community/category/apex)
 - [Join - Slack Oracle Developers](https://oracledevs.slack.com/join/shared_invite/zt-2a3ejt4pd-a7KwHtnviPa_~sJZixu89w#/shared-invite/email)
 
-# Mics
+¤¤ Oracle Cloud@Azure
+- [Oracle Database@Azure FAQ](https://www.oracle.com/cloud/azure/oracle-database-at-azure/faq/)
+- [OCI Multicloud](https://community.oracle.com/customerconnect/categories/oci-multicloud)
+-  [Oracle Database@Azure - marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.oracle_database_at_azure?tab=Overview)
+-  [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/)
+-  [https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419](https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419)
+-   []()
+-    []()
+
+## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

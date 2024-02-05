@@ -263,6 +263,7 @@ _My backup memory_
 - [Database Error Messages](https://docs.oracle.com/en/error-help/db/index.html)
 - [Databases Are Fun](https://dohdatabase.com/webinars/) for DBA
 - [Questions tagged oracle-autonomous-db](https://stackoverflow.com/questions/tagged/oracle-autonomous-db?tab=newest&pagesize=50) in Stackoverflow
+- [Predefined Database Service Names for Autonomous Databases](https://docs.oracle.com/en/cloud/paas/autonomous-database/dedicated/adbbd/index.html#GUID-07401C82-6A01-4CDF-AAE5-54B78B50CA0A)
 
 ## Blogs
 - [2023 in Review for Autonomous Database on Dedicated Exadata Infrastructure](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)

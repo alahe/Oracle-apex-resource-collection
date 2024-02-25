@@ -173,7 +173,7 @@ _My backup memory_
  - [Youtube: utPLSQL channel](https://www.youtube.com/playlist?list=PL25b72h8A54fbucEfvH3C2Q1yMqGhc15o)
  - [Source: GitHUb - utPLSQL ](https://github.com/utPLSQL)
  - [Youtube - OracleMania: Testing with utPLSQL – Made Easy with SQL Developer](https://youtu.be/B7qWmF4rDd4?si=q5jLsIbxH6-wB5iD) by Philipp Salvisberg
- - [Youtube - EMEA EOUC: Cypress and APEX automated testing](https://www.youtube.com/watch?v=mSO0m-4uxGw) by Lino Schildenfeld
+ - [Youtube - EMEA EOUC: Cypress and APEX automated testing](https://www.youtube.com/watch?v=mSO0m-4uxGw) by  Schildenfeld
  - [Youtube - Insum: Advanced APEX UI Test Automation with Cypress](https://youtu.be/QFzN_0soxiQ?si=eUFDUlbiycdygrdC)
  - [Testing With utPLSQL – Made Easy With SQL Developer](https://www.salvis.com/blog/2022/07/31/testing-with-utplsql-made-easy-with-sql-developer/) by Philipp Salvisberg
  - [](https://tm-apex.hashnode.dev/the-importance-of-software-testing)

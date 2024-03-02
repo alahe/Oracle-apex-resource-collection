@@ -120,6 +120,9 @@ _My backup memory_
 - [Youtube: Oracle APEX Development Lifecycle - Git and Continuous Delivery Automation](https://youtu.be/JiP1jKO-nx8?si=DCKognz7aWOrP1pr) by Shay Shmeltzer
 - [Testing PL/SQL in your Ci/Cd pipeline with utPLSQL](https://youtu.be/rgbAG8RgR9U?si=Mqu8s4--URDGjcNq) by Blaine Carter
 - [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications)
+- --
+- [Deploying single page app to Azure Static Web using Oracle Database Service for Azure (ODSA) with REST (ORDS) and GitHub actions](https://github.com/mikarinneoracle/odsa?tab=readme-ov-file) by 
+Mika Rinne
 
 ## Source, Github 
 - [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)

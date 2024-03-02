@@ -112,7 +112,7 @@ _My backup memory_
 - [Use Package DBMS_CLOUD_REPO with GitHub](https://fuzziebrain.com/tech-tnt/oracle-cloud/devops/use-package-dbms_cloud_repo-with-github)
 - [Leveraging the Power of DBMS_CLOUD_REPO in Oracle APEX and GitHub](https://blog.cloudifyhub.com/leveraging-the-power-of-dbmscloudrepo-in-oracle-apex-and-github-a-winning-combination)
 - [Oracle Sample Projects](https://github.com/oracle-samples)
-- [APEX and IaC](https://github.com/pocelka)
+- [APEX and IaC](https://github.com/pocelka) by Peter Ocelka
 ---
 ## DevOps - CI/CD
 - [DevOps](https://apex.mt-itsolutions.com/ords/r/portal/apex/devops?session=100662757604)

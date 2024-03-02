@@ -399,13 +399,10 @@ Mika Rinne
 -  [Oracle Database@Azure - marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.oracle_database_at_azure?tab=Overview)
 -  [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/)
 -  [https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419](https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419)
--   []()
--    []()
 
 ## LiveLabs
--[Oracle LiveLabs](https://github.com/oracle-livelabs)
+- [Oracle LiveLabs](https://github.com/oracle-livelabs)
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)
-- [SET_PARSING_SCHEMA_FOR _REQUEST Procedure](https://docs.oracle.com/en/database/oracle/apex/23.2/aeapi/SET_PARSING_SCHEMA_FOR_REQUEST-Procedure.html#GUID-2DB16C9E-6238-4DF9-A920-20D8E8FA93C0)
-- 
+- [SET_PARSING_SCHEMA_FOR _REQUEST Procedure](https://docs.oracle.com/en/database/oracle/apex/23.2/aeapi/SET_PARSING_SCHEMA_FOR_REQUEST-Procedure.html#GUID-2DB16C9E-6238-4DF9-A920-20D8E8FA93C0) 

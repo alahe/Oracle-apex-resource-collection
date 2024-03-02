@@ -112,7 +112,7 @@ _My backup memory_
 - [Use Package DBMS_CLOUD_REPO with GitHub](https://fuzziebrain.com/tech-tnt/oracle-cloud/devops/use-package-dbms_cloud_repo-with-github)
 - [Leveraging the Power of DBMS_CLOUD_REPO in Oracle APEX and GitHub](https://blog.cloudifyhub.com/leveraging-the-power-of-dbmscloudrepo-in-oracle-apex-and-github-a-winning-combination)
 - [Oracle Sample Projects](https://github.com/oracle-samples)
-- [APEX and IaC](https://github.com/pocelka) by Peter Ocelka
+
 ---
 ## DevOps - CI/CD
 - [DevOps](https://apex.mt-itsolutions.com/ords/r/portal/apex/devops?session=100662757604)
@@ -121,6 +121,7 @@ _My backup memory_
 - [Testing PL/SQL in your Ci/Cd pipeline with utPLSQL](https://youtu.be/rgbAG8RgR9U?si=Mqu8s4--URDGjcNq) by Blaine Carter
 - [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications)
 - --
+- [APEX and IaC](https://github.com/pocelka) by Peter Ocelka
 - [Deploying single page app to Azure Static Web using Oracle Database Service for Azure (ODSA) with REST (ORDS) and GitHub actions](https://github.com/mikarinneoracle/odsa?tab=readme-ov-file) by 
 Mika Rinne
 
@@ -401,6 +402,10 @@ Mika Rinne
 -   []()
 -    []()
 
+## LiveLabs
+-[Oracle LiveLabs](https://github.com/oracle-livelabs)
+
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)
 - [SET_PARSING_SCHEMA_FOR _REQUEST Procedure](https://docs.oracle.com/en/database/oracle/apex/23.2/aeapi/SET_PARSING_SCHEMA_FOR_REQUEST-Procedure.html#GUID-2DB16C9E-6238-4DF9-A920-20D8E8FA93C0)
+- 

@@ -124,6 +124,7 @@ _My backup memory_
 - [APEX and IaC](https://github.com/pocelka) by Peter Ocelka
 - [Deploying single page app to Azure Static Web using Oracle Database Service for Azure (ODSA) with REST (ORDS) and GitHub actions](https://github.com/mikarinneoracle/odsa?tab=readme-ov-file) by 
 Mika Rinne
+- [Pretius-apex-lifecycle-aligned-utils](https://github.com/Pretius/pretius-apex-lifecycle-aligned-utils/tree/4d5ae25295ed5088450dd26e068b471d1ea190a1/pipeline-scripts)
 
 ## Source, Github 
 - [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)
@@ -292,10 +293,8 @@ Mika Rinne
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
 
-
 ##AI
 - [Autonomous Database speaks “human”](https://blogs.oracle.com/datawarehousing/post/autonomous-database-speaks-human)
-- 
 
 ##ORDS
 - [Oracle REST Data Services (ORDS) best practices](https://www.oracle.com/database/technologies/appdev/rest/best-practices/)
@@ -304,7 +303,6 @@ Mika Rinne
 - [SYSDATE vs. CURRENT_DATE in Oracle Database](https://database-heartbeat.com/2021/09/28/sysdate-vs-current_date-in-oracle-database/) by Sinan Petrus Toma
 - [Awesome DATE / TIMESTAMP enhancement in Autonomous Database](https://connor-mcdonald.com/2022/02/02/awesome-date-timestamp-enhancement-in-autonomous-database/) by  Connor McDonald
 - [Oracle Database Features in Autonomous Database on Dedicated Exadata Infrastructure](https://docs.oracle.com/en-us/iaas/autonomous-database/doc/features-and-characteristics.html?Highlight=SYSDATE_AT_DBTIMEZONE)
-
 
 ## Migration
 - [Oracle Database Upgrades and Migrations](https://www.youtube.com/channel/UCTKvCZwAbOeTSRFQDAh7yXw) - Youtube channel

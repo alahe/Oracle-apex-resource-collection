@@ -89,6 +89,7 @@ _My backup memory_
 - [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino
 - [Trent's Tech Tips ](https://apextips.blogspot.com/)
 - [Notes on Oracle](https://nuijten.blogspot.com/) by Alex Nuijten
+   -[Parse CSV-file in different Character Set with APEX_DATA_PARSER](https://nuijten.blogspot.com/2023/02/parse-csv-file-in-different-character.html) 
 - [ORA-00001: Unique constraint violated](https://ora-00001.blogspot.com/) by Morten Braten
 - [Welcome to my corner of the web](https://montylatiolais.blogspot.com/) by Monty Latiolais
 - [Blog in Blogspot ](https://roelhartman.blogspot.com/) by Roel Hartman

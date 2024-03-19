@@ -32,7 +32,7 @@ _My backup memory_
 - [Blog ](https://joelkallman.blogspot.com/) by Joel Kallman 
 - [Insum Blog ](https://www.insum.ca/resources/blog/)
 - [Laureston Solution ](https://www.laureston.ca/blog/)
--  - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/)
+   - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/)
    - [15 Top Tips to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top-tips-to-tune-your-oracle-apex-performance/)
 - [Pretius Blog](https://pretius.com/blog/)
 - [United Codes Blog](https://blog.united-codes.com/)
@@ -56,35 +56,35 @@ _My backup memory_
 - [Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - [Petar Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic 
 - [Lucas Blog](https://www.rittmanmead.com/blog/author/lucas/) by Lucas Hirschegger
-- - [Oracle APEX – Transforming Cerner] (https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
+   - [Oracle APEX – Transforming Cerner] (https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
 ### [Blogs in Hashnode](https://hashnode.com/)
 - [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
 - [APEX, ORDS, ADB ](https://blog.cloudnueva.com/) by Jon Dixon
--  - [Two Methods of Setting an APEX Authentication Scheme at Run-Time](https://blog.cloudnueva.com/setting-an-apex-authentication-scheme-at-run-time)
+   - [Two Methods of Setting an APEX Authentication Scheme at Run-Time](https://blog.cloudnueva.com/setting-an-apex-authentication-scheme-at-run-time)
    - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
 - [Apex_debug](https://apexdebug.com/) by Anton Nielsen
 - [Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home) by Scott Spendolini
 - - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
 - [Cloudify Hub](https://blog.cloudifyhub.com/) by Richmond
 - [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home) by Plamen Mushkov
-- - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)     
+   - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)     
 - [APEX Blog ](https://apexblog.dev/) by Rodrigo Mesquita
-- -[New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
+   -[New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
 - [Blogs ](https://tm-apex.hashnode.dev/) by Timo Herwix & Mohamed Bouchi
 - [You can do that with APEX ](https://ebs-apex.hashnode.dev/?source=top_nav_blog_home) by Simon Joyce
-- - [New 23.2 "Capture Using" file upload setting!](https://ebs-apex.hashnode.dev/new-232-capture-using-file-upload-setting)
-  - [Using Workflow in APEX 23.2](https://ebs-apex.hashnode.dev/using-workflow-in-apex-232?source=more_articles_bottom_blogs)
+   - [New 23.2 "Capture Using" file upload setting!](https://ebs-apex.hashnode.dev/new-232-capture-using-file-upload-setting)
+   - [Using Workflow in APEX 23.2](https://ebs-apex.hashnode.dev/using-workflow-in-apex-232?source=more_articles_bottom_blogs)
 - [Just another APEX story... ](https://lcieslik.hashnode.dev/?source=top_nav_blog_home) by Lech Cieślik
 - - [Marking countries on the map - Oracle APEX, Map and 'Have been' app](https://lcieslik.hashnode.dev/marking-countries-on-the-map-oracle-apex-map-and-have-been-app)
 - [Keep It Simple. Developer's tips.](https://rafal.hashnode.dev/) by Rafal Grzegorczyk
-- - [Install Oracle APEX into...Oracle APEX](https://rafal.hashnode.dev/install-oracle-apex-intooracle-apex)
-  - [Use SQLcl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-sqlcl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
+   - [Install Oracle APEX into...Oracle APEX](https://rafal.hashnode.dev/install-oracle-apex-intooracle-apex)
+   - [Use SQLcl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-sqlcl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
 - [APEX World](https://blog.apex.world/) by Juergen Schuster
 - [Yet another IT Consultant](https://yaitcon.hashnode.dev/?source=top_nav_blog_home) by Tom Lie
 - [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
 - [Blog](https://hashnode.com/@danielhochleitner) by Daniel Hochleitner
 - [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
-- - [Using AI to generate Oracle APEX Theme Roller Styles](https://mattmulvaney.hashnode.dev/using-ai-to-generate-oracle-apex-theme-roller-styles?source=more_articles_bottom_blogs)
+   - [Using AI to generate Oracle APEX Theme Roller Styles](https://mattmulvaney.hashnode.dev/using-ai-to-generate-oracle-apex-theme-roller-styles?source=more_articles_bottom_blogs)
 - [Oracle APEX Blog](https://epolanco.dev/) by Ender Polanco Rivas
 ### [Blogs in blogspot](https://blogspot.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
@@ -100,12 +100,11 @@ _My backup memory_
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
 ----
--[Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
+- [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
 
 -----
-   [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
-   [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
-
+- [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
+- [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
 
 ## GitHub & APEX
 - Youtube: [How to display content from Github in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
@@ -149,14 +148,14 @@ Mika Rinne
 - [Apex Release Notes](https://apex.mt-itsolutions.com/ords/tools/r/release/notes) by MT IT Solutions
 - [ORAdiff](https://oradiff.oracle.com/ords/r/oradiff/oradiff/home)
 - [Database expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home?session=416975919135629)
-- ---
-- [AI Meal planning - demo/demo2023](https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
-- ---
-- Community listing of public sites & pages that are built with APEX [Built with APEX ](https://www.builtwithapex.com/ords/r/bwa/built-with-apex/home)
+
+- [AI Meal planning - demo/demo2023] (https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
+
+- [Community listing of public sites & pages that are built with APEX ] ( https://www.builtwithapex.com/ords/r/bwa/built-with-apex/home )
 
 ## LiveLabs
-- [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
-- [Modern CI/CD Pipelines for App Dev with Converged Oracle Database](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3314&p210_wec=)
+- [Livelabs home] (https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
+- [Modern CI/CD Pipelines for App Dev with Converged Oracle Database] (https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3314&p210_wec=)
   
 ## Security
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
@@ -200,16 +199,16 @@ Mika Rinne
 - [Start Generating Dynamic PDFs in APEX Easily with OCI Pre-Built Functions](https://tm-apex.hashnode.dev/start-generating-dynamic-pdfs-in-apex-easily-with-oci-pre-built-functions)
 
 ## UX & APEX
-  - [UX and APEX](https://www.dropbox.com/s/di85yi9svo1zbxo/AAA_UX.mp4?dl=0)
+- [UX and APEX](https://www.dropbox.com/s/di85yi9svo1zbxo/AAA_UX.mp4?dl=0)
 
 ## Flows for APEX
-  - [Flows for APEX](https://flowsforapex.org/)
-  - [Simplify Business Process Management Using APEX Workflow](https://blogs.oracle.com/apex/post/simplify-medical-appointments-using-apex-workflow) by Ananya Chatterjee (Oracle)
-  - [Using Action Tasks with Oracle APEX 23.2](https://blogs.oracle.com/apex/post/using-action-tasks-with-oracle-apex-232) by Richard Allen (Oracle)
+- [Flows for APEX](https://flowsforapex.org/)
+- [Simplify Business Process Management Using APEX Workflow](https://blogs.oracle.com/apex/post/simplify-medical-appointments-using-apex-workflow) by Ananya Chatterjee (Oracle)
+- [Using Action Tasks with Oracle APEX 23.2](https://blogs.oracle.com/apex/post/using-action-tasks-with-oracle-apex-232) by Richard Allen (Oracle)
 
 ## Youtube
 - [Oracle Apex channel](https://www.youtube.com/@OracleAPEX)
-- - [Oracle APEX 23.2 ](https://www.youtube.com/playlist?list=PLUo-NIMouZ_tJq7R0nRLkP9hB8hMMBgtA) playlist
+   - [Oracle APEX 23.2 ](https://www.youtube.com/playlist?list=PLUo-NIMouZ_tJq7R0nRLkP9hB8hMMBgtA) playlist
 - [Oracle Developer channel](https://www.youtube.com/@oracledevs)
 - [Apex.world channel](https://www.youtube.com/channel/UCY7t5jZ2cyZXIil1L8jfTwg)
 - [OUTUG channel ](https://www.youtube.com/channel/UC_Aky4HG2cEy3njLWTHQ82A)
@@ -279,16 +278,16 @@ Mika Rinne
 - [Database-centric development blog ](https://www.salvis.com/blog/) by Philipp Salvisberg
 - [Connor McDonald Blog](https://connor-mcdonald.com/)
 - [That Jeff Smith - Mostly Making Oracle easy](https://www.thatjeffsmith.com/)
-- - [Oracle SQLcl supports your Oracle Cloud (OCI) APIs](https://www.thatjeffsmith.com/archive/2020/10/sqlcl-version-20-3-and-oci-support/)
-- - [Oracle SQLcl version 21.4: Data Pump Support](https://www.thatjeffsmith.com/archive/2021/12/oracle-sqlcl-datapump/)
-  - [SQLcl on Oracle Cloud Infrastructure (OCI)](https://www.thatjeffsmith.com/archive/2019/12/sqlcl-on-oracle-cloud-infrastructure-oci/)
-  - [REPEAT after me, it’s easy to monitor with Oracle SQLcl!](https://www.thatjeffsmith.com/archive/2023/05/repeat-after-me-its-easy-to-monitor-with-oracle-sqlcl/)
+   - [Oracle SQLcl supports your Oracle Cloud (OCI) APIs](https://www.thatjeffsmith.com/archive/2020/10/sqlcl-version-20-3-and-oci-support/)
+   - [Oracle SQLcl version 21.4: Data Pump Support](https://www.thatjeffsmith.com/archive/2021/12/oracle-sqlcl-datapump/)
+   - [SQLcl on Oracle Cloud Infrastructure (OCI)](https://www.thatjeffsmith.com/archive/2019/12/sqlcl-on-oracle-cloud-infrastructure-oci/)
+   - [REPEAT after me, it’s easy to monitor with Oracle SQLcl!](https://www.thatjeffsmith.com/archive/2023/05/repeat-after-me-its-easy-to-monitor-with-oracle-sqlcl/)
 - [All Things SQL ](https://blogs.oracle.com/sql/) by Oracle
-- - [How to compare two tables to get the different rows with SQL ](https://blogs.oracle.com/sql/post/how-to-compare-two-tables-to-get-the-different-rows-with-sql) by Chris Saxon
+   - [How to compare two tables to get the different rows with SQL ](https://blogs.oracle.com/sql/post/how-to-compare-two-tables-to-get-the-different-rows-with-sql) by Chris Saxon
 - [Ask TOM Questions](https://asktom.oracle.com/ords/f?p=100:1::::1::) 
-  - [Script to compare data in all tables in two different databases, if the table is present in both the databases.](https://asktom.oracle.com/ords/f?p=100:11:0::::P11_QUESTION_ID:9531089900346576427)  by  Connor McDonald
+   - [Script to compare data in all tables in two different databases, if the table is present in both the databases.](https://asktom.oracle.com/ords/f?p=100:11:0::::P11_QUESTION_ID:9531089900346576427)  by  Connor McDonald
 - [ORACLE-BASE](https://oracle-base.com/)
-  - [DBMS_COMPARISON : Identify Row Differences Between Objects and Optionally Converge the Data ](https://oracle-base.com/articles/11g/dbms_comparison-identify-row-differences-between-objects) by Oracle-Base (Tim Hall)
+   - [DBMS_COMPARISON : Identify Row Differences Between Objects and Optionally Converge the Data ](https://oracle-base.com/articles/11g/dbms_comparison-identify-row-differences-between-objects) by Oracle-Base (Tim Hall)
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
@@ -314,7 +313,6 @@ Mika Rinne
 - [Morgan Library ](https://www.morganslibrary.org/library.html) 
 - [What is Liquibase and how to start using it? Automate your database scripts deployment with this Liquibase tutorial](https://pretius.com/blog/liquibase-tutorial/#basics) By Rafał Grzegorczyk, 2021
 - [Learn to manage cloud code repositories (GitHub, Azure Repos, AWS CodeCommit) with Autonomous Database](https://blogs.oracle.com/datawarehousing/post/cloud-code-repositories-in-autonomous-database)
-- 
 - [Oracle PL/SQL Debugging with SQL Developer](https://www.youtube.com/watch?v=rBA8gL8NyXE&t=3s) By Jeff Smith
 - [Oracle SQLcl supports your Oracle Cloud (OCI) APIs](https://www.thatjeffsmith.com/archive/2020/10/sqlcl-version-20-3-and-oci-support/) by Jeff Smith
 - [SQLcl & Liquibase: running Oracle Scripts in a changeSe](https://www.thatjeffsmith.com/archive/2020/06/sqlcl-liquibase-running-oracle-scripts-in-a-changeset/)By Jeff Smith
@@ -349,7 +347,6 @@ Mika Rinne
 - [Proxy Authentication](https://docs.oracle.com/en/database/oracle/oracle-database/19/dbseg/configuring-authentication.html#GUID-F2004DF1-1122-4614-9D3D-2F8330855A93)
 - [ORADBA - Just another Site about Oracle, Database Security, Linux, Mac OS X and more](https://www.oradba.ch/wordpress/)
 
-
 # OCI
 - [What can we help you find?](https://docs.oracle.com/en/) - Help Center
 - [Oracle Cloud Infrastructure Documentation](https://docs.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm) - Help Center
@@ -369,8 +366,8 @@ Mika Rinne
 - [Oracle Tech Lounge](https://go.oracle.com/LP=138585?src1=:em:lw:ie:mt:::RC_WWMK230907P00020:SEV400311685&elq_mid=247900&sh=0712180512072614140608163331351619&cmid=WWMK230907P00020)
 
 ## OCI Best practise
-  - [Best practices framework for Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/oci-best-practices/toc.htm#Table-of-Contents)
-  - [Best Practices for Compartments](https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments)
+- [Best practices framework for Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/oci-best-practices/toc.htm#Table-of-Contents)
+- [Best Practices for Compartments](https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments)
 
 # Development tools
 ## Visual Studio code
@@ -390,17 +387,17 @@ Mika Rinne
 - [Join - Slack Oracle Developers](https://oracledevs.slack.com/join/shared_invite/zt-2a3ejt4pd-a7KwHtnviPa_~sJZixu89w#/shared-invite/email)
 
 ## Multicloud
-- [Cloud Coaching - Multicloud Network Architectures for DB Migrations to Oracle Cloud Infrastructure](https://www.youtube.com/watch?v=1ngXJRsP5jA&t=3258s)
+- [Cloud Coaching - Multicloud Network Architectures for DB Migrations to Oracle Cloud Infrastructure] ( https://www.youtube.com/watch?v=1ngXJRsP5jA )
 
 ## Oracle Cloud@Azure
 - [Oracle Database@Azure FAQ](https://www.oracle.com/cloud/azure/oracle-database-at-azure/faq/)
 - [OCI Multicloud](https://community.oracle.com/customerconnect/categories/oci-multicloud)
--  [Oracle Database@Azure - marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.oracle_database_at_azure?tab=Overview)
--  [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/)
--  [https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419](https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419)
+- [Oracle Database@Azure - marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.oracle_database_at_azure?tab=Overview)
+- [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/)
+- [https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419](https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419)
 
 ## LiveLabs
-- [Oracle LiveLabs](https://github.com/oracle-livelabs)
+- [ Oracle LiveLabs ] ( https://github.com/oracle-livelabs )
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

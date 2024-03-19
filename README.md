@@ -97,6 +97,7 @@ _My backup memory_
 - [Blog in Blogspot](https://dgielis.blogspot.com/) by Dimitri Gielis
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
+### Others Blogs platform
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
 - [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
@@ -277,6 +278,8 @@ Mika Rinne
    - [Script to compare data in all tables in two different databases, if the table is present in both the databases.](https://asktom.oracle.com/ords/f?p=100:11:0::::P11_QUESTION_ID:9531089900346576427)  by  Connor McDonald
 - [ORACLE-BASE](https://oracle-base.com/)
    - [DBMS_COMPARISON : Identify Row Differences Between Objects and Optionally Converge the Data ](https://oracle-base.com/articles/11g/dbms_comparison-identify-row-differences-between-objects) by Oracle-Base (Tim Hall)
+- [Julian Dontcheff's Database Blog](https://juliandontcheff.wordpress.com/)
+
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald

@@ -62,7 +62,7 @@ _My backup memory_
    - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
 - [Apex_debug](https://apexdebug.com/) by Anton Nielsen
 - [Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home) by Scott Spendolini
-- - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
+   - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
 - [Cloudify Hub](https://blog.cloudifyhub.com/) by Richmond
 - [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home) by Plamen Mushkov
    - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)     
@@ -97,9 +97,7 @@ _My backup memory_
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
-----
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
------
 - [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
 - [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
 
@@ -116,7 +114,6 @@ _My backup memory_
 - [Youtube: Oracle APEX Development Lifecycle - Git and Continuous Delivery Automation](https://youtu.be/JiP1jKO-nx8?si=DCKognz7aWOrP1pr) by Shay Shmeltzer
 - [Testing PL/SQL in your Ci/Cd pipeline with utPLSQL](https://youtu.be/rgbAG8RgR9U?si=Mqu8s4--URDGjcNq) by Blaine Carter
 - [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications)
-- --
 - [APEX and IaC](https://github.com/pocelka) by Peter Ocelka
 - [Deploying single page app to Azure Static Web using Oracle Database Service for Azure (ODSA) with REST (ORDS) and GitHub actions](https://github.com/mikarinneoracle/odsa?tab=readme-ov-file) by 
 Mika Rinne
@@ -216,12 +213,9 @@ Mika Rinne
 - [The future of data and app dev—keynote | Oracle CloudWorld 2023](https://www.youtube.com/watch?v=irtZOznG1Z8) by Juan Loaiza
 - [Oracle’s vision for the future—keynote | Oracle CloudWorld 2023](https://www.youtube.com/watch?v=63DmgBN1rSI) by Larry Ellison
 - [Low-Code and AI for Automating Invoice Processing & Approval Workflow - a customer Story](https://www.youtube.com/watch?v=TsbNU6xdQPw) by Trailcon
-- -----------
 - [Insum - Anton & Hyden - APEX Instant Tips ](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP)
 - [Insum - Hyden ](https://www.youtube.com/@Oapmpuag/videos)
--------------
 - [Unlock the Power of Oracle APEX](https://videohub.oracle.com/media/Unlock%20the%20Power%20of%20Oracle%20APEX%3A%20How%20Native%20Low-Code%20Development%20Can%20Take%20Your%20Business%20to%20New%20Heights!/1_yy0ry8nn)
-- -----------
 - [APEX CloudWorld23 short](https://www.dropbox.com/scl/fi/4txcfqwnocwyo4l9oflnl/APEX_CloudWorld23.mp4?rlkey=704fgs89nddw9iabpkx640aj3&dl=0)
 - [Youtube playlist: Technology and Coding ](https://www.youtube.com/playlist?list=PLsnBif_-5JnA8Hzvp8e1bQ3fo6VEvYEB0) by Chip Baber
 - [APEX Instant Tips](https://www.youtube.com/watch?v=KYdwsY7wSag&list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP) by Anton and Hayden
@@ -381,7 +375,7 @@ Mika Rinne
 - [Join - Slack Oracle Developers](https://oracledevs.slack.com/join/shared_invite/zt-2a3ejt4pd-a7KwHtnviPa_~sJZixu89w#/shared-invite/email)
 
 ## Multicloud
-- [Cloud Coaching - Multicloud Network Architectures for DB Migrations to Oracle Cloud Infrastructure] ( https://www.youtube.com/watch?v=1ngXJRsP5jA )
+- [Cloud Coaching - Multicloud Network Architectures for DB Migrations to Oracle Cloud Infrastructure]( https://www.youtube.com/watch?v=1ngXJRsP5jA )
 
 ## Oracle Cloud@Azure
 - [Oracle Database@Azure FAQ](https://www.oracle.com/cloud/azure/oracle-database-at-azure/faq/)

@@ -52,7 +52,8 @@ _My backup memory_
 - [Oracle & More. Oracle APEX - Web Development](https://blog.neilfernandez.com/) by Neil Fernandez
 ### [Rittmanmead - Blogs](https://www.rittmanmead.com/blog/)
 - [Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
-- [Petar Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic 
+- [Petar Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic
+   - [Oracle APEX: Auto-refresh Report](https://petarsimic.hashnode.dev/oracle-apex-auto-refresh-report)
 - [Lucas Blog](https://www.rittmanmead.com/blog/author/lucas/) by Lucas Hirschegger
    - [Oracle APEX – Transforming Cerner](https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
 ### [Blogs in Hashnode](https://hashnode.com/)

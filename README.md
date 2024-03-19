@@ -158,7 +158,6 @@ Mika Rinne
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [Modern CI/CD Pipelines for App Dev with Converged Oracle Database](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3314&p210_wec=)
   
-
 ## Security
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
 - [Apex-Sert](https://github.com/lschilde/Sharing_APEX_SERT_22_2)
@@ -196,8 +195,9 @@ Mika Rinne
 ## Files
 - [Upload Multiple Files to Oracle Object Storage from an Oracle Apex Application](https://medium.com/oracledevs/upload-multiple-files-to-oracle-object-storage-from-an-oracle-apex-application-90e10c47e9d0) in Medium
 
-## ORDS
-- [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs) by Jon Dixon 
+## Printouts (for paper or PDF)
+- [Idea- Easy Customized Reports for Printing on paper](https://apex.oracle.com/ideas/FR-1737)
+- [Start Generating Dynamic PDFs in APEX Easily with OCI Pre-Built Functions](https://tm-apex.hashnode.dev/start-generating-dynamic-pdfs-in-apex-easily-with-oci-pre-built-functions)
 
 ## UX & APEX
   - [UX and APEX](https://www.dropbox.com/s/di85yi9svo1zbxo/AAA_UX.mp4?dl=0)
@@ -293,11 +293,12 @@ Mika Rinne
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
 
-##AI
+# #AI
 - [Autonomous Database speaks “human”](https://blogs.oracle.com/datawarehousing/post/autonomous-database-speaks-human)
 
-##ORDS
+## ORDS
 - [Oracle REST Data Services (ORDS) best practices](https://www.oracle.com/database/technologies/appdev/rest/best-practices/)
+- [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs) by Jon Dixon 
 
 ## Globalizations
 - [SYSDATE vs. CURRENT_DATE in Oracle Database](https://database-heartbeat.com/2021/09/28/sysdate-vs-current_date-in-oracle-database/) by Sinan Petrus Toma

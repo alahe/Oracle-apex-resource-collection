@@ -11,8 +11,6 @@ _My backup memory_
 
 </header>
 
-
-
 ## General
 - [APEX Document](https://docs.oracle.com/en/database/oracle/apex/)
 - [App Builder User's Guide](https://docs.oracle.com/en/database/oracle/apex/23.1/htmdb/index.html#Oracle%C2%AE-APEX)
@@ -101,7 +99,6 @@ _My backup memory_
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
 ----
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
-
 -----
 - [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
 - [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
@@ -140,7 +137,6 @@ Mika Rinne
 - [APEX Debugging Playground](https://apex.oracle.com/pls/apex/f?p=25355:9:103981530529661:::::)
 - [Dynamic Actions, Javascript, & CSS for APEX Beginners ](https://apex.oracle.com/pls/apex/f?p=27882:1:100092276829851:::::) by Scott Wesley
 - [Oracle APEX Release Notes](https://apex.mt-itsolutions.com/ords/tools/r/release/notes) by MT-IT SOLUTIONS
-- --------
 - [Charts](https://apex.oracle.com/go/sample_charts)
 - [Cards](https://apex.oracle.com/go/sample_cards)
 - [Maps](https://apex.oracle.com/go/sample_maps)
@@ -148,14 +144,12 @@ Mika Rinne
 - [Apex Release Notes](https://apex.mt-itsolutions.com/ords/tools/r/release/notes) by MT IT Solutions
 - [ORAdiff](https://oradiff.oracle.com/ords/r/oradiff/oradiff/home)
 - [Database expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home?session=416975919135629)
-
-- [AI Meal planning - demo/demo2023] (https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
-
-- [Community listing of public sites & pages that are built with APEX ] ( https://www.builtwithapex.com/ords/r/bwa/built-with-apex/home )
+- [AI Meal planning - demo/demo2023](https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
+- [Community listing of public sites & pages that are built with APEX ]( https://www.builtwithapex.com/ords/r/bwa/built-with-apex/home )
 
 ## LiveLabs
-- [Livelabs home] (https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
-- [Modern CI/CD Pipelines for App Dev with Converged Oracle Database] (https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3314&p210_wec=)
+- [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
+- [Modern CI/CD Pipelines for App Dev with Converged Oracle Database](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3314&p210_wec=)
   
 ## Security
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
@@ -397,7 +391,7 @@ Mika Rinne
 - [https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419](https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419)
 
 ## LiveLabs
-- [ Oracle LiveLabs ] ( https://github.com/oracle-livelabs )
+- [Oracle LiveLabs]( https://github.com/oracle-livelabs ) Oracle LiveLabs in Github
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

@@ -54,7 +54,7 @@ _My backup memory_
 - [Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - [Petar Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic 
 - [Lucas Blog](https://www.rittmanmead.com/blog/author/lucas/) by Lucas Hirschegger
-   - [Oracle APEX – Transforming Cerner] (https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
+   - [Oracle APEX – Transforming Cerner](https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
 ### [Blogs in Hashnode](https://hashnode.com/)
 - [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
 - [APEX, ORDS, ADB ](https://blog.cloudnueva.com/) by Jon Dixon

@@ -92,6 +92,7 @@ _My backup memory_
 - [ORA-00001: Unique constraint violated](https://ora-00001.blogspot.com/) by Morten Braten
 - [Welcome to my corner of the web](https://montylatiolais.blogspot.com/) by Monty Latiolais
 - [Blog in Blogspot ](https://roelhartman.blogspot.com/) by Roel Hartman
+   - [Stop using validations for checking constraints ](https://roelhartman.blogspot.com/2021/02/stop-using-validations-for-checking.html) 
 - [Apex by G ](https://apexbyg.blogspot.com/) by Marko Gorički 
 - [Blog in Blogspot](https://dgielis.blogspot.com/) by Dimitri Gielis
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral

@@ -283,6 +283,7 @@ Mika Rinne
 - [ORACLE-BASE](https://oracle-base.com/)
    - [DBMS_COMPARISON : Identify Row Differences Between Objects and Optionally Converge the Data ](https://oracle-base.com/articles/11g/dbms_comparison-identify-row-differences-between-objects) by Oracle-Base (Tim Hall)
 - [Julian Dontcheff's Database Blog](https://juliandontcheff.wordpress.com/)
+- [All Things SQL](https://blogs.oracle.com/sql/)
 
 
 ## Tips and Tricks

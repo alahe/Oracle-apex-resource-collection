@@ -104,6 +104,7 @@ _My backup memory_
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
 - [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
 - [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
+- [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications) by Michael Pickering
 
 ## GitHub & APEX
 - Youtube: [How to display content from Github in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
@@ -155,6 +156,7 @@ Mika Rinne
 ## Security
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
 - [Apex-Sert](https://github.com/lschilde/Sharing_APEX_SERT_22_2)
+- [ApexSec is a unique automated security analysis product for Oracle APEX](https://apexsec.recx.co.uk/)
 
 ## Debugging
 - [APEX Debugging 101](https://www.youtube.com/watch?v=GDfN45Vq9WA) by Peter Raganitsch, Apex@Home 2020

@@ -61,6 +61,7 @@ _My backup memory_
 - [APEX, ORDS, ADB ](https://blog.cloudnueva.com/) by Jon Dixon
    - [Two Methods of Setting an APEX Authentication Scheme at Run-Time](https://blog.cloudnueva.com/setting-an-apex-authentication-scheme-at-run-time)
    - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
+   - [Receiving Payments from Oracle APEX with PayPal](https://blog.cloudnueva.com/apex-paypal)
 - [Apex_debug](https://apexdebug.com/) by Anton Nielsen
 - [Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home) by Scott Spendolini
    - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)

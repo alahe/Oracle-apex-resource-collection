@@ -71,6 +71,8 @@ _My backup memory_
 - [APEX Blog ](https://apexblog.dev/) by Rodrigo Mesquita
    -[New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
 - [Blogs ](https://tm-apex.hashnode.dev/) by Timo Herwix & Mohamed Bouchi
+    - [DevOps Made Easy! with Oracle Autonomous Database using PL/SQL and Git](https://tm-apex.hashnode.dev/devops-made-easy-with-oracle-autonomous-database-using-plsql-and-git?source=more_series_bottom_blogs)
+    - [Start Generating Dynamic PDFs in APEX Easily with OCI Pre-Built Functions](https://tm-apex.hashnode.dev/start-generating-dynamic-pdfs-in-apex-easily-with-oci-pre-built-functions)
 - [You can do that with APEX ](https://ebs-apex.hashnode.dev/?source=top_nav_blog_home) by Simon Joyce
    - [New 23.2 "Capture Using" file upload setting!](https://ebs-apex.hashnode.dev/new-232-capture-using-file-upload-setting)
    - [Using Workflow in APEX 23.2](https://ebs-apex.hashnode.dev/using-workflow-in-apex-232?source=more_articles_bottom_blogs)

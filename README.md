@@ -235,6 +235,9 @@ Mika Rinne
 - [APEX Instant Tips](https://www.youtube.com/watch?v=KYdwsY7wSag&list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP) by Anton and Hayden
 - [Oracle APEX Solutions ](https://www.youtube.com/@oracleapexsolutions3217/featured)
 - [Six Secrets of APEX - (presentatsiooni näidis Apexis)](https://www.youtube.com/watch?v=0VBSmkdEXhE) by Ed Jones
+---------
+- [Low-code development with Oracle APEX](https://youtu.be/SBAF2D_KirI?si=F9SbJR0TSkHi7MRM)
+- []()
 
 ## Community
 - [Ask questions from cummunity Stackoverflow ](https://stackoverflow.com/questions/tagged/oracle-apex)

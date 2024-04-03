@@ -58,7 +58,7 @@ _My backup memory_
    - [Oracle APEX: Auto-refresh Report](https://petarsimic.hashnode.dev/oracle-apex-auto-refresh-report)
 - [Lucas Blog](https://www.rittmanmead.com/blog/author/lucas/) by Lucas Hirschegger
    - [Oracle APEX – Transforming Cerner](https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
--[Oracle APEX - Microsoft Azure Entra ID Integration](https://www.rittmanmead.com/blog/2024/01/oracle-apex-authentication-with-azure/)
+   - [Oracle APEX Auth - Microsoft Azure Entra ID Integration](https://www.rittmanmead.com/blog/2024/01/oracle-apex-authentication-with-azure/)
 
 ### [Blogs in Hashnode](https://hashnode.com/)
 - [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 

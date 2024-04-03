@@ -33,7 +33,8 @@ _My backup memory_
    - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/)
    - [15 Top Tips to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top-tips-to-tune-your-oracle-apex-performance/)
 - [Pretius Blog](https://pretius.com/blog/)
-    - [Want to change your Oracle APEX authentication scheme dynamically? Follow this simple guide](https://pretius.com/blog/apex-dynamic-authentication-scheme-changes/) 
+    - [Want to change your Oracle APEX authentication scheme dynamically? Follow this simple guide](https://pretius.com/blog/apex-dynamic-authentication-scheme-changes/)
+    - [Liquibase tutorial 2024: What is this tool and how to start using it effectively?](https://pretius.com/blog/liquibase-tutorial/) by Rafał Grzegorczyk
 - [United Codes Blog](https://blog.united-codes.com/)
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
 - [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott

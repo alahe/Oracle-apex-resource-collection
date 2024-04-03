@@ -118,6 +118,7 @@ _My backup memory_
 - [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
 - [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
 - [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications) by Michael Pickering
+- [Oracle APEX - A promise to the low code Landscape](https://www.linkedin.com/pulse/oracle-apex-promise-low-code-landscape-govind-d-ycgyc/)
 
 ## GitHub & APEX
 - Youtube: [How to display content from Github in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)

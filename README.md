@@ -40,6 +40,7 @@ _My backup memory_
 - [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott
 - [A Backup for My Brain!](https://ruepprich.com/) by Christoph Ruepprich
 - [Dive into APEX ](https://diveintoapex.com/) by Steve Muench
+    - [Simplify APEX App REST APIs with JSON Duality Views](https://diveintoapex.com/2024/03/05/simplify-apex-app-rest-apis-with-json-duality-views/) 
 - [Thinking Anew - Blog](https://fuzziebrain.com/content/a-yearful-of-ai-but-whats-next) by Ardian Png 
 - [Weblog](https://blogs.oracle.com/shay/) by Shay Shmeltzer
 - [Mostly APEX Information](https://rimblas.com/blog/) by Jorge Rimblas

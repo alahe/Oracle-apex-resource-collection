@@ -422,3 +422,4 @@ Mika Rinne
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)
 - [SET_PARSING_SCHEMA_FOR _REQUEST Procedure](https://docs.oracle.com/en/database/oracle/apex/23.2/aeapi/SET_PARSING_SCHEMA_FOR_REQUEST-Procedure.html#GUID-2DB16C9E-6238-4DF9-A920-20D8E8FA93C0)
 - [WHY THE NEW 23C DATABASE FEATURE JSON RELATIONAL DUALITY VIEWS MAY CHANGE THE LIFE OF DEVELOPERS](https://nloug.nl/wp-content/uploads/2023/12/Peter-de-Vaal_DualityViews.pdf)
+- [Polyglot Data Modeling](https://hackolade.com/polyglot-data-modeling.html)

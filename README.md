@@ -286,6 +286,9 @@ Mika Rinne
 - [Databases Are Fun](https://dohdatabase.com/webinars/) for DBA
 - [Questions tagged oracle-autonomous-db](https://stackoverflow.com/questions/tagged/oracle-autonomous-db?tab=newest&pagesize=50) in Stackoverflow
 - [Predefined Database Service Names for Autonomous Databases](https://docs.oracle.com/en/cloud/paas/autonomous-database/dedicated/adbbd/index.html#GUID-07401C82-6A01-4CDF-AAE5-54B78B50CA0A)
+- [Deploy a secure production-ready Oracle Autonomous Database and Oracle APEX application](https://docs.oracle.com/en/solutions/deploy-autonomous-database-and-app/index.html#GUID-40A628D0-7A04-42EA-A07E-A3FCC4248DBF)
+- [Oracle Autonomous Database Technical Overview](https://www.oracle.com/a/ocom/docs/database/oracle-autonomous-database-technical-overview.pdf)
+- [High Availability Overview and Best Practices](https://docs.oracle.com/en/database/oracle/oracle-database/23/haovw/index.html)
 
 ## Blogs
 - [2023 in Review for Autonomous Database on Dedicated Exadata Infrastructure](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)

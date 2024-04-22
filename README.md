@@ -291,7 +291,10 @@ Mika Rinne
 - [High Availability Overview and Best Practices](https://docs.oracle.com/en/database/oracle/oracle-database/23/haovw/index.html)
 
 ## Blogs
+
 - [2023 in Review for Autonomous Database on Dedicated Exadata Infrastructure](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)
+- [4 Ways to Connect to Autonomous Database on a Private Network](https://blogs.oracle.com/datawarehousing/post/4-ways-to-connect-to-autonomous-database-on-a-private-network)
+- [Leverage OCI Functions to notify Live Feed Table in a Autonomous Database Private Endpoint](https://blogs.oracle.com/datawarehousing/post/leverage-oci-functions-to-notify-live-feed-table-in-a-autonomous-database-private-endpoint)
 - [Database-centric development blog ](https://www.salvis.com/blog/) by Philipp Salvisberg
 - [Connor McDonald Blog](https://connor-mcdonald.com/)
 - [That Jeff Smith - Mostly Making Oracle easy](https://www.thatjeffsmith.com/)
@@ -338,6 +341,8 @@ Mika Rinne
 - [SQLcl & Liquibase: running Oracle Scripts in a changeSe](https://www.thatjeffsmith.com/archive/2020/06/sqlcl-liquibase-running-oracle-scripts-in-a-changeset/)By Jeff Smith
 - [Dropping an Oracle table with SQLcl and Liquibase](https://www.thatjeffsmith.com/archive/2023/05/dropping-an-oracle-table-with-sqlcl-and-liquibase/)
 - [Run Liquibase updates for a specific schema with SQLcl](https://www.thatjeffsmith.com/archive/2022/12/run-liquibase-updates-for-a-specific-schema-with-sqlcl/)
+- [GitHub - Deploy Private Endpoint for Autonomous Database to take advantage of the fully managed](https://github.com/oracle-quickstart/oci-arch-atp-private)
+  
 
 ## ADB presentations
 - [Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019

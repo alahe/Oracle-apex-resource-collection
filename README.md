@@ -130,10 +130,12 @@ _My backup memory_
 
 ---
 ## DevOps - CI/CD
+- [Announcing the Oracle APEX Application Development Lifecycle Technical Paper](https://blogs.oracle.com/apex/post/application-development-lifecycle-technical-paper)
 - [Understanding the Oracle APEX Application Development Lifecycle](https://www.oracle.com/a/tech/docs/apex-lifecycle-management-v3.pdf)
 - [DevOps](https://apex.mt-itsolutions.com/ords/r/portal/apex/devops?session=100662757604)
 - [Oracle APEX Application Development Lifecycle ](https://www.linkedin.com/events/toufiqmohammed-oracleapexapplic7048855778593542144/theater/) by Toufiq Mohammed 
 - [Youtube: Oracle APEX Development Lifecycle - Git and Continuous Delivery Automation](https://youtu.be/JiP1jKO-nx8?si=DCKognz7aWOrP1pr) by Shay Shmeltzer
+- [Yuotube: Understanding the APEX Application Development Lifecycle](https://www.youtube.com/watch?v=MilbA_yyIHk) by Steve Muench
 - [Testing PL/SQL in your Ci/Cd pipeline with utPLSQL](https://youtu.be/rgbAG8RgR9U?si=Mqu8s4--URDGjcNq) by Blaine Carter
 - [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications)
 - [APEX and IaC](https://github.com/pocelka) by Peter Ocelka
@@ -219,6 +221,7 @@ Mika Rinne
 - [Flows for APEX](https://flowsforapex.org/)
 - [Simplify Business Process Management Using APEX Workflow](https://blogs.oracle.com/apex/post/simplify-medical-appointments-using-apex-workflow) by Ananya Chatterjee (Oracle)
 - [Using Action Tasks with Oracle APEX 23.2](https://blogs.oracle.com/apex/post/using-action-tasks-with-oracle-apex-232) by Richard Allen (Oracle)
+- [APEX Workflow Development Lifecycle and Management](https://blogs.oracle.com/apex/post/apex-workflow-development-lifecycle)
 
 ## Youtube
 - [Oracle Apex channel](https://www.youtube.com/@OracleAPEX)

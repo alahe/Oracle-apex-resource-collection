@@ -130,6 +130,7 @@ _My backup memory_
 
 ---
 ## DevOps - CI/CD
+- [Understanding the Oracle APEX Application Development Lifecycle](https://www.oracle.com/a/tech/docs/apex-lifecycle-management-v3.pdf)
 - [DevOps](https://apex.mt-itsolutions.com/ords/r/portal/apex/devops?session=100662757604)
 - [Oracle APEX Application Development Lifecycle ](https://www.linkedin.com/events/toufiqmohammed-oracleapexapplic7048855778593542144/theater/) by Toufiq Mohammed 
 - [Youtube: Oracle APEX Development Lifecycle - Git and Continuous Delivery Automation](https://youtu.be/JiP1jKO-nx8?si=DCKognz7aWOrP1pr) by Shay Shmeltzer

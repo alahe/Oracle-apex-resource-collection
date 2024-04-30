@@ -444,3 +444,6 @@ Mika Rinne
 - [Microsoft SQL Server vs. Oracle](https://www.linkedin.com/pulse/microsoft-sql-server-vs-oracle-ipspecialistofficial/)
 - [System Properties Comparison Microsoft SQL Server vs. Oracle](https://db-engines.com/en/system/Microsoft+SQL+Server%3BMySQL%3BOracle)
 - [Comparisons between Oracle vs SQL Server](https://www.geeksforgeeks.org/comparisons-between-oracle-vs-sql-server/)
+- [System Properties Comparison Microsoft SQL Server vs. MySQL vs. Oracle](https://db-engines.com/en/system/Microsoft+SQL+Server%3BMySQL%3BOracle)
+- 
+- [DB-Engines Ranking](https://db-engines.com/en/ranking)

@@ -447,3 +447,5 @@ Mika Rinne
 - [System Properties Comparison Microsoft SQL Server vs. MySQL vs. Oracle](https://db-engines.com/en/system/Microsoft+SQL+Server%3BMySQL%3BOracle)
 - 
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
+
+- [GREEN SOFTWARE Foundation](https://greensoftware.foundation/)

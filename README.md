@@ -330,6 +330,7 @@ Mika Rinne
 - [SYSDATE vs. CURRENT_DATE in Oracle Database](https://database-heartbeat.com/2021/09/28/sysdate-vs-current_date-in-oracle-database/) by Sinan Petrus Toma
 - [Awesome DATE / TIMESTAMP enhancement in Autonomous Database](https://connor-mcdonald.com/2022/02/02/awesome-date-timestamp-enhancement-in-autonomous-database/) by  Connor McDonald
 - [Oracle Database Features in Autonomous Database on Dedicated Exadata Infrastructure](https://docs.oracle.com/en-us/iaas/autonomous-database/doc/features-and-characteristics.html?Highlight=SYSDATE_AT_DBTIMEZONE)
+- [Globally Distributed Database](https://www.oracle.com/database/distributed-database/#elasticity)
 
 ## Migration
 - [Oracle Database Upgrades and Migrations](https://www.youtube.com/channel/UCTKvCZwAbOeTSRFQDAh7yXw) - Youtube channel

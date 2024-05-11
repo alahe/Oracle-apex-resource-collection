@@ -433,6 +433,10 @@ Mika Rinne
 ## LiveLabs
 - [Oracle LiveLabs]( https://github.com/oracle-livelabs ) Oracle LiveLabs in Github
 
+## IAM Policies
+- [IAM Policies](https://www.youtube.com/watch?v=N1DzC5VS7-k)
+- [OCI IAM Identity Domains - Creating Access Policies](https://www.youtube.com/watch?v=2e7czJanMTQ)
+
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)
 - [SET_PARSING_SCHEMA_FOR _REQUEST Procedure](https://docs.oracle.com/en/database/oracle/apex/23.2/aeapi/SET_PARSING_SCHEMA_FOR_REQUEST-Procedure.html#GUID-2DB16C9E-6238-4DF9-A920-20D8E8FA93C0)

@@ -142,6 +142,7 @@ _My backup memory_
 - [Deploying single page app to Azure Static Web using Oracle Database Service for Azure (ODSA) with REST (ORDS) and GitHub actions](https://github.com/mikarinneoracle/odsa?tab=readme-ov-file) by 
 Mika Rinne
 - [Pretius-apex-lifecycle-aligned-utils](https://github.com/Pretius/pretius-apex-lifecycle-aligned-utils/tree/4d5ae25295ed5088450dd26e068b471d1ea190a1/pipeline-scripts)
+- [APEX Deployment Tool](https://www.oneoracledeveloper.com/2024/05/apex-deployment-tool.html) by Jan Květina
 
 ## Source, Github 
 - [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)

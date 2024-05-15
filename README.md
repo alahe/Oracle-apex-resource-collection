@@ -385,13 +385,16 @@ Mika Rinne
 - [Oracle Cloud Infrastructure CLI Command Reference](https://docs.oracle.com/en-us/iaas/tools/oci-cli/3.37.2/oci_cli_docs/)
 - [Developer Community](https://forums.oracle.com/ords/apexds/domain/dev-community)
 
-# Video
+## Documents
+- [Autonomous Database ECPU - OCPU FAQ](https://www.oracle.com/a/ocom/docs/autonomous-database-ecpu-faq.pdf)
+
+## Video
 - [Oracle Video Hub](https://videohub.oracle.com/)
 - [Cloud Coaching](https://developer.oracle.com/events/cloud-coaching.html)
 - [OCI in 5](https://www.oracle.com/uk/cloud/architecture-center/oci-in-5/#free-tier)
 - [Oracle Office Hours](https://apexadb.oracle.com/ords/r/tech/catalog/videos?clear=22&session=501692299967767&cs=34UOyPUED9INcvHgWDZNcz3pgYKNlEGNlfIZGBGXxU4wrQadFv_B-MX5wyhTHTQ0TTwsWgce6HHtY1Mv7lmvygA)
 
-# OCI events
+## OCI events
 - [Cloud Coaching events](https://www.oracle.com/emea/cloud/events/cloud-coaching/) by EMEA
 - [Oracle Cloud Infrastructure Events](https://community.oracle.com/customerconnect/categories/events-oci)
 - [Oracle CloudWorld - sessions](https://reg.rf.oracle.com/flow/oracle/cwoh23/catalog/page/catalog)

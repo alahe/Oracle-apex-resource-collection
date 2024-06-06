@@ -168,6 +168,7 @@ Mika Rinne
 - [Database expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home?session=416975919135629)
 - [AI Meal planning - demo/demo2023](https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
 - [Community listing of public sites & pages that are built with APEX ]( https://www.builtwithapex.com/ords/r/bwa/built-with-apex/home )
+- [Translation APEX app](http://translate-apex.com/apex/f?p=800:START::::::)
 
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)

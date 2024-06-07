@@ -320,6 +320,7 @@ Mika Rinne
 - [Julian Dontcheff's Database Blog](https://juliandontcheff.wordpress.com/)
 - [All Things SQL](https://blogs.oracle.com/sql/)
 - [Understanding Azure AD Authentication: Interactive vs. Non-Interactive Token Acquisition](https://medium.com/@vbalebai/understanding-azure-ad-authentication-interactive-vs-non-interactive-token-acquisition-7f4ac5690298) by Vijay Balebail
+- [Automatic Indexing Cheat Sheet](https://blogs.oracle.com/datawarehousing/post/automatic-indexing-cheat-sheet) by Nigel Bayliss
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald

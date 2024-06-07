@@ -122,7 +122,7 @@ _My backup memory_
 - [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications) by Michael Pickering
 - [Oracle APEX - A promise to the low code Landscape](https://www.linkedin.com/pulse/oracle-apex-promise-low-code-landscape-govind-d-ycgyc/)
 
-##  & APEX
+##  APEX
 - Youtube: [How to display content from  in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
 - [Use Package DBMS_CLOUD_REPO with GitHub](https://fuzziebrain.com/tech-tnt/oracle-cloud/devops/use-package-dbms_cloud_repo-with-github)
 - [Leveraging the Power of DBMS_CLOUD_REPO in Oracle APEX and GitHub](https://blog.cloudifyhub.com/leveraging-the-power-of-dbmscloudrepo-in-oracle-apex-and-github-a-winning-combination)
@@ -327,7 +327,7 @@ Mika Rinne
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
 
-# #AI
+## AI
 - [Autonomous Database speaks “human”](https://blogs.oracle.com/datawarehousing/post/autonomous-database-speaks-human)
 
 ## ORDS

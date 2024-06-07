@@ -263,6 +263,9 @@ Mika Rinne
 - [Welcome to the Oracle Certview Portal](https://brm-certification.oracle.com/apex/f?p=1111:2:884964841994::NO:::)
 - [My Learning](https://mylearn.oracle.com/ou/home)
 
+## Build by APEX
+- [Rewild Earth](https://rewildearth.net/ords/r/rewildearth/_rewild-earth/new-home?session=11922050838490)
+
 ## Misc
 - [Ask Max Solution ](https://askmax.solutions/ords/r/askmax/home/home)
 - [Oracle APEX for your Enterprise Team](https://www.insum.ca/oracle-apex-enterprise-platform/)

@@ -143,6 +143,7 @@ _My backup memory_
 Mika Rinne
 - [Pretius-apex-lifecycle-aligned-utils](https://github.com/Pretius/pretius-apex-lifecycle-aligned-utils/tree/4d5ae25295ed5088450dd26e068b471d1ea190a1/pipeline-scripts)
 - [APEX Deployment Tool](https://www.oneoracledeveloper.com/2024/05/apex-deployment-tool.html) by Jan Květina
+- [Oracle APEX Testing with Chrome Recorder, Puppeteer, and Lighthouse Audit](https://pretius.com/blog/oracle-apex-testing/)
 
 ## Source, Github 
 - [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)

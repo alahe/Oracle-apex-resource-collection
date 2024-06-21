@@ -116,6 +116,7 @@ _My backup memory_
 - [Blog in Blogspot](https://dgielis.blogspot.com/) by Dimitri Gielis
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
+- [Softpath](https://jkerr.hashnode.dev/) by Joe Kerr
 ### Others Blogs platform
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys

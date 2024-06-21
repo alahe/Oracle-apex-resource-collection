@@ -26,8 +26,10 @@ _My backup memory_
   
 
 ## Blogs
+-
 - [Apex Blog](https://blogs.oracle.com/apex/)
-- [Blog ](https://joelkallman.blogspot.com/) by Joel Kallman 
+- [Blog ](https://joelkallman.blogspot.com/) by Joel Kallman
+- [Apex Developer Blogs](https://apps.cloudnueva.com/ords/r/apps/apex_blogs/home)
 - [Insum Blog ](https://www.insum.ca/resources/blog/)
 - [Laureston Solution ](https://www.laureston.ca/blog/)
    - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/)

@@ -136,6 +136,8 @@ _My backup memory_
 - [Leveraging the Power of DBMS_CLOUD_REPO in Oracle APEX and GitHub](https://blog.cloudifyhub.com/leveraging-the-power-of-dbmscloudrepo-in-oracle-apex-and-github-a-winning-combination)
 - [Oracle Sample Projects](https://github.com/oracle-samples)
 - [Oracle APEX Wins Best Software Development Platform 2023](https://pierre-yotti-it.com/oracle-apex-wins-best-software-development-platform-2023/)
+- [Oracle APEX Use Cases: Cloud Applications](https://blog.maathra.com/oracle-apex-use-cases-cloud-applications) by Aron Mohan
+- 
 
 ---
 ## DevOps - CI/CD

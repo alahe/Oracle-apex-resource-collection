@@ -102,6 +102,9 @@ _My backup memory_
    - [Using AI to generate Oracle APEX Theme Roller Styles](https://mattmulvaney.hashnode.dev/using-ai-to-generate-oracle-apex-theme-roller-styles?source=more_articles_bottom_blogs)
 - [Oracle APEX Blog](https://epolanco.dev/) by Ender Polanco Rivas
 - [An APEX Authentication Scheme for Fusion](https://jmjcloudblog.hashnode.dev/an-apex-authentication-scheme-for-fusion) by Matt Paine
+- [Softpath](https://jkerr.hashnode.dev/) by Joe Kerr
+- [More or Less About Oracle Database](https://wsowa.hashnode.dev/?source=top_nav_blog_home) by Wojciech Sowa
+- [Pierre Yotti IT-Beratung ](https://pierre-yotti-it.com/blog/) by Pierre Yotti 
 ### [Blogs in blogspot](https://blogspot.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
 - [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino
@@ -116,7 +119,9 @@ _My backup memory_
 - [Blog in Blogspot](https://dgielis.blogspot.com/) by Dimitri Gielis
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
-- [Softpath](https://jkerr.hashnode.dev/) by Joe Kerr
+
+
+- [Mike Durran](https://insight2action.medium.com/) by Mike Durran
 ### Others Blogs platform
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
@@ -130,6 +135,7 @@ _My backup memory_
 - [Use Package DBMS_CLOUD_REPO with GitHub](https://fuzziebrain.com/tech-tnt/oracle-cloud/devops/use-package-dbms_cloud_repo-with-github)
 - [Leveraging the Power of DBMS_CLOUD_REPO in Oracle APEX and GitHub](https://blog.cloudifyhub.com/leveraging-the-power-of-dbmscloudrepo-in-oracle-apex-and-github-a-winning-combination)
 - [Oracle Sample Projects](https://github.com/oracle-samples)
+- [Oracle APEX Wins Best Software Development Platform 2023](https://pierre-yotti-it.com/oracle-apex-wins-best-software-development-platform-2023/)
 
 ---
 ## DevOps - CI/CD
@@ -213,6 +219,7 @@ Mika Rinne
 - [Readiness for an Oracle Forms Modernization](https://www.insum.ca/oracle-forms-migration-survey/) by Insum
 - [Forms to APEX / Tools and Methologia](https://www.insum.ca/portfolio/forms-to-apex-using-tools-methodology/) by Insum
 - [Oracle APEX for Forms Developers ](https://prezi.com/i52u-kdd2gmu/oracle-apex-for-forms-developers/) by Scott Wesley
+- [Modernizing Oracle Forms Using Oracle APEX](https://pierre-yotti-it.com/modernizing-oracle-forms-using-oracle-apex/) by PIERRE YOTTI
 - [Office Hours - Forms Modernization ](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=4825) by  Joel Kallman
 
 ## Files
@@ -279,6 +286,7 @@ Mika Rinne
 - [Keyboard shortcuts](https://cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/)
 - [Template component plugin](https://apex.mt-itsolutions.com/ords/r/portal/apex/template-component-challenge)
 - [TARDIA – Time And Related Datatypes In APEX ](https://www.linkedin.com/events/tardia-timeandrelateddatatypesi7081454729582575616/theater/) by Ed Jones
+- 
 
 # ADB
 - [Autonomous Database Getting Started](https://www.oracle.com/autonomous-database/get-started/)

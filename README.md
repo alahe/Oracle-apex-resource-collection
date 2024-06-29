@@ -104,7 +104,8 @@ _My backup memory_
 - [An APEX Authentication Scheme for Fusion](https://jmjcloudblog.hashnode.dev/an-apex-authentication-scheme-for-fusion) by Matt Paine
 - [Softpath](https://jkerr.hashnode.dev/) by Joe Kerr
 - [More or Less About Oracle Database](https://wsowa.hashnode.dev/?source=top_nav_blog_home) by Wojciech Sowa
-- [Pierre Yotti IT-Beratung ](https://pierre-yotti-it.com/blog/) by Pierre Yotti 
+- [Pierre Yotti IT-Beratung ](https://pierre-yotti-it.com/blog/) by Pierre Yotti
+- [Generate Data Fast with Oracle APEX Data Generator](https://sandra-suarez.com/apex-data-generator) by Sandra Suarez
 ### [Blogs in blogspot](https://blogspot.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
 - [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino

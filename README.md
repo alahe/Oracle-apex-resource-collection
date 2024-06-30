@@ -100,6 +100,7 @@ _My backup memory_
 - [Blog](https://hashnode.com/@danielhochleitner) by Daniel Hochleitner
 - [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
    - [Using AI to generate Oracle APEX Theme Roller Styles](https://mattmulvaney.hashnode.dev/using-ai-to-generate-oracle-apex-theme-roller-styles?source=more_articles_bottom_blogs)
+   - [Oracle APEX Authentication with Microsoft Azure Active Directory](https://mattmulvaney.hashnode.dev/oracle-apex-authentication-with-microsoft-azure-active-directory)
 - [Oracle APEX Blog](https://epolanco.dev/) by Ender Polanco Rivas
 - [An APEX Authentication Scheme for Fusion](https://jmjcloudblog.hashnode.dev/an-apex-authentication-scheme-for-fusion) by Matt Paine
 - [Softpath](https://jkerr.hashnode.dev/) by Joe Kerr

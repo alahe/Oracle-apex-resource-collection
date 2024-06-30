@@ -156,6 +156,8 @@ _My backup memory_
 Mika Rinne
 - [Pretius-apex-lifecycle-aligned-utils](https://github.com/Pretius/pretius-apex-lifecycle-aligned-utils/tree/4d5ae25295ed5088450dd26e068b471d1ea190a1/pipeline-scripts)
 - [APEX Deployment Tool](https://www.oneoracledeveloper.com/2024/05/apex-deployment-tool.html) by Jan Květina
+- [D.O.M.E. for Oracle 5.1 (Deployment Organization Made Easy](https://github.com/zorantica/dome)
+- [DB Flux ](https://github.com/MaikMichel/dbFlux)
 - [Oracle APEX Testing with Chrome Recorder, Puppeteer, and Lighthouse Audit](https://pretius.com/blog/oracle-apex-testing/)
 
 ## Source, Github 

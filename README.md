@@ -158,7 +158,7 @@ Mika Rinne
 - [APEX Deployment Tool](https://www.oneoracledeveloper.com/2024/05/apex-deployment-tool.html) by Jan Květina
 - [D.O.M.E. for Oracle 5.1 (Deployment Organization Made Easy](https://github.com/zorantica/dome) by Zoran Tica
 - [DB Flux ](https://github.com/MaikMichel/dbFlux) by Maik Michel
-- [Oracle APEX Testing with Chrome Recorder, Puppeteer, and Lighthouse Audit](https://pretius.com/blog/oracle-apex-testing/)
+- [Oracle APEX Testing with Chrome Recorder, Puppeteer, and Lighthouse Audit](https://pretius.com/blog/oracle-apex-testing/) by Tomáš Kucharzyk
 
 ## Source, Github 
 - [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)

@@ -121,7 +121,11 @@ _My backup memory_
 - [Blog in Blogspot](https://dgielis.blogspot.com/) by Dimitri Gielis
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
-
+- [Low-Code Development](https://nielsdebr.blogspot.com/) by Niels de Bruijn
+    - [About sustainability & Oracle APEX](https://nielsdebr.blogspot.com/2023/07/about-sustainability-oracle-apex.html)
+    - [Oracle APEX, Citizen Development & Governance](https://nielsdebr.blogspot.com/2023/10/oracle-apex-citizen-development.html)
+    - [Getting up to speed with Oracle Application Express (APEX)](https://nielsdebr.blogspot.com/2022/10/up-to-speed-with-apex.html)
+  
 
 - [Mike Durran](https://insight2action.medium.com/) by Mike Durran
 ### Others Blogs platform

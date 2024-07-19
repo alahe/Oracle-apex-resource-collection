@@ -413,6 +413,11 @@ Mika Rinne
 - [Oracle Cloud Infrastructure Documentation](https://docs.oracle.com/en-us/iaas/Content/GSG/Concepts/baremetalintro.htm) - Help Center
 - [Oracle Cloud Infrastructure CLI Command Reference](https://docs.oracle.com/en-us/iaas/tools/oci-cli/3.37.2/oci_cli_docs/)
 - [Developer Community](https://forums.oracle.com/ords/apexds/domain/dev-community)
+- [Network Visualizer](https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/network_visualizer.htm)
+  - [OCI Visualizer - GitHub](https://github.com/stretchcloud/oci-visualizer) by stretchcloud
+  - [Network Visualizer](https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/network_visualizer.htm) by Oracle Help Center
+  - [OCI Network Visualizer](https://www.ateam-oracle.com/post/oci-network-visualizer) by A-Team Chronicles
+  - [OCI Network Command Center](https://www.google.com/search?q=oci+network+visualizer&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:52839df5,vid:X5AI-H5xpzk,st:0)  by Oracle Learning
 
 ## Documents
 - [Autonomous Database ECPU - OCPU FAQ](https://www.oracle.com/a/ocom/docs/autonomous-database-ecpu-faq.pdf)
@@ -432,10 +437,6 @@ Mika Rinne
 ## OCI Best practise
 - [Best practices framework for Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/oci-best-practices/toc.htm#Table-of-Contents)
 - [Best Practices for Compartments](https://blogs.oracle.com/cloud-infrastructure/post/best-practices-for-compartments)
-- [Network Visualizer](https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/network_visualizer.htm)
-  - [OCI Visualizer - GitHub](https://github.com/stretchcloud/oci-visualizer) by stretchcloud
-  - [Network Visualizer](https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/network_visualizer.htm) by Oracle Help Center
-  - [OCI Network Visualizer](https://www.ateam-oracle.com/post/oci-network-visualizer) by A-Team Chronicles
 - [Take control of your networks with the OCI network monitoring kit](https://blogs.oracle.com/cloud-infrastructure/post/control-networks-oci-network-monitoring-kit)
 - [Overview of Security Best Practices in OCI Tenancy](https://www.ateam-oracle.com/post/oci-tenancy-security-best-practices-guide-overview)
 

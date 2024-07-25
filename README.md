@@ -13,6 +13,7 @@ _My backup memory_
 
 ## General
 - [APEX Document](https://docs.oracle.com/en/database/oracle/apex/)
+- [Apex - GitHub](https://github.com/oracle/apex)
 - [App Builder User's Guide](https://docs.oracle.com/en/database/oracle/apex/23.1/htmdb/index.html#Oracle%C2%AE-APEX)
 - [Javascript API doc](https://apex.oracle.com/jsapi)
 - [PL/SQL API](https://apex.oracle.com/api)
@@ -190,8 +191,8 @@ Mika Rinne
 - [AI Meal planning - demo/demo2023](https://apex.oracle.com/pls/apex/r/flows_ms/ai-meal-planning/login?)
 - [Community listing of public sites & pages that are built with APEX ]( https://www.builtwithapex.com/ords/r/bwa/built-with-apex/home )
 - [Translation APEX app](http://translate-apex.com/apex/f?p=800:START::::::)
-- 
-
+- [Faceted Search, Smart Filter - Enhancements - 24.1](https://apex.oracle.com/pls/apex/f?p=196768:1:7823581409303:::::) by Ronny Weiß (APEX)
+- [Presentations & Publications by Ronny Weiß](https://apex.oracle.com/pls/apex/f?p=103428) by Ronny Weiß (APEX)
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [Modern CI/CD Pipelines for App Dev with Converged Oracle Database](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3314&p210_wec=)

@@ -38,6 +38,7 @@ _My backup memory_
 - [Pretius Blog](https://pretius.com/blog/)
     - [Want to change your Oracle APEX authentication scheme dynamically? Follow this simple guide](https://pretius.com/blog/apex-dynamic-authentication-scheme-changes/)
     - [Liquibase tutorial 2024: What is this tool and how to start using it effectively?](https://pretius.com/blog/liquibase-tutorial/) by Rafał Grzegorczyk
+  
 - [United Codes Blog](https://blog.united-codes.com/)
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
 - [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott
@@ -95,6 +96,7 @@ _My backup memory_
    - [Install Oracle APEX into...Oracle APEX](https://rafal.hashnode.dev/install-oracle-apex-intooracle-apex)
    - [Use SQLcl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-sqlcl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
    - [Oracle APEX vs. Oracle Forms challenge: create a master-detail report](https://rafal.hashnode.dev/oracle-apex-vs-oracle-forms-challenge-create-a-master-detail-report)
+   -  [A whirlwind tour of Database Schema Changes Tracking Tools: Introduction](https://rafal.hashnode.dev/a-whirlwind-tour-of-database-schema-changes-tracking-tools-introduction?source=more_series_bottom_blogs ) By Rafał Grzegorczyk 2024
 - [APEX World](https://blog.apex.world/) by Juergen Schuster
 - [Yet another IT Consultant](https://yaitcon.hashnode.dev/?source=top_nav_blog_home) by Tom Lie
 - [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
@@ -367,7 +369,8 @@ Mika Rinne
 
 ## Development and CI/CD
 - [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)
-- [Morgan Library ](https://www.morganslibrary.org/library.html) 
+- [Morgan Library ](https://www.morganslibrary.org/library.html)
+- [A whirlwind tour of Database Schema Changes Tracking Tools: Introduction](https://rafal.hashnode.dev/a-whirlwind-tour-of-database-schema-changes-tracking-tools-introduction?source=more_series_bottom_blogs ) By Rafał Grzegorczyk 2024
 - [What is Liquibase and how to start using it? Automate your database scripts deployment with this Liquibase tutorial](https://pretius.com/blog/liquibase-tutorial/#basics) By Rafał Grzegorczyk, 2021
 - [Learn to manage cloud code repositories (GitHub, Azure Repos, AWS CodeCommit) with Autonomous Database](https://blogs.oracle.com/datawarehousing/post/cloud-code-repositories-in-autonomous-database)
 - [Oracle PL/SQL Debugging with SQL Developer](https://www.youtube.com/watch?v=rBA8gL8NyXE&t=3s) By Jeff Smith

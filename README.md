@@ -143,8 +143,7 @@ _My backup memory_
 - [Leveraging the Power of DBMS_CLOUD_REPO in Oracle APEX and GitHub](https://blog.cloudifyhub.com/leveraging-the-power-of-dbmscloudrepo-in-oracle-apex-and-github-a-winning-combination)
 - [Oracle Sample Projects](https://github.com/oracle-samples)
 - [Oracle APEX Wins Best Software Development Platform 2023](https://pierre-yotti-it.com/oracle-apex-wins-best-software-development-platform-2023/)
-- [Oracle APEX Use Cases: Cloud Applications](https://blog.maathra.com/oracle-apex-use-cases-cloud-applications) by Aron Mohan
-- 
+- [Oracle APEX Use Cases: Cloud Applications](https://blog.maathra.com/oracle-apex-use-cases-cloud-applications) by Aron Mohan 
 
 ---
 ## DevOps - CI/CD
@@ -275,7 +274,6 @@ Mika Rinne
 - [Six Secrets of APEX - (presentatsiooni näidis Apexis)](https://www.youtube.com/watch?v=0VBSmkdEXhE) by Ed Jones
 ---------
 - [Low-code development with Oracle APEX](https://youtu.be/SBAF2D_KirI?si=F9SbJR0TSkHi7MRM)
-- []()
 
 ## Community
 - [Ask questions from cummunity Stackoverflow ](https://stackoverflow.com/questions/tagged/oracle-apex)
@@ -297,7 +295,7 @@ Mika Rinne
 - [Keyboard shortcuts](https://cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/)
 - [Template component plugin](https://apex.mt-itsolutions.com/ords/r/portal/apex/template-component-challenge)
 - [TARDIA – Time And Related Datatypes In APEX ](https://www.linkedin.com/events/tardia-timeandrelateddatatypesi7081454729582575616/theater/) by Ed Jones
-- 
+
 
 # ADB
 - [Autonomous Database Getting Started](https://www.oracle.com/autonomous-database/get-started/)

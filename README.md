@@ -65,6 +65,8 @@ _My backup memory_
    - [Oracle APEX – Transforming Cerner](https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
    - [Oracle APEX Auth - Microsoft Azure Entra ID Integration](https://www.rittmanmead.com/blog/2024/01/oracle-apex-authentication-with-azure/)
    - [Oracle APEX - Transforming Cerner, Game changer?](https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
+   - [Tip Tuesday | Set Dates and Times in Autonomous DB and APEX](https://www.rittmanmead.com/blog/2024/06/dates-and-times-in-autonomous-db-and-apex/)
+   - [Tip Tuesday | Connect to Public ADB Without a Wallet](https://www.rittmanmead.com/blog/2024/06/tip-tuesday-establishing-a-mutual-authentication-when-connecting-publicaly-to-adb/)
 
 ### [Blogs in Hashnode](https://hashnode.com/)
 - [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
@@ -123,6 +125,7 @@ _My backup memory_
 - [Apex by G ](https://apexbyg.blogspot.com/) by Marko Gorički 
 - [Blog in Blogspot](https://dgielis.blogspot.com/) by Dimitri Gielis
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
+- [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
 - [Low-Code Development](https://nielsdebr.blogspot.com/) by Niels de Bruijn
     - [About sustainability & Oracle APEX](https://nielsdebr.blogspot.com/2023/07/about-sustainability-oracle-apex.html)
@@ -132,7 +135,7 @@ _My backup memory_
 
 - [Mike Durran](https://insight2action.medium.com/) by Mike Durran
 ### Others Blogs platform
-- [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
+
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
 - [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
 - [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
@@ -194,6 +197,7 @@ Mika Rinne
 - [Translation APEX app](http://translate-apex.com/apex/f?p=800:START::::::)
 - [Faceted Search, Smart Filter - Enhancements - 24.1](https://apex.oracle.com/pls/apex/f?p=196768:1:7823581409303:::::) by Ronny Weiß (APEX)
 - [Presentations & Publications by Ronny Weiß](https://apex.oracle.com/pls/apex/f?p=103428) by Ronny Weiß (APEX)
+  
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [Modern CI/CD Pipelines for App Dev with Converged Oracle Database](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3314&p210_wec=)
@@ -303,12 +307,10 @@ Mika Rinne
 - [Autonomous Database Getting Started](https://www.oracle.com/autonomous-database/get-started/)
 - [Autonomous Database](https://www.oracle.com/autonomous-database/)
 - [Oracle Autonomous Database](https://docs.oracle.com/en/cloud/paas/autonomous-database/index.html) - Help Center
-- [The Autonomous Database Insider](https://blogs.oracle.com/datawarehousing/category/dwh-newsletter)
 - [What Is an Autonomous Database](https://www.oracle.com/autonomous-database/what-is-autonomous-database/)
 - [Get started with Autonomous Database](https://www.oracle.com/autonomous-database/get-started/)
 - [Using Oracle Autonomous Database Serverless](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/index.html#Oracle%C2%AE-Cloud)
 - [Oracle Autonomous Database on Dedicated Exadata Infrastructure](https://docs.oracle.com/en/cloud/paas/autonomous-database/dedicated/adbaa/#articletitle)
-- [Autonomous Database Learning Lounge](https://blogs.oracle.com/datawarehousing/post/oracle-autonomous-database-learning-lounge)
 - [Autonomous Database Demonstrations](https://www.oracle.com/database/autonomous-database/adb-demos/)
 - [LiveLabs Workshop Series: Get Started with Autonomous Database](https://bit.ly/adb-livelabs)
 - [What’s New for Oracle Autonomous Database Serverless](https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/whats-new-adwc.html#GUID-F31A86F8-012B-4235-A0BE-4ABF75164853)
@@ -326,9 +328,23 @@ Mika Rinne
 
 ## Blogs
 
-- [2023 in Review for Autonomous Database on Dedicated Exadata Infrastructure](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)
-- [4 Ways to Connect to Autonomous Database on a Private Network](https://blogs.oracle.com/datawarehousing/post/4-ways-to-connect-to-autonomous-database-on-a-private-network)
-- [Leverage OCI Functions to notify Live Feed Table in a Autonomous Database Private Endpoint](https://blogs.oracle.com/datawarehousing/post/leverage-oci-functions-to-notify-live-feed-table-in-a-autonomous-database-private-endpoint)
+- [Oracle Blogs](https://blogs.oracle.com/)
+  - [The Autonomous Database Insider](https://blogs.oracle.com/datawarehousing/category/dwh-newsletter)
+  - [2023 in Review for Autonomous Database on Dedicated Exadata Infrastructure](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)
+  - [4 Ways to Connect to Autonomous Database on a Private Network](https://blogs.oracle.com/datawarehousing/post/4-ways-to-connect-to-autonomous-database-on-a-private-network)
+  - [Securely Connecting to Autonomous DB Without a Wallet (Using TLS)](https://blogs.oracle.com/developers/post/securely-connecting-to-autonomous-db-without-a-wallet-using-tls) by Todd Sharp
+  - [Easy wallet-less connections to Oracle Autonomous Databases-Shared Infrastructure in Python](https://blogs.oracle.com/opal/post/easy-way-to-connect-python-applications-to-oracle-autonomous-databases) by Sharad Chandran R
+  - [Autonomous Database Learning Lounge](https://blogs.oracle.com/datawarehousing/post/oracle-autonomous-database-learning-lounge)
+  - [Leverage OCI Functions to notify Live Feed Table in a Autonomous Database Private Endpoint](https://blogs.oracle.com/datawarehousing/post/leverage-oci-functions-to-notify-live-feed-table-in-a-autonomous-database-private-endpoint)
+  - [Automatic Indexing Cheat Sheet](https://blogs.oracle.com/datawarehousing/post/automatic-indexing-cheat-sheet) by Nigel Bayliss
+  - [Autonomous Database speaks “human”](https://blogs.oracle.com/datawarehousing/post/autonomous-database-speaks-human)
+  - [Oracle Databse Insider - Easy Oracle Database Migration with SQLcl](https://blogs.oracle.com/database/post/easy-oracle-database-migration-with-sqlcl)
+  - [Learn to manage cloud code repositories (GitHub, Azure Repos, AWS CodeCommit) with Autonomous Database](https://blogs.oracle.com/datawarehousing/post/cloud-code-repositories-in-autonomous-database)
+  - [Oracle Database Vault on Autonomous Database: Quickly and Easily](https://blogs.oracle.com/datawarehousing/post/oracle-database-vault-on-autonomous-database-quickly-and-easily) by Can Tuzla, 2020
+- [All Things SQL ](https://blogs.oracle.com/sql/) by Oracle
+   - [How to compare two tables to get the different rows with SQL ](https://blogs.oracle.com/sql/post/how-to-compare-two-tables-to-get-the-different-rows-with-sql) by Chris Saxon
+- [Ask TOM Questions](https://asktom.oracle.com/ords/f?p=100:1::::1::) 
+   - [Script to compare data in all tables in two different databases, if the table is present in both the databases.](https://asktom.oracle.com/ords/f?p=100:11:0::::P11_QUESTION_ID:9531089900346576427)  by  Connor McDonald
 - [Database-centric development blog ](https://www.salvis.com/blog/) by Philipp Salvisberg
 - [Connor McDonald Blog](https://connor-mcdonald.com/)
 - [That Jeff Smith - Mostly Making Oracle easy](https://www.thatjeffsmith.com/)
@@ -336,20 +352,17 @@ Mika Rinne
    - [Oracle SQLcl version 21.4: Data Pump Support](https://www.thatjeffsmith.com/archive/2021/12/oracle-sqlcl-datapump/)
    - [SQLcl on Oracle Cloud Infrastructure (OCI)](https://www.thatjeffsmith.com/archive/2019/12/sqlcl-on-oracle-cloud-infrastructure-oci/)
    - [REPEAT after me, it’s easy to monitor with Oracle SQLcl!](https://www.thatjeffsmith.com/archive/2023/05/repeat-after-me-its-easy-to-monitor-with-oracle-sqlcl/)
-- [All Things SQL ](https://blogs.oracle.com/sql/) by Oracle
-   - [How to compare two tables to get the different rows with SQL ](https://blogs.oracle.com/sql/post/how-to-compare-two-tables-to-get-the-different-rows-with-sql) by Chris Saxon
-- [Ask TOM Questions](https://asktom.oracle.com/ords/f?p=100:1::::1::) 
-   - [Script to compare data in all tables in two different databases, if the table is present in both the databases.](https://asktom.oracle.com/ords/f?p=100:11:0::::P11_QUESTION_ID:9531089900346576427)  by  Connor McDonald
 - [ORACLE-BASE](https://oracle-base.com/)
    - [DBMS_COMPARISON : Identify Row Differences Between Objects and Optionally Converge the Data ](https://oracle-base.com/articles/11g/dbms_comparison-identify-row-differences-between-objects) by Oracle-Base (Tim Hall)
 - [Julian Dontcheff's Database Blog](https://juliandontcheff.wordpress.com/)
-- [All Things SQL](https://blogs.oracle.com/sql/)
 - [Understanding Azure AD Authentication: Interactive vs. Non-Interactive Token Acquisition](https://medium.com/@vbalebai/understanding-azure-ad-authentication-interactive-vs-non-interactive-token-acquisition-7f4ac5690298) by Vijay Balebail
-- [Automatic Indexing Cheat Sheet](https://blogs.oracle.com/datawarehousing/post/automatic-indexing-cheat-sheet) by Nigel Bayliss
 - [Databases Are Fun](https://dohdatabase.com/)
   - [Connect to Autonomous Database using the Cloud Shell and SQLcl](https://youtu.be/akqLUKMzngc?si=R9_lZ2k6DoJw0pen) by Daniel Overby Hansen (Oracle)
   - [How to Migrate to Autonomous Database Using Database Migration Service and OCI CLI](https://dohdatabase.com/2023/02/02/how-to-migrate-to-autonomous-database-using-database-migration-service-and-oci-cli/)
-
+- [Oracle Autonomous Database](https://mjromeo81.com/2020/12/24/oracle-autonomous-database/) by Auxiliary Memory – Mark Romeo's Oracle Blog
+  - [Oracle Autonomous Database: SYSDATE and Time Zones](https://mjromeo81.com/2020/12/25/oracle-autonomous-database-sysdate-and-time-zones/)
+  - [Oracle Autonomous Database: Setting up ACLs and Private Endpoints](https://mjromeo81.com/2020/12/24/oracle-autonomous-database-setting-up-acls-and-private-endpoints/)
+- [Connection to Oracle Autonomous Database](https://orabliss.blogspot.com/2024/02/connection-to-oracle-autonomous-database.html) by Selvakumar Nagulan
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald

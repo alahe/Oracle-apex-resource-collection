@@ -346,6 +346,10 @@ Mika Rinne
 - [All Things SQL](https://blogs.oracle.com/sql/)
 - [Understanding Azure AD Authentication: Interactive vs. Non-Interactive Token Acquisition](https://medium.com/@vbalebai/understanding-azure-ad-authentication-interactive-vs-non-interactive-token-acquisition-7f4ac5690298) by Vijay Balebail
 - [Automatic Indexing Cheat Sheet](https://blogs.oracle.com/datawarehousing/post/automatic-indexing-cheat-sheet) by Nigel Bayliss
+- [Databases Are Fun](https://dohdatabase.com/)
+  - [Connect to Autonomous Database using the Cloud Shell and SQLcl](https://youtu.be/akqLUKMzngc?si=R9_lZ2k6DoJw0pen) by Daniel Overby Hansen (Oracle)
+  - [How to Migrate to Autonomous Database Using Database Migration Service and OCI CLI](https://dohdatabase.com/2023/02/02/how-to-migrate-to-autonomous-database-using-database-migration-service-and-oci-cli/)
+
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
@@ -366,6 +370,8 @@ Mika Rinne
 ## Migration
 - [Oracle Database Upgrades and Migrations](https://www.youtube.com/channel/UCTKvCZwAbOeTSRFQDAh7yXw) - Youtube channel
 - [Oracle Databse Insider - Easy Oracle Database Migration with SQLcl](https://blogs.oracle.com/database/post/easy-oracle-database-migration-with-sqlcl)
+- [Oracle Database Upgrades and Migrations](https://www.youtube.com/channel/UCTKvCZwAbOeTSRFQDAh7yXw)
+  - [How to Migrate to Autonomous Database Using Database Migration Service and OCI CLI](https://dohdatabase.com/2023/02/02/how-to-migrate-to-autonomous-database-using-database-migration-service-and-oci-cli/)
 
 ## Development and CI/CD
 - [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)
@@ -420,6 +426,8 @@ Mika Rinne
   - [Network Visualizer](https://docs.oracle.com/en-us/iaas/Content/Network/Concepts/network_visualizer.htm) by Oracle Help Center
   - [OCI Network Visualizer](https://www.ateam-oracle.com/post/oci-network-visualizer) by A-Team Chronicles
   - [OCI Network Command Center](https://www.google.com/search?q=oci+network+visualizer&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:52839df5,vid:X5AI-H5xpzk,st:0)  by Oracle Learning
+- [CloudTrainingOCI](https://www.youtube.com/@learnocicloud)
+  -[Oracle Cloud Infrastructure 3 ways to connect to your Autonomous Database](https://youtu.be/sTtyHzLQU4M?si=73v80X2Qj0IoyZ1Q) 
 
 ## Documents
 - [Autonomous Database ECPU - OCPU FAQ](https://www.oracle.com/a/ocom/docs/autonomous-database-ecpu-faq.pdf)

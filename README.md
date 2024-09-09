@@ -68,6 +68,8 @@ _My backup memory_
    - [Tip Tuesday | Set Dates and Times in Autonomous DB and APEX](https://www.rittmanmead.com/blog/2024/06/dates-and-times-in-autonomous-db-and-apex/)
    - [Tip Tuesday | Connect to Public ADB Without a Wallet](https://www.rittmanmead.com/blog/2024/06/tip-tuesday-establishing-a-mutual-authentication-when-connecting-publicaly-to-adb/)
    - [Oracle APEX - Compared to Microsoft Power Apps](https://www.rittmanmead.com/blog/2024/02/microsoft-power-apps-vs-oracle-apex/)
+- [Simon Collins Blog](https://www.rittmanmead.com/blog/author/simon-collins/)
+   - [Oracle APEX - Microsoft Azure Entra ID Integration](https://www.rittmanmead.com/blog/2024/01/oracle-apex-authentication-with-azure/)   
 
 ### [Blogs in Hashnode](https://hashnode.com/)
 - [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 

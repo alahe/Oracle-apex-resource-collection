@@ -67,6 +67,7 @@ _My backup memory_
    - [Oracle APEX - Transforming Cerner, Game changer?](https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
    - [Tip Tuesday | Set Dates and Times in Autonomous DB and APEX](https://www.rittmanmead.com/blog/2024/06/dates-and-times-in-autonomous-db-and-apex/)
    - [Tip Tuesday | Connect to Public ADB Without a Wallet](https://www.rittmanmead.com/blog/2024/06/tip-tuesday-establishing-a-mutual-authentication-when-connecting-publicaly-to-adb/)
+   - [Oracle APEX - Compared to Microsoft Power Apps](https://www.rittmanmead.com/blog/2024/02/microsoft-power-apps-vs-oracle-apex/)
 
 ### [Blogs in Hashnode](https://hashnode.com/)
 - [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 

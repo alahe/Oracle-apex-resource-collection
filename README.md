@@ -146,7 +146,8 @@ _My backup memory_
 - [Oracle APEX - A promise to the low code Landscape](https://www.linkedin.com/pulse/oracle-apex-promise-low-code-landscape-govind-d-ycgyc/)
 
 ##  APEX
-- Youtube: [How to display content from  in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)  GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
+- Youtube: [How to display content from  in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)
+- GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
 - [Use Package DBMS_CLOUD_REPO with GitHub](https://fuzziebrain.com/tech-tnt/oracle-cloud/devops/use-package-dbms_cloud_repo-with-github)
 - [Leveraging the Power of DBMS_CLOUD_REPO in Oracle APEX and GitHub](https://blog.cloudifyhub.com/leveraging-the-power-of-dbmscloudrepo-in-oracle-apex-and-github-a-winning-combination)
 - [Oracle Sample Projects](https://github.com/oracle-samples)
@@ -176,6 +177,8 @@ Mika Rinne
 - [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)
 - [Apex plugins](https://github.com/Pretius) By Pretius
 - [ADT - APEX Deployment Tool](https://github.com/jkvetina/ADT/) by Jan Kvetina
+- [Youtube Embed Template Component](https://github.com/Vastyles/timplating-youtube-embed/) by Tim Kimberl
+- [Hero Template Component](https://github.com/Vastyles/timplating-hero) by Tim Kimberl
 
 ## Development support APEX apps
 - [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home) by Louis Moreaux
@@ -200,6 +203,7 @@ Mika Rinne
 - [Translation APEX app](http://translate-apex.com/apex/f?p=800:START::::::)
 - [Faceted Search, Smart Filter - Enhancements - 24.1](https://apex.oracle.com/pls/apex/f?p=196768:1:7823581409303:::::) by Ronny Weiß (APEX)
 - [Presentations & Publications by Ronny Weiß](https://apex.oracle.com/pls/apex/f?p=103428) by Ronny Weiß (APEX)
+- [Timplating Demo Apps- ](https://apex.oracle.com/pls/apex/r/timplating/templates/home)
   
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)

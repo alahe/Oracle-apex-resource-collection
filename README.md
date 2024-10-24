@@ -27,7 +27,6 @@ _My backup memory_
   
 
 ## Blogs
--
 - [Apex Blog](https://blogs.oracle.com/apex/)
 - [Blog ](https://joelkallman.blogspot.com/) by Joel Kallman
 - [Apex Developer Blogs](https://apps.cloudnueva.com/ords/r/apps/apex_blogs/home)
@@ -134,11 +133,9 @@ _My backup memory_
     - [About sustainability & Oracle APEX](https://nielsdebr.blogspot.com/2023/07/about-sustainability-oracle-apex.html)
     - [Oracle APEX, Citizen Development & Governance](https://nielsdebr.blogspot.com/2023/10/oracle-apex-citizen-development.html)
     - [Getting up to speed with Oracle Application Express (APEX)](https://nielsdebr.blogspot.com/2022/10/up-to-speed-with-apex.html)
-  
-
 - [Mike Durran](https://insight2action.medium.com/) by Mike Durran
+ 
 ### Others Blogs platform
-
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
 - [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
 - [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat

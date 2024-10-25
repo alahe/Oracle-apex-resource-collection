@@ -176,11 +176,15 @@ Mika Rinne
 - [ADT - APEX Deployment Tool](https://github.com/jkvetina/ADT/) by Jan Kvetina
 - [Youtube Embed Template Component](https://github.com/Vastyles/timplating-youtube-embed/) by Tim Kimberl
 - [Hero Template Component](https://github.com/Vastyles/timplating-hero) by Tim Kimberl
+- [Example Instruction on how to send pretty HTML Emails from APEX](https://github.com/chipbaber/apex_email) by Chip Baber
+- []()
 
 ## Development support APEX apps
 - [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home) by Louis Moreaux
 - [Community Plug-Ins](https://www.united-codes.com/ords/r/pluginspro_web/pluginspro_free/getting-started)
 - [Universal Theme](https://apex.oracle.com/pls/apex/r/apex_pm/ut/getting-started)
+- [Universal Theme- Components](https://apex.oracle.com/pls/apex/r/apex_pm/ut/components)
+- [APEX Template Studio](https://apex-template-studio.united-codes.com/ords/r/pip/apex-template-studio/home) by United Codes
 - [Ted Struik](https://tedstruik-oracle.nl/ords/f?p=25384:1::::::)
 - [Canada APEX Samples](https://apex.oracle.com/pls/apex/f?p=111708:1:107547918643401:::::)
 - [APEX AppLab - Demo](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts) by Plamen Mushkov

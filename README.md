@@ -171,13 +171,15 @@ Mika Rinne
 - [Oracle APEX Testing with Chrome Recorder, Puppeteer, and Lighthouse Audit](https://pretius.com/blog/oracle-apex-testing/) by Tomáš Kucharzyk
 
 ## Source, Github 
+- [Oracle Sample Projects](https://github.com/oracle-samples)
+- [Oracle Database Sample Schemas](https://github.com/oracle-samples/db-sample-schemas)
 - [Insum - Template for Oracle PL/SQL and/or APEX development projects](https://github.com/insum-labs/starter-project-template)
 - [Apex plugins](https://github.com/Pretius) By Pretius
 - [ADT - APEX Deployment Tool](https://github.com/jkvetina/ADT/) by Jan Kvetina
 - [Youtube Embed Template Component](https://github.com/Vastyles/timplating-youtube-embed/) by Tim Kimberl
 - [Hero Template Component](https://github.com/Vastyles/timplating-hero) by Tim Kimberl
 - [Example Instruction on how to send pretty HTML Emails from APEX](https://github.com/chipbaber/apex_email) by Chip Baber
-- []()
+  
 
 ## Development support APEX apps
 - [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home) by Louis Moreaux

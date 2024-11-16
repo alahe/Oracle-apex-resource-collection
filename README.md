@@ -29,7 +29,6 @@ _My backup memory_
 - [Oracle Developer & Technology User Group (ODTUG)](https://www.odtug.com/)
 - [Oracle User Groups - Cloud Customer Connect](https://community.oracle.com/customerconnect/categories/user-groups)
 - [Australian Oracle User Group (AUSOUG)](https://ausoug.org.au/data/membership/)
-- ()
 - [New York Oracle User Group (NOUG)](https://nyoug.org/)
 
 ## Blogs
@@ -263,6 +262,7 @@ Mika Rinne
 
 ## UX & APEX
 - [UX and APEX](https://www.dropbox.com/s/di85yi9svo1zbxo/AAA_UX.mp4?dl=0)
+- [Revolutionizing Oracle APEX UI/UX: A Live Makeover Using Template Directives and AI-Powered Docs](https://youtu.be/EC4iGVO6v6A?si=hYd6H-upgX6XjCsX)
 
 ## Flows for APEX
 - [Flows for APEX](https://flowsforapex.org/)

@@ -46,10 +46,10 @@ _My backup memory_
 - [United Codes Blog](https://blog.united-codes.com/)
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
 - [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott
-- [A Backup for My Brain!](https://ruepprich.com/) by Christoph Ruepprich
+- [A Backup for My Brn!](https://ruepprich.com/) by Christoph Ruepprich
 - [Dive into APEX ](https://diveintoapex.com/) by Steve Muench
     - [Simplify APEX App REST APIs with JSON Duality Views](https://diveintoapex.com/2024/03/05/simplify-apex-app-rest-apis-with-json-duality-views/) 
-- [Thinking Anew - Blog](https://fuzziebrain.com/content/a-yearful-of-ai-but-whats-next) by Ardian Png 
+- [Thinking Anew - Blog](https://fuzziebrn.com/content/a-yearful-of--but-whats-next) by Ardian Png 
 - [Weblog](https://blogs.oracle.com/shay/) by Shay Shmeltzer
 - [Mostly APEX Information](https://rimblas.com/blog/) by Jorge Rimblas
 - [Vincent Blog](https://vmorneau.me/) by Vincent Morneau
@@ -283,6 +283,7 @@ Mika Rinne
 - [APEX India: Learn, Conect and Collaborate](https://www.youtube.com/watch?v=mszEBHeMBDE)
 - [Getting started with AJAX in APEX](https://www.youtube.com/watch?v=ga-IgB15wDI)
 - [Unlock the Power of Oracle APEX: How Native Low-Code Development Can Take Your Business to New Heights!](https://videohub.oracle.com/media/Unlock+the+Power+of+Oracle+APEXA+How+Native+Low-Code+Development+Can+Take+Your+Business+to+New+Heights%21/1_yy0ry8nn)
+- [Unlock AI Potential with Oracle APEX](https://youtu.be/FqbJyMST_EM?si=woAHY_sHEtezx1mE) by Toufiq Mohammed
 - [The future of data and app dev—keynote | Oracle CloudWorld 2023](https://www.youtube.com/watch?v=irtZOznG1Z8) by Juan Loaiza
 - [Oracle’s vision for the future—keynote | Oracle CloudWorld 2023](https://www.youtube.com/watch?v=63DmgBN1rSI) by Larry Ellison
 - [Low-Code and AI for Automating Invoice Processing & Approval Workflow - a customer Story](https://www.youtube.com/watch?v=TsbNU6xdQPw) by Trailcon
@@ -386,6 +387,7 @@ Mika Rinne
 
 ## AI
 - [Autonomous Database speaks “human”](https://blogs.oracle.com/datawarehousing/post/autonomous-database-speaks-human)
+- [Low-Code, AI, and the Future of App Creation with Oracle APEX](https://youtu.be/QFOXQ8v8UwY?si=lR7fESENEfrUOl6R) by Marc Swetz
 
 ## ORDS
 - [Oracle REST Data Services (ORDS) best practices](https://www.oracle.com/database/technologies/appdev/rest/best-practices/)

@@ -444,7 +444,8 @@ Mika Rinne
 - [DB - Oracle Advanced Security](https://www.oracle.com/security/database-security/advanced-security/#rc30p5)
 - [Proxy Authentication](https://docs.oracle.com/en/database/oracle/oracle-database/19/dbseg/configuring-authentication.html#GUID-F2004DF1-1122-4614-9D3D-2F8330855A93)
 - [ORADBA - Just another Site about Oracle, Database Security, Linux, Mac OS X and more](https://www.oradba.ch/wordpress/)
-- [Demo | OCI Private Endpoint](https://www.youtube.com/watch?v=rxCxruALwtw) by 
+- [Demo | OCI Private Endpoint](https://www.youtube.com/watch?v=rxCxruALwtw) by
+- [Oracle Database Security a technical primer. ž](https://download.oracle.com/database/oracle-database-security-primer.pdf) by Oracle
 
 # OCI
 - [What can we help you find?](https://docs.oracle.com/en/) - Help Center

@@ -24,7 +24,13 @@ _My backup memory_
 - ----------------
 - [Shortcuts](https://apex.oracle.com/pls/apex/f?p=411:18)
 - [Links - Awesome Oracle APEX ](https://github.com/Dani3lSun/awesome-orclapex) by Daniel Hochleitner
-  
+
+## User groups  
+- [Oracle Developer & Technology User Group (ODTUG)](https://www.odtug.com/)
+- [Oracle User Groups - Cloud Customer Connect](https://community.oracle.com/customerconnect/categories/user-groups)
+- [Australian Oracle User Group (AUSOUG)](https://ausoug.org.au/data/membership/)
+- ()
+- [New York Oracle User Group (NOUG)](https://nyoug.org/)
 
 ## Blogs
 - [Apex Blog](https://blogs.oracle.com/apex/)
@@ -512,7 +518,8 @@ Mika Rinne
 - [SET_PARSING_SCHEMA_FOR _REQUEST Procedure](https://docs.oracle.com/en/database/oracle/apex/23.2/aeapi/SET_PARSING_SCHEMA_FOR_REQUEST-Procedure.html#GUID-2DB16C9E-6238-4DF9-A920-20D8E8FA93C0)
 - [WHY THE NEW 23C DATABASE FEATURE JSON RELATIONAL DUALITY VIEWS MAY CHANGE THE LIFE OF DEVELOPERS](https://nloug.nl/wp-content/uploads/2023/12/Peter-de-Vaal_DualityViews.pdf)
 - [Polyglot Data Modeling](https://hackolade.com/polyglot-data-modeling.html)
-- [Steve Jobs on programmer productivity](https://wonko.com/post/steve-jobs-on-programmer-productivity/) 
+- [Steve Jobs on programmer productivity](https://wonko.com/post/steve-jobs-on-programmer-productivity/)
+- 
 ## MS SQL vs Oracle Database
 - [Database-workloads in the Cloud? Oracle is not expensive](https://www.linkedin.com/pulse/database-workloads-cloud-oracle-expensive-jan-pedersen/)
 - [System Properties Comparison Microsoft SQL Server vs. Oracle](https://db-engines.com/en/system/Microsoft+SQL+Server%3BOracle)

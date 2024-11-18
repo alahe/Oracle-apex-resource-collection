@@ -423,6 +423,7 @@ Mika Rinne
 - [Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019
 - [Move to the Cloud](https://dohdatabase.files.wordpress.com/2022/02/move_to_the_cloud.pdf) by Roy F. Swonger, Mike Dietrich, Daniel Overby Hansen, William Beauregard, Rodrigo Jorge,  2022
 - [Oracle Cloud World - 2023 presentation in PDF](https://www.dropbox.com/scl/fi/v9f1udy4wyxdk6uuxe99v/All-PDfs-for-download.zip?rlkey=rt58aqsrhjklsnvj2173tm7l7&dl=0)
+- [Free review of everything Autonomous at CloudWorld 2024](https://www.oracle.com/a/tech/docs/database/review-of-adb-cloudworld.pdf)
 
 ## Security
 - [AskTom DB Security](https://github.com/oradbsec/AskTomDBSecurity/tree/main) 

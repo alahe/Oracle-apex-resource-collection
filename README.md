@@ -211,7 +211,7 @@ Mika Rinne
 - [Translation APEX app](http://translate-apex.com/apex/f?p=800:START::::::)
 - [Faceted Search, Smart Filter - Enhancements - 24.1](https://apex.oracle.com/pls/apex/f?p=196768:1:7823581409303:::::) by Ronny Weiß (APEX)
 - [Presentations & Publications by Ronny Weiß](https://apex.oracle.com/pls/apex/f?p=103428) by Ronny Weiß (APEX)
-- [Timplating Demo Apps- ](https://apex.oracle.com/pls/apex/r/timplating/templates/home)
+- [Timplating Demo Apps- ](https://apex.oracle.com/pls/apex/r/timplating/templates/home) by Tim Kimberl
   
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
@@ -493,6 +493,7 @@ Mika Rinne
 - [Use these shortcuts for selecting text in VS Code!](https://youtu.be/DL0HB_qlSVk?si=ZmwHKiA1G1IRvmpH)
 - [Oracle Developer Tools for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/oracle-developer-tools-for-vs-code) Official Community Forum
 - [SQL Developer for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/sqldev-for-vscode) Official Community Forum
+- [Logging in our VS Code Extension, the code behind the code](https://www.thatjeffsmith.com/archive/2024/01/logging-in-our-vs-code-extension-the-code-behind-the-code/)
 
 ## Forums
 - [Oracle Developer Tools for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/oracle-developer-tools-for-vs-code) Community Forum

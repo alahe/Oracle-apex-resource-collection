@@ -33,6 +33,7 @@ _My backup memory_
 
 ## Blogs
 - [Apex Blog](https://blogs.oracle.com/apex/)
+  - [Configuring Generative AI in Oracle APEX using Select AI](https://blogs.oracle.com/apex/post/configuring-generative-ai-in-oracle-apex-using-select-ai) by Toufiq Mohammed
 - [Blog ](https://joelkallman.blogspot.com/) by Joel Kallman
 - [Apex Developer Blogs](https://apps.cloudnueva.com/ords/r/apps/apex_blogs/home)
 - [Insum Blog ](https://www.insum.ca/resources/blog/)
@@ -359,6 +360,7 @@ Mika Rinne
   - [Oracle Databse Insider - Easy Oracle Database Migration with SQLcl](https://blogs.oracle.com/database/post/easy-oracle-database-migration-with-sqlcl)
   - [Learn to manage cloud code repositories (GitHub, Azure Repos, AWS CodeCommit) with Autonomous Database](https://blogs.oracle.com/datawarehousing/post/cloud-code-repositories-in-autonomous-database)
   - [Oracle Database Vault on Autonomous Database: Quickly and Easily](https://blogs.oracle.com/datawarehousing/post/oracle-database-vault-on-autonomous-database-quickly-and-easily) by Can Tuzla, 2020
+  - [Using Data Redaction in Oracle Database 23ai](https://blogs.oracle.com/database/post/using-data-redaction) by Richard Evans
 - [All Things SQL ](https://blogs.oracle.com/sql/) by Oracle
    - [How to compare two tables to get the different rows with SQL ](https://blogs.oracle.com/sql/post/how-to-compare-two-tables-to-get-the-different-rows-with-sql) by Chris Saxon
 - [Ask TOM Questions](https://asktom.oracle.com/ords/f?p=100:1::::1::) 

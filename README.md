@@ -12,8 +12,8 @@ _My backup memory_
 </header>
 
 ## General
-- [APEX Document](https://docs.oracle.com/en/database/oracle/apex/)
-- [Apex - GitHub](https://github.com/oracle/apex)
+- [APEX Document](https://docs.oracle.com/en/database/oracle/apex/) by Oracle Help Center
+- [Apex - GitHub](https://github.com/oracle/apex) by Orcle
 - [App Builder User's Guide](https://docs.oracle.com/en/database/oracle/apex/23.1/htmdb/index.html#Oracle%C2%AE-APEX)
 - [Javascript API doc](https://apex.oracle.com/jsapi)
 - [PL/SQL API](https://apex.oracle.com/api)
@@ -246,7 +246,7 @@ Mika Rinne
  - [Source: GitHUb - utPLSQL ](https://github.com/utPLSQL)
  - [Youtube - OracleMania: Testing with utPLSQL – Made Easy with SQL Developer](https://youtu.be/B7qWmF4rDd4?si=q5jLsIbxH6-wB5iD) by Philipp Salvisberg
  - [Youtube - EMEA EOUC: Cypress and APEX automated testing](https://www.youtube.com/watch?v=mSO0m-4uxGw) by  Schildenfeld
- - [Youtube - Insum: Advanced APEX UI Test Automation with Cypress](https://youtu.be/QFzN_0soxiQ?si=eUFDUlbiycdygrdC)
+ - [Youtube - Insum: Advanced APEX UI Test Automation with Cypress](https://youtu.be/QFzN_0soxiQ?si=eUFDUlbiycdygrdC) by Hayden Hudson 
  - [Testing With utPLSQL – Made Easy With SQL Developer](https://www.salvis.com/blog/2022/07/31/testing-with-utplsql-made-easy-with-sql-developer/) by Philipp Salvisberg
  - [](https://tm-apex.hashnode.dev/the-importance-of-software-testing)
 

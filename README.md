@@ -13,7 +13,7 @@ _My backup memory_
 
 ## General
 - [APEX Document](https://docs.oracle.com/en/database/oracle/apex/) by Oracle Help Center
-- [Apex - GitHub](https://github.com/oracle/apex) by Orcle
+- [Apex - GitHub](https://github.com/oracle/apex) by Oracle
 - [App Builder User's Guide](https://docs.oracle.com/en/database/oracle/apex/23.1/htmdb/index.html#Oracle%C2%AE-APEX)
 - [Javascript API doc](https://apex.oracle.com/jsapi)
 - [PL/SQL API](https://apex.oracle.com/api)
@@ -35,15 +35,13 @@ _My backup memory_
 - [Apex Blog](https://blogs.oracle.com/apex/)
   - [Configuring Generative AI in Oracle APEX using Select AI](https://blogs.oracle.com/apex/post/configuring-generative-ai-in-oracle-apex-using-select-ai) by Toufiq Mohammed
 - [Blog ](https://joelkallman.blogspot.com/) by Joel Kallman
-- [Apex Developer Blogs](https://apps.cloudnueva.com/ords/r/apps/apex_blogs/home)
 - [Insum Blog ](https://www.insum.ca/resources/blog/)
 - [Laureston Solution ](https://www.laureston.ca/blog/)
-   - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/)
-   - [15 Top Tips to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top-tips-to-tune-your-oracle-apex-performance/)
+   - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/) by Michelle
+   - [15 Top Tips to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top-tips-to-tune-your-oracle-apex-performance/) by Michelle
 - [Pretius Blog](https://pretius.com/blog/)
-    - [Want to change your Oracle APEX authentication scheme dynamically? Follow this simple guide](https://pretius.com/blog/apex-dynamic-authentication-scheme-changes/)
+    - [Want to change your Oracle APEX authentication scheme dynamically? Follow this simple guide](https://pretius.com/blog/apex-dynamic-authentication-scheme-changes/) by Rafał Grzegorczyk
     - [Liquibase tutorial 2024: What is this tool and how to start using it effectively?](https://pretius.com/blog/liquibase-tutorial/) by Rafał Grzegorczyk
-  
 - [United Codes Blog](https://blog.united-codes.com/)
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
 - [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott
@@ -58,10 +56,11 @@ _My backup memory_
 - [The Coding & Thoughts blog](https://micodify.de/) by Maik Michel
 - [HardLikeSoftware](https://hardlikesoftware.com/weblog/category/apex/) by John Snyders
 - [Oracle  Apex blog](https://jeffkemponoracle.com/) by Jeff Kemp
-- [TH Technology](https://thtechnology.com/)
+- [TH Technology](https://thtechnology.com/) by Karen Cannel
 - [DB Tools and Cloud Ramblings](https://krisrice.io/) by Kris Rice
 - [Daniel Blog ](https://blog.danielhochleitner.de/) by Daniel Hochleitner
 - [Oracle & More. Oracle APEX - Web Development](https://blog.neilfernandez.com/) by Neil Fernandez
+  
 ### [Rittmanmead - Blogs](https://www.rittmanmead.com/blog/)
 - [Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - [Petar Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic
@@ -73,7 +72,7 @@ _My backup memory_
    - [Tip Tuesday | Set Dates and Times in Autonomous DB and APEX](https://www.rittmanmead.com/blog/2024/06/dates-and-times-in-autonomous-db-and-apex/)
    - [Tip Tuesday | Connect to Public ADB Without a Wallet](https://www.rittmanmead.com/blog/2024/06/tip-tuesday-establishing-a-mutual-authentication-when-connecting-publicaly-to-adb/)
    - [Oracle APEX - Compared to Microsoft Power Apps](https://www.rittmanmead.com/blog/2024/02/microsoft-power-apps-vs-oracle-apex/)
-- [Simon Collins Blog](https://www.rittmanmead.com/blog/author/simon-collins/)
+- [Simon Collins Blog](https://www.rittmanmead.com/blog/author/simon-collins/) by Simon Collins
    - [Oracle APEX - Microsoft Azure Entra ID Integration](https://www.rittmanmead.com/blog/2024/01/oracle-apex-authentication-with-azure/)   
 
 ### [Blogs in Hashnode](https://hashnode.com/)
@@ -93,10 +92,10 @@ _My backup memory_
 - [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home) by Plamen Mushkov
    - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)     
 - [APEX Blog ](https://apexblog.dev/) by Rodrigo Mesquita
-   -[New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
+  - [New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
 - [Blogs ](https://tm-apex.hashnode.dev/) by Timo Herwix & Mohamed Bouchi
-    - [DevOps Made Easy! with Oracle Autonomous Database using PL/SQL and Git](https://tm-apex.hashnode.dev/devops-made-easy-with-oracle-autonomous-database-using-plsql-and-git?source=more_series_bottom_blogs)
-    - [Start Generating Dynamic PDFs in APEX Easily with OCI Pre-Built Functions](https://tm-apex.hashnode.dev/start-generating-dynamic-pdfs-in-apex-easily-with-oci-pre-built-functions)
+    - [DevOps Made Easy! with Oracle Autonomous Database using PL/SQL and Git](https://tm-apex.hashnode.dev/devops-made-easy-with-oracle-autonomous-database-using-plsql-and-git?source=more_series_bottom_blogs) by Timo Herwix
+    - [Start Generating Dynamic PDFs in APEX Easily with OCI Pre-Built Functions](https://tm-apex.hashnode.dev/start-generating-dynamic-pdfs-in-apex-easily-with-oci-pre-built-functions) by Timo Herwix
 - [You can do that with APEX ](https://ebs-apex.hashnode.dev/?source=top_nav_blog_home) by Simon Joyce
    - [New 23.2 "Capture Using" file upload setting!](https://ebs-apex.hashnode.dev/new-232-capture-using-file-upload-setting)
    - [Using Workflow in APEX 23.2](https://ebs-apex.hashnode.dev/using-workflow-in-apex-232?source=more_articles_bottom_blogs)
@@ -125,7 +124,7 @@ _My backup memory_
 - [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino
 - [Trent's Tech Tips ](https://apextips.blogspot.com/)
 - [Notes on Oracle](https://nuijten.blogspot.com/) by Alex Nuijten
-   -[Parse CSV-file in different Character Set with APEX_DATA_PARSER](https://nuijten.blogspot.com/2023/02/parse-csv-file-in-different-character.html) 
+   - [Parse CSV-file in different Character Set with APEX_DATA_PARSER](https://nuijten.blogspot.com/2023/02/parse-csv-file-in-different-character.html) 
 - [ORA-00001: Unique constraint violated](https://ora-00001.blogspot.com/) by Morten Braten
 - [Welcome to my corner of the web](https://montylatiolais.blogspot.com/) by Monty Latiolais
 - [Blog in Blogspot ](https://roelhartman.blogspot.com/) by Roel Hartman
@@ -146,7 +145,7 @@ _My backup memory_
 - [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
 - [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
 - [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications) by Michael Pickering
-- [Oracle APEX - A promise to the low code Landscape](https://www.linkedin.com/pulse/oracle-apex-promise-low-code-landscape-govind-d-ycgyc/)
+- [Oracle APEX - A promise to the low code Landscape](https://www.linkedin.com/pulse/oracle-apex-promise-low-code-landscape-govind-d-ycgyc/) by Govind D
 
 ##  APEX
 - Youtube: [How to display content from  in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)
@@ -167,7 +166,7 @@ _My backup memory_
 - [Youtube: Oracle APEX Development Lifecycle - Git and Continuous Delivery Automation](https://youtu.be/JiP1jKO-nx8?si=DCKognz7aWOrP1pr) by Shay Shmeltzer
 - [Yuotube: Understanding the APEX Application Development Lifecycle](https://www.youtube.com/watch?v=MilbA_yyIHk) by Steve Muench
 - [Testing PL/SQL in your Ci/Cd pipeline with utPLSQL](https://youtu.be/rgbAG8RgR9U?si=Mqu8s4--URDGjcNq) by Blaine Carter
-- [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications)
+- [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications) by Michael Pickering
 - [APEX and IaC](https://github.com/pocelka) by Peter Ocelka
 - [Deploying single page app to Azure Static Web using Oracle Database Service for Azure (ODSA) with REST (ORDS) and GitHub actions](https://github.com/mikarinneoracle/odsa?tab=readme-ov-file) by 
 Mika Rinne
@@ -199,6 +198,7 @@ Mika Rinne
 - [Universal Theme- Components](https://apex.oracle.com/pls/apex/r/apex_pm/ut/components)
 - [APEX Template Studio](https://apex-template-studio.united-codes.com/ords/r/pip/apex-template-studio/home) by United Codes
 - [Ted Struik](https://tedstruik-oracle.nl/ords/f?p=25384:1::::::)
+   - [Table Size](https://tedstruik-oracle.nl/ords/f?p=25384:1017::::::) 
 - [Canada APEX Samples](https://apex.oracle.com/pls/apex/f?p=111708:1:107547918643401:::::)
 - [APEX AppLab - Demo](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts) by Plamen Mushkov
 - [Dynamic-action.com ](https://www.juergen-schuster-it.de/ords/f?p=161:1:9068317033900:::::)

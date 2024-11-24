@@ -537,10 +537,7 @@ Mika Rinne
 - [WHY THE NEW 23C DATABASE FEATURE JSON RELATIONAL DUALITY VIEWS MAY CHANGE THE LIFE OF DEVELOPERS](https://nloug.nl/wp-content/uploads/2023/12/Peter-de-Vaal_DualityViews.pdf)
 - [Polyglot Data Modeling](https://hackolade.com/polyglot-data-modeling.html)
 - [Steve Jobs on programmer productivity](https://wonko.com/post/steve-jobs-on-programmer-productivity/)
-  
-
-
-  
+- 
 ## MS SQL vs Oracle Database
 - [Database-workloads in the Cloud? Oracle is not expensive](https://www.linkedin.com/pulse/database-workloads-cloud-oracle-expensive-jan-pedersen/)
 - [System Properties Comparison Microsoft SQL Server vs. Oracle](https://db-engines.com/en/system/Microsoft+SQL+Server%3BOracle)
@@ -548,7 +545,5 @@ Mika Rinne
 - [System Properties Comparison Microsoft SQL Server vs. Oracle](https://db-engines.com/en/system/Microsoft+SQL+Server%3BMySQL%3BOracle)
 - [Comparisons between Oracle vs SQL Server](https://www.geeksforgeeks.org/comparisons-between-oracle-vs-sql-server/)
 - [System Properties Comparison Microsoft SQL Server vs. MySQL vs. Oracle](https://db-engines.com/en/system/Microsoft+SQL+Server%3BMySQL%3BOracle)
-
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
-
 - [GREEN SOFTWARE Foundation](https://greensoftware.foundation/)

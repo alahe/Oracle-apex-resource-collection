@@ -188,6 +188,8 @@ Mika Rinne
 - [Youtube Embed Template Component](https://github.com/Vastyles/timplating-youtube-embed/) by Tim Kimberl
 - [Hero Template Component](https://github.com/Vastyles/timplating-hero) by Tim Kimberl
 - [Example Instruction on how to send pretty HTML Emails from APEX](https://github.com/chipbaber/apex_email) by Chip Baber
+- [The Sakila example database](https://github.com/jOOQ/sakila) 
+- [Tanel Poder's Performance & Troubleshooting Tools for Oracle Databases](https://github.com/tanelpoder/tpt-oracle) by Tanel Põder
   
 
 ## Development support APEX apps
@@ -524,13 +526,22 @@ Mika Rinne
 - [IAM Policies](https://www.youtube.com/watch?v=N1DzC5VS7-k)
 - [OCI IAM Identity Domains - Creating Access Policies](https://www.youtube.com/watch?v=2e7czJanMTQ)
 
+## Oracle SQL and PLSQL
+- [Tanel Poder Consulting](https://tanelpoder.com/) by Tanel Põder
+  - [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/) by Tanel Põder
+- [Awesome Database Tools](https://github.com/lukaseder/awesome-db-tools) by Lukas Eder
+- [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder
+
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)
 - [SET_PARSING_SCHEMA_FOR _REQUEST Procedure](https://docs.oracle.com/en/database/oracle/apex/23.2/aeapi/SET_PARSING_SCHEMA_FOR_REQUEST-Procedure.html#GUID-2DB16C9E-6238-4DF9-A920-20D8E8FA93C0)
 - [WHY THE NEW 23C DATABASE FEATURE JSON RELATIONAL DUALITY VIEWS MAY CHANGE THE LIFE OF DEVELOPERS](https://nloug.nl/wp-content/uploads/2023/12/Peter-de-Vaal_DualityViews.pdf)
 - [Polyglot Data Modeling](https://hackolade.com/polyglot-data-modeling.html)
 - [Steve Jobs on programmer productivity](https://wonko.com/post/steve-jobs-on-programmer-productivity/)
-- 
+  
+
+
+  
 ## MS SQL vs Oracle Database
 - [Database-workloads in the Cloud? Oracle is not expensive](https://www.linkedin.com/pulse/database-workloads-cloud-oracle-expensive-jan-pedersen/)
 - [System Properties Comparison Microsoft SQL Server vs. Oracle](https://db-engines.com/en/system/Microsoft+SQL+Server%3BOracle)

@@ -84,7 +84,6 @@ _My backup memory_
    - [APEX Developer Blogs Website](https://blog.cloudnueva.com/apex-developer-blogs-website)
    - [APEX_WEB_SERVICE The Definitive Guide](https://blog.cloudnueva.com/apexwebservice-the-definitive-guide)
    - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
-
 - [Apex_debug](https://apexdebug.com/) by Anton Nielsen
 - [Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home) by Scott Spendolini
    - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
@@ -100,12 +99,12 @@ _My backup memory_
    - [New 23.2 "Capture Using" file upload setting!](https://ebs-apex.hashnode.dev/new-232-capture-using-file-upload-setting)
    - [Using Workflow in APEX 23.2](https://ebs-apex.hashnode.dev/using-workflow-in-apex-232?source=more_articles_bottom_blogs)
 - [Just another APEX story... ](https://lcieslik.hashnode.dev/?source=top_nav_blog_home) by Lech Cieślik
-- - [Marking countries on the map - Oracle APEX, Map and 'Have been' app](https://lcieslik.hashnode.dev/marking-countries-on-the-map-oracle-apex-map-and-have-been-app)
+  - [Marking countries on the map - Oracle APEX, Map and 'Have been' app](https://lcieslik.hashnode.dev/marking-countries-on-the-map-oracle-apex-map-and-have-been-app)
 - [Keep It Simple. Developer's tips.](https://rafal.hashnode.dev/) by Rafal Grzegorczyk
    - [Install Oracle APEX into...Oracle APEX](https://rafal.hashnode.dev/install-oracle-apex-intooracle-apex)
    - [Use SQLcl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-sqlcl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
    - [Oracle APEX vs. Oracle Forms challenge: create a master-detail report](https://rafal.hashnode.dev/oracle-apex-vs-oracle-forms-challenge-create-a-master-detail-report)
-   -  [A whirlwind tour of Database Schema Changes Tracking Tools: Introduction](https://rafal.hashnode.dev/a-whirlwind-tour-of-database-schema-changes-tracking-tools-introduction?source=more_series_bottom_blogs ) By Rafał Grzegorczyk 2024
+   - [A whirlwind tour of Database Schema Changes Tracking Tools: Introduction](https://rafal.hashnode.dev/a-whirlwind-tour-of-database-schema-changes-tracking-tools-introduction?source=more_series_bottom_blogs ) By Rafał Grzegorczyk 2024
 - [APEX World](https://blog.apex.world/) by Juergen Schuster
 - [Yet another IT Consultant](https://yaitcon.hashnode.dev/?source=top_nav_blog_home) by Tom Lie
 - [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
@@ -135,9 +134,9 @@ _My backup memory_
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
 - [Low-Code Development](https://nielsdebr.blogspot.com/) by Niels de Bruijn
-    - [About sustainability & Oracle APEX](https://nielsdebr.blogspot.com/2023/07/about-sustainability-oracle-apex.html)
-    - [Oracle APEX, Citizen Development & Governance](https://nielsdebr.blogspot.com/2023/10/oracle-apex-citizen-development.html)
-    - [Getting up to speed with Oracle Application Express (APEX)](https://nielsdebr.blogspot.com/2022/10/up-to-speed-with-apex.html)
+   - [About sustainability & Oracle APEX](https://nielsdebr.blogspot.com/2023/07/about-sustainability-oracle-apex.html)
+   - [Oracle APEX, Citizen Development & Governance](https://nielsdebr.blogspot.com/2023/10/oracle-apex-citizen-development.html)
+   - [Getting up to speed with Oracle Application Express (APEX)](https://nielsdebr.blogspot.com/2022/10/up-to-speed-with-apex.html)
 - [Mike Durran](https://insight2action.medium.com/) by Mike Durran
  
 ### Others Blogs platform

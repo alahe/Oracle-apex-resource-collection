@@ -394,6 +394,7 @@ Mika Rinne
 ## AI
 - [Autonomous Database speaks “human”](https://blogs.oracle.com/datawarehousing/post/autonomous-database-speaks-human)
 - [Low-Code, AI, and the Future of App Creation with Oracle APEX](https://youtu.be/QFOXQ8v8UwY?si=lR7fESENEfrUOl6R) by Marc Swetz
+- [AI Solutions Hub](https://www.oracle.com/artificial-intelligence/solutions/)
 
 ## ORDS
 - [Oracle REST Data Services (ORDS) best practices](https://www.oracle.com/database/technologies/appdev/rest/best-practices/)
@@ -406,10 +407,13 @@ Mika Rinne
 - [Globally Distributed Database](https://www.oracle.com/database/distributed-database/#elasticity)
 
 ## Migration
+- [Migrate Oracle Databases to OCI](https://www.oracle.com/database/cloud-migration/)
 - [Oracle Database Upgrades and Migrations](https://www.youtube.com/channel/UCTKvCZwAbOeTSRFQDAh7yXw) - Youtube channel
 - [Oracle Databse Insider - Easy Oracle Database Migration with SQLcl](https://blogs.oracle.com/database/post/easy-oracle-database-migration-with-sqlcl)
 - [Oracle Database Upgrades and Migrations](https://www.youtube.com/channel/UCTKvCZwAbOeTSRFQDAh7yXw)
   - [How to Migrate to Autonomous Database Using Database Migration Service and OCI CLI](https://dohdatabase.com/2023/02/02/how-to-migrate-to-autonomous-database-using-database-migration-service-and-oci-cli/)
+- [ZMD - Oracle Zero Downtime Migration – Logical Migration Performance Guidelines](https://www.oracle.com/a/tech/docs/zdm-gg-performance.pdf)
+- [Oracle Zero Downtime Migration – Logical Online Migration to ADB-S on Oracle Database@Azure](https://www.oracle.com/a/otn/docs/database/zdm-logical-online-migration-to-oracle-at-azure-adb-s.pdf)
 
 ## Development and CI/CD
 - [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)
@@ -423,6 +427,8 @@ Mika Rinne
 - [Dropping an Oracle table with SQLcl and Liquibase](https://www.thatjeffsmith.com/archive/2023/05/dropping-an-oracle-table-with-sqlcl-and-liquibase/)
 - [Run Liquibase updates for a specific schema with SQLcl](https://www.thatjeffsmith.com/archive/2022/12/run-liquibase-updates-for-a-specific-schema-with-sqlcl/)
 - [GitHub - Deploy Private Endpoint for Autonomous Database to take advantage of the fully managed](https://github.com/oracle-quickstart/oci-arch-atp-private)
+- [Developer Coaching On Demand](https://www.oracle.com/emea/cloud/events/cloud-coaching/on-demand/)
+- [Free Oracle technologies for Developers](https://oracle.github.io/free/#/)
   
 
 ## ADB presentations
@@ -455,6 +461,10 @@ Mika Rinne
 - [ORADBA - Just another Site about Oracle, Database Security, Linux, Mac OS X and more](https://www.oradba.ch/wordpress/)
 - [Demo | OCI Private Endpoint](https://www.youtube.com/watch?v=rxCxruALwtw) by
 - [Oracle Database Security a technical primer. ž](https://download.oracle.com/database/oracle-database-security-primer.pdf) by Oracle
+- [Youtube - Cloud Coaching - Security-First approach for your OCI Tenancy](https://www.youtube.com/watch?v=ZB87VUcK6Tg)
+- [Security Best Practices](https://docs.oracle.com/en-us/iaas/Content/Security/Reference/configuration_security.htm#Security_Best_Practices)
+- [Improve your security posture with Cloud Guard](https://youtu.be/WryEshHA0-8?si=vFq5sJyGZ_QNEDpq)
+- [OCI Health Checks - Self Service](https://www.youtube.com/watch?v=WryEshHA0-8)
 
 # OCI
 - [What can we help you find?](https://docs.oracle.com/en/) - Help Center
@@ -467,7 +477,8 @@ Mika Rinne
   - [OCI Network Visualizer](https://www.ateam-oracle.com/post/oci-network-visualizer) by A-Team Chronicles
   - [OCI Network Command Center](https://www.google.com/search?q=oci+network+visualizer&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:52839df5,vid:X5AI-H5xpzk,st:0)  by Oracle Learning
 - [CloudTrainingOCI](https://www.youtube.com/@learnocicloud)
-  -[Oracle Cloud Infrastructure 3 ways to connect to your Autonomous Database](https://youtu.be/sTtyHzLQU4M?si=73v80X2Qj0IoyZ1Q) 
+  -[Oracle Cloud Infrastructure 3 ways to connect to your Autonomous Database](https://youtu.be/sTtyHzLQU4M?si=73v80X2Qj0IoyZ1Q)
+- [Youtube- What's New in Oracle Tech Platform](https://www.youtube.com/@Oracle/search?query=What%27s%20New%20in%20Oracle%20Tech%20Platform%3A)  
 
 ## Documents
 - [Autonomous Database ECPU - OCPU FAQ](https://www.oracle.com/a/ocom/docs/autonomous-database-ecpu-faq.pdf)
@@ -483,6 +494,7 @@ Mika Rinne
 - [Oracle Cloud Infrastructure Events](https://community.oracle.com/customerconnect/categories/events-oci)
 - [Oracle CloudWorld - sessions](https://reg.rf.oracle.com/flow/oracle/cwoh23/catalog/page/catalog)
 - [Oracle Tech Lounge](https://go.oracle.com/LP=138585?src1=:em:lw:ie:mt:::RC_WWMK230907P00020:SEV400311685&elq_mid=247900&sh=0712180512072614140608163331351619&cmid=WWMK230907P00020)
+- [What’s new in OCI](https://blogs.oracle.com/cloud-infrastructure/post/what-is-new-in-oci)
 
 ## OCI Best practise
 - [Best practices framework for Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/oci-best-practices/toc.htm#Table-of-Contents)
@@ -510,6 +522,7 @@ Mika Rinne
 
 ## Multicloud
 - [Cloud Coaching - Multicloud Network Architectures for DB Migrations to Oracle Cloud Infrastructure]( https://www.youtube.com/watch?v=1ngXJRsP5jA )
+- [Getting Started with Autonomous Database on Oracle Database Service for Microsoft Azure](https://blogs.oracle.com/datawarehousing/post/getting-started-autonomous-database-oracle-database-service-microsoft-azure)
 
 ## Oracle Cloud@Azure
 - [Oracle Database@Azure FAQ](https://www.oracle.com/cloud/azure/oracle-database-at-azure/faq/)

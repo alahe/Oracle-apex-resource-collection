@@ -405,6 +405,9 @@ Mika Rinne
 - [Awesome DATE / TIMESTAMP enhancement in Autonomous Database](https://connor-mcdonald.com/2022/02/02/awesome-date-timestamp-enhancement-in-autonomous-database/) by  Connor McDonald
 - [Oracle Database Features in Autonomous Database on Dedicated Exadata Infrastructure](https://docs.oracle.com/en-us/iaas/autonomous-database/doc/features-and-characteristics.html?Highlight=SYSDATE_AT_DBTIMEZONE)
 - [Globally Distributed Database](https://www.oracle.com/database/distributed-database/#elasticity)
+- [Time Zones and Oracle Database Patching](https://chandlerdba.com/2024/06/20/time-zones-and-oracle-database-patching/) by Neil Chandler
+- [RUs contain now all available DST patches](https://mikedietrichde.com/2023/01/19/rus-contain-now-all-available-dst-patches/) by Mike Dietrich
+- [A Wrinkle in Oracle Date and Timestamp](https://insum.talan.com/a-wrinkle-in-oracle-date-and-timestamp/) by Anton Nielsen 
 
 ## Migration
 - [Migrate Oracle Databases to OCI](https://www.oracle.com/database/cloud-migration/)
@@ -414,6 +417,8 @@ Mika Rinne
   - [How to Migrate to Autonomous Database Using Database Migration Service and OCI CLI](https://dohdatabase.com/2023/02/02/how-to-migrate-to-autonomous-database-using-database-migration-service-and-oci-cli/)
 - [ZMD - Oracle Zero Downtime Migration – Logical Migration Performance Guidelines](https://www.oracle.com/a/tech/docs/zdm-gg-performance.pdf)
 - [Oracle Zero Downtime Migration – Logical Online Migration to ADB-S on Oracle Database@Azure](https://www.oracle.com/a/otn/docs/database/zdm-logical-online-migration-to-oracle-at-azure-adb-s.pdf)
+- [Logical Offline Migration to ExaCC with Oracle Zero Downtime Migration (ZDM)](https://www.dbi-services.com/blog/physical-online-migration-to-exacc-with-oracle-zero-downtime-migration-zdm/) by Marc Wagner
+- [Move to the Cloud](https://dohdatabase.com/wp-content/uploads/2022/02/move_to_the_cloud.pdf)
 
 ## Development and CI/CD
 - [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)

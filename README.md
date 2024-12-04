@@ -21,6 +21,7 @@ _My backup memory_
 - [Office Hours](https://asktom.oracle.com/ords/r/tech/catalog/home)
 - [LiveLabs](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [LiveSQL](https://apex.oracle.com/quicksql)
+- [Downloading and Installing APEX](https://docs.oracle.com/en/database/oracle/apex/24.1/htmig/downloading-installing-apex.html#GUID-B5A5B38D-586C-488A-AE27-A168FAA28FEE)
 - ----------------
 - [Shortcuts](https://apex.oracle.com/pls/apex/f?p=411:18)
 - [Links - Awesome Oracle APEX ](https://github.com/Dani3lSun/awesome-orclapex) by Daniel Hochleitner
@@ -89,7 +90,8 @@ _My backup memory_
    - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
 - [Cloudify Hub](https://blog.cloudifyhub.com/) by Richmond
 - [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home) by Plamen Mushkov
-   - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)     
+   - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
+   - [APEX in the AI era](https://blog.apexapplab.dev/apex-in-the-ai-era)  
 - [APEX Blog ](https://apexblog.dev/) by Rodrigo Mesquita
   - [New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
 - [Blogs ](https://tm-apex.hashnode.dev/) by Timo Herwix & Mohamed Bouchi
@@ -147,6 +149,7 @@ _My backup memory_
 - [Oracle APEX - A promise to the low code Landscape](https://www.linkedin.com/pulse/oracle-apex-promise-low-code-landscape-govind-d-ycgyc/) by Govind D
 
 ##  APEX
+- [Youtube: Getting Started with Oracle APEX on Premises](https://www.youtube.com/watch?v=dvdR2jovLaE) by Oracle Apex
 - Youtube: [How to display content from  in Oracle APEX ](https://www.youtube.com/watch?v=mi1zHNkpAx8)
 - GitHub:  [APEX demo source](https://github.com/chipbaber/apex_textdemo)
 - [Use Package DBMS_CLOUD_REPO with GitHub](https://fuzziebrain.com/tech-tnt/oracle-cloud/devops/use-package-dbms_cloud_repo-with-github)
@@ -228,6 +231,7 @@ Mika Rinne
 - [ApexSec is a unique automated security analysis product for Oracle APEX](https://apexsec.recx.co.uk/)
 
 ## Debugging
+- [Apex-Debugging an Application 24.1](https://docs.oracle.com/en/database/oracle/apex/24.1/htmdb/debugging-an-application.html#GUID-65F66F2B-ADCB-41B2-8EEE-3B7D7603F50C)
 - [APEX Debugging 101](https://www.youtube.com/watch?v=GDfN45Vq9WA) by Peter Raganitsch, Apex@Home 2020
 - [APEX Debugging Playground](https://apex.oracle.com/pls/apex/f?p=25355:1::::::) app by Peter Raganitsch
 - [Using the PL/SQL Debugger](https://www.youtube.com/watch?v=b7Q55YvrcgA&list=PLPIzp-E1msrblCGG4bOcg1wnNHj2QnIqZ&index=5&t=4s) by Philipp Salvisberg, Apex@Home 2020

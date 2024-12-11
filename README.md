@@ -487,7 +487,8 @@ Mika Rinne
   - [OCI Network Command Center](https://www.google.com/search?q=oci+network+visualizer&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:52839df5,vid:X5AI-H5xpzk,st:0)  by Oracle Learning
 - [CloudTrainingOCI](https://www.youtube.com/@learnocicloud)
   -[Oracle Cloud Infrastructure 3 ways to connect to your Autonomous Database](https://youtu.be/sTtyHzLQU4M?si=73v80X2Qj0IoyZ1Q)
-- [Youtube- What's New in Oracle Tech Platform](https://www.youtube.com/@Oracle/search?query=What%27s%20New%20in%20Oracle%20Tech%20Platform%3A)  
+- [Youtube- What's New in Oracle Tech Platform](https://www.youtube.com/@Oracle/search?query=What%27s%20New%20in%20Oracle%20Tech%20Platform%3A)
+- [OCI File Manager](https://github.com/lucasjellema/oci-file-manager/blob/main/README.md) by Lucas Jellema
 
 ## Documents
 - [Autonomous Database ECPU - OCPU FAQ](https://www.oracle.com/a/ocom/docs/autonomous-database-ecpu-faq.pdf)

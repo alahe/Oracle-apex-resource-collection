@@ -91,7 +91,8 @@ _My backup memory_
 - [Cloudify Hub](https://blog.cloudifyhub.com/) by Richmond
 - [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home) by Plamen Mushkov
    - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
-   - [APEX in the AI era](https://blog.apexapplab.dev/apex-in-the-ai-era)  
+   - [APEX in the AI era](https://blog.apexapplab.dev/apex-in-the-ai-era)
+   - [APEX validations: Email address](https://apexapplab.dev/2022/09/06/apex-validations-email-address/#:~:text=Adding%20the%20email_validate%20CSS%20class,text%20is%20a%20valid%20email.)
 - [APEX Blog ](https://apexblog.dev/) by Rodrigo Mesquita
   - [New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
 - [Blogs ](https://tm-apex.hashnode.dev/) by Timo Herwix & Mohamed Bouchi

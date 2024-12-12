@@ -220,6 +220,7 @@ Mika Rinne
 - [Faceted Search, Smart Filter - Enhancements - 24.1](https://apex.oracle.com/pls/apex/f?p=196768:1:7823581409303:::::) by Ronny Weiß (APEX)
 - [Presentations & Publications by Ronny Weiß](https://apex.oracle.com/pls/apex/f?p=103428) by Ronny Weiß (APEX)
 - [Timplating Demo Apps- ](https://apex.oracle.com/pls/apex/r/timplating/templates/home) by Tim Kimberl
+- [APEX AppLab - Demo ](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts)
   
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)

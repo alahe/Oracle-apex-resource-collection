@@ -555,6 +555,7 @@ Mika Rinne
   - [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/) by Tanel Põder
 - [Awesome Database Tools](https://github.com/lukaseder/awesome-db-tools) by Lukas Eder
 - [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder
+- [Oracle Regular Expressions](https://psoug.org/reference/regexp.html)
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

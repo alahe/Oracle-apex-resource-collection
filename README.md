@@ -556,6 +556,8 @@ Mika Rinne
 - [Awesome Database Tools](https://github.com/lukaseder/awesome-db-tools) by Lukas Eder
 - [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder
 - [Oracle Regular Expressions](https://psoug.org/reference/regexp.html)
+- [Gerald on IT](https://geraldonit.com/) by Gerald from Oracle
+  - [Percentage calculations using SQL Window Functions](https://geraldonit.com/2022/12/06/percentage-sql-window-functions/)   
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

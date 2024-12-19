@@ -148,6 +148,8 @@ _My backup memory_
 - [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
 - [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications) by Michael Pickering
 - [Oracle APEX - A promise to the low code Landscape](https://www.linkedin.com/pulse/oracle-apex-promise-low-code-landscape-govind-d-ycgyc/) by Govind D
+- [dbdev01555 - ](https://dbdev01555.wordpress.com/) by Daniel Ekberg
+  - [Mapping Stockholm: From Shapefiles to APEX Maps](https://dbdev01555.wordpress.com/2024/12/17/mapping-stockholm-from-shapefiles-to-apex-maps/) 
 
 ##  APEX
 - [Youtube: Getting Started with Oracle APEX on Premises](https://www.youtube.com/watch?v=dvdR2jovLaE) by Oracle Apex
@@ -500,6 +502,8 @@ Mika Rinne
 - [Cloud Coaching](https://developer.oracle.com/events/cloud-coaching.html)
 - [OCI in 5](https://www.oracle.com/uk/cloud/architecture-center/oci-in-5/#free-tier)
 - [Oracle Office Hours](https://apexadb.oracle.com/ords/r/tech/catalog/videos?clear=22&session=501692299967767&cs=34UOyPUED9INcvHgWDZNcz3pgYKNlEGNlfIZGBGXxU4wrQadFv_B-MX5wyhTHTQ0TTwsWgce6HHtY1Mv7lmvygA)
+
+- [Database Dynamics: Harnessing Oracle and SQL Server Power](https://databasedynamics.blogspot.com/) by Anil Mahadev
 
 ## OCI events
 - [Cloud Coaching events](https://www.oracle.com/emea/cloud/events/cloud-coaching/) by EMEA

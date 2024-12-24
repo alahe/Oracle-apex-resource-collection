@@ -561,7 +561,8 @@ Mika Rinne
 - [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder
 - [Oracle Regular Expressions](https://psoug.org/reference/regexp.html)
 - [Gerald on IT](https://geraldonit.com/) by Gerald from Oracle
-  - [Percentage calculations using SQL Window Functions](https://geraldonit.com/2022/12/06/percentage-sql-window-functions/)   
+  - [Percentage calculations using SQL Window Functions](https://geraldonit.com/2022/12/06/percentage-sql-window-functions/)
+- [PLOC - PL/SQL code to doc converter](https://github.com/ogobrecht/ploc) by Ottmar Gobrecht
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

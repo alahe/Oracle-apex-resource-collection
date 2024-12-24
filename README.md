@@ -181,7 +181,11 @@ Mika Rinne
 - [DB Flux ](https://github.com/MaikMichel/dbFlux) by Maik Michel
 - [Oracle APEX Testing with Chrome Recorder, Puppeteer, and Lighthouse Audit](https://pretius.com/blog/oracle-apex-testing/) by Tomáš Kucharzyk
 - [Implementing CI/CD for Oracle Database/APEX Applications](https://medium.com/@hamzaeraoui2000/implementing-ci-cd-for-oracle-database-apex-applications-de300e1353a0) by Hamza Eraoui
+- [Implementing CI/CD for Oracle Database/APEX Applications using SQLcl Projects and Jenkins](https://medium.com/@hamzaeraoui2000/implement-the-cicd-pipeline-to-your-oracle-database-apex-application-using-sqlcl-projects-and-230630675b59) by Hamza Eraoui
 - [Database Application CI/CD](https://docs.oracle.com/en/database/oracle/sql-developer-command-line/24.3/sqcug/database-application-ci-cd.html#GUID-9C8388CE-A369-4FEE-85CD-48D9BA9D87F4)
+- [An Overview of the Oracle SQLcl Projects Development Process](https://danmcghan.hashnode.dev/an-overview-of-the-oracle-sqlcl-projects-development-process) by Dan McGhan
+
+
 
 ## Source, Github 
 - [Oracle Sample Projects](https://github.com/oracle-samples)

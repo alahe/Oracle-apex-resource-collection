@@ -407,6 +407,7 @@ Mika Rinne
 - [Autonomous Database speaks “human”](https://blogs.oracle.com/datawarehousing/post/autonomous-database-speaks-human)
 - [Low-Code, AI, and the Future of App Creation with Oracle APEX](https://youtu.be/QFOXQ8v8UwY?si=lR7fESENEfrUOl6R) by Marc Swetz
 - [AI Solutions Hub](https://www.oracle.com/artificial-intelligence/solutions/)
+- [300+ Best ChatGPT Prompts to Unleash AI’s Potential](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/) by Damir Yalalov and Karolina Gaszcz
 
 ## ORDS
 - [Oracle REST Data Services (ORDS) best practices](https://www.oracle.com/database/technologies/appdev/rest/best-practices/)

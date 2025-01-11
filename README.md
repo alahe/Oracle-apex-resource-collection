@@ -141,6 +141,9 @@ _My backup memory_
    - [Oracle APEX, Citizen Development & Governance](https://nielsdebr.blogspot.com/2023/10/oracle-apex-citizen-development.html)
    - [Getting up to speed with Oracle Application Express (APEX)](https://nielsdebr.blogspot.com/2022/10/up-to-speed-with-apex.html)
 - [Mike Durran](https://insight2action.medium.com/) by Mike Durran
+
+###
+
  
 ### Others Blogs platform
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
@@ -149,7 +152,17 @@ _My backup memory_
 - [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications) by Michael Pickering
 - [Oracle APEX - A promise to the low code Landscape](https://www.linkedin.com/pulse/oracle-apex-promise-low-code-landscape-govind-d-ycgyc/) by Govind D
 - [dbdev01555 - ](https://dbdev01555.wordpress.com/) by Daniel Ekberg
-  - [Mapping Stockholm: From Shapefiles to APEX Maps](https://dbdev01555.wordpress.com/2024/12/17/mapping-stockholm-from-shapefiles-to-apex-maps/) 
+  - [Mapping Stockholm: From Shapefiles to APEX Maps](https://dbdev01555.wordpress.com/2024/12/17/mapping-stockholm-from-shapefiles-to-apex-maps/)
+- [Follow the Coffee](https://followthecoffee.com/) by Chris Hoina (Oracle)
+  - [Microsoft Entra OAuth2.0 JWTs and ORDS secure APIs Tutorial: Configuration and Testing](https://followthecoffee.com/ords-apis-and-microsoft-entra-jwts-tutorial/)   
+  - [New ORDS feature: handling multiple files from a multipart/form-data POST request
+](https://followthecoffee.com/new-ords-feature-handling-multiple-files-from-a-multipart-form-data-post-request/)
+  - [How to kill an ORDS process](https://followthecoffee.com/how-to-kill-an-ords-process/)
+  - [The one ORDS command you NEED to know!](https://followthecoffee.com/ords-config-list-include-defaults-command/)
+  - [ORDS install considerations: choosing the correct host, port, service name, and pluggable database when the database is in a podman container](https://followthecoffee.com/oracle-database-ports-podman-ords-install/)
+  - [Podman container is unhealthy with Oracle database images](https://followthecoffee.com/podman-container-is-unhealthy-with-oracle-database-images/)
+  - [User Guide: Oracle database in a Podman container, install ORDS locally, and access a SQL Worksheet on localhost](https://followthecoffee.com/user-guide-oracle-database-in-a-podman-container-install-ords-locally-and-access-a-sql-worksheet-on-localhost/)
+  - [An intro to using Oracle SQLcl on Mac](https://followthecoffee.com/an-intro-to-using-oracle-sqlcl-on-mac/)
 
 ##  APEX
 - [Youtube: Getting Started with Oracle APEX on Premises](https://www.youtube.com/watch?v=dvdR2jovLaE) by Oracle Apex

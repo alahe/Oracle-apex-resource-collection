@@ -96,7 +96,7 @@ _My backup memory_
 - [APEX Blog ](https://apexblog.dev/) by Rodrigo Mesquita
   - [New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
 - [Blogs ](https://tm-apex.hashnode.dev/) by Timo Herwix & Mohamed Bouchi
-    - [DevOps Made Easy! with Oracle Autonomous Database using PL/SQL and Git](https://tm-apex.hashnode.dev/devops-made-easy-with-oracle-autonomous-database-using-plsql-and-git?source=more_series_bottom_blogs) by Timo Herwix
+    - [DevOps Made Easy! with Oracle Autonomous Database using PL/ and Git](https://tm-apex.hashnode.dev/devops-made-easy-with-oracle-autonomous-database-using-pl-and-git?source=more_series_bottom_blogs) by Timo Herwix
     - [Start Generating Dynamic PDFs in APEX Easily with OCI Pre-Built Functions](https://tm-apex.hashnode.dev/start-generating-dynamic-pdfs-in-apex-easily-with-oci-pre-built-functions) by Timo Herwix
 - [You can do that with APEX ](https://ebs-apex.hashnode.dev/?source=top_nav_blog_home) by Simon Joyce
    - [New 23.2 "Capture Using" file upload setting!](https://ebs-apex.hashnode.dev/new-232-capture-using-file-upload-setting)
@@ -105,7 +105,7 @@ _My backup memory_
   - [Marking countries on the map - Oracle APEX, Map and 'Have been' app](https://lcieslik.hashnode.dev/marking-countries-on-the-map-oracle-apex-map-and-have-been-app)
 - [Keep It Simple. Developer's tips.](https://rafal.hashnode.dev/) by Rafal Grzegorczyk
    - [Install Oracle APEX into...Oracle APEX](https://rafal.hashnode.dev/install-oracle-apex-intooracle-apex)
-   - [Use SQLcl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-sqlcl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
+   - [Use cl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-cl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
    - [Oracle APEX vs. Oracle Forms challenge: create a master-detail report](https://rafal.hashnode.dev/oracle-apex-vs-oracle-forms-challenge-create-a-master-detail-report)
    - [A whirlwind tour of Database Schema Changes Tracking Tools: Introduction](https://rafal.hashnode.dev/a-whirlwind-tour-of-database-schema-changes-tracking-tools-introduction?source=more_series_bottom_blogs ) By Rafał Grzegorczyk 2024
 - [APEX World](https://blog.apex.world/) by Juergen Schuster
@@ -161,7 +161,7 @@ _My backup memory_
   - [The one ORDS command you NEED to know!](https://followthecoffee.com/ords-config-list-include-defaults-command/)
   - [ORDS install considerations: choosing the correct host, port, service name, and pluggable database when the database is in a podman container](https://followthecoffee.com/oracle-database-ports-podman-ords-install/)
   - [Podman container is unhealthy with Oracle database images](https://followthecoffee.com/podman-container-is-unhealthy-with-oracle-database-images/)
-  - [User Guide: Oracle database in a Podman container, install ORDS locally, and access a SQL Worksheet on localhost](https://followthecoffee.com/user-guide-oracle-database-in-a-podman-container-install-ords-locally-and-access-a-sql-worksheet-on-localhost/)
+  - [User Guide: Oracle database in a Podman container, install ORDS locally, and access a  Worksheet on localhost](https://followthecoffee.com/user-guide-oracle-database-in-a-podman-container-install-ords-locally-and-access-a-sql-worksheet-on-localhost/)
   - [An intro to using Oracle SQLcl on Mac](https://followthecoffee.com/an-intro-to-using-oracle-sqlcl-on-mac/)
 
 ##  APEX
@@ -581,6 +581,7 @@ Mika Rinne
 - [Gerald on IT](https://geraldonit.com/) by Gerald from Oracle
   - [Percentage calculations using SQL Window Functions](https://geraldonit.com/2022/12/06/percentage-sql-window-functions/)
 - [PLOC - PL/SQL code to doc converter](https://github.com/ogobrecht/ploc) by Ottmar Gobrecht
+- [An Oracle Programmer](https://stewashton.wordpress.com/) by Stew Ashton
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

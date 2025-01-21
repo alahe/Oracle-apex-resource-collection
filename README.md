@@ -115,12 +115,14 @@ _My backup memory_
 - [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
    - [Using AI to generate Oracle APEX Theme Roller Styles](https://mattmulvaney.hashnode.dev/using-ai-to-generate-oracle-apex-theme-roller-styles?source=more_articles_bottom_blogs)
    - [Oracle APEX Authentication with Microsoft Azure Active Directory](https://mattmulvaney.hashnode.dev/oracle-apex-authentication-with-microsoft-azure-active-directory)
+   - [APEX Builder Authentication: Invalid ADB Login Credentials](https://mattmulvaney.hashnode.dev/apex-builder-authentication-invalid-adb-login-credentials)
 - [Oracle APEX Blog](https://epolanco.dev/) by Ender Polanco Rivas
 - [An APEX Authentication Scheme for Fusion](https://jmjcloudblog.hashnode.dev/an-apex-authentication-scheme-for-fusion) by Matt Paine
 - [Softpath](https://jkerr.hashnode.dev/) by Joe Kerr
 - [More or Less About Oracle Database](https://wsowa.hashnode.dev/?source=top_nav_blog_home) by Wojciech Sowa
 - [Pierre Yotti IT-Beratung ](https://pierre-yotti-it.com/blog/) by Pierre Yotti
 - [Generate Data Fast with Oracle APEX Data Generator](https://sandra-suarez.com/apex-data-generator) by Sandra Suarez
+- [APEX Background Process Progress Bar](https://lazzaro.hashnode.dev/apex-background-process-progress-bar)
 ### [Blogs in blogspot](https://blogspot.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
 - [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino
@@ -212,6 +214,7 @@ Mika Rinne
 - [Example Instruction on how to send pretty HTML Emails from APEX](https://github.com/chipbaber/apex_email) by Chip Baber
 - [The Sakila example database](https://github.com/jOOQ/sakila) 
 - [Tanel Poder's Performance & Troubleshooting Tools for Oracle Databases](https://github.com/tanelpoder/tpt-oracle) by Tanel Põder
+
   
 
 ## Development support APEX apps
@@ -242,6 +245,7 @@ Mika Rinne
 - [Presentations & Publications by Ronny Weiß](https://apex.oracle.com/pls/apex/f?p=103428) by Ronny Weiß (APEX)
 - [Timplating Demo Apps- ](https://apex.oracle.com/pls/apex/r/timplating/templates/home) by Tim Kimberl
 - [APEX AppLab - Demo ](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts)
+- [Pretius-developer-tool](https://github.com/Pretius/pretius-developer-tool) by Matt Mulvaney
   
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)

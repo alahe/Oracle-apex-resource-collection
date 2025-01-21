@@ -158,11 +158,12 @@ _My backup memory_
   - [New ORDS feature: handling multiple files from a multipart/form-data POST request
 ](https://followthecoffee.com/new-ords-feature-handling-multiple-files-from-a-multipart-form-data-post-request/)
   - [How to kill an ORDS process](https://followthecoffee.com/how-to-kill-an-ords-process/)
-  - [The one ORDS command you NEED to know!](https://followthecoffee.com/ords-config-list-include-defaults-command/)
-  - [ORDS install considerations: choosing the correct host, port, service name, and pluggable database when the database is in a podman container](https://followthecoffee.com/oracle-database-ports-podman-ords-install/)
-  - [Podman container is unhealthy with Oracle database images](https://followthecoffee.com/podman-container-is-unhealthy-with-oracle-database-images/)
-  - [User Guide: Oracle database in a Podman container, install ORDS locally, and access a  Worksheet on localhost](https://followthecoffee.com/user-guide-oracle-database-in-a-podman-container-install-ords-locally-and-access-a-sql-worksheet-on-localhost/)
-  - [An intro to using Oracle SQLcl on Mac](https://followthecoffee.com/an-intro-to-using-oracle-sqlcl-on-mac/)
+  - [The one ORDS command you NEED to know!](https://followthecoffee.com/ords-config-list-include-defaults-command/) by Chris Hoina
+  - [ORDS install considerations: choosing the correct host, port, service name, and pluggable database when the database is in a podman container](https://followthecoffee.com/oracle-database-ports-podman-ords-install/) by Chris Hoina
+  - [Podman container is unhealthy with Oracle database images](https://followthecoffee.com/podman-container-is-unhealthy-with-oracle-database-images/) by Chris Hoina
+  - [User Guide: Oracle database in a Podman container, install ORDS locally, and access a  Worksheet on localhost](https://followthecoffee.com/user-guide-oracle-database-in-a-podman-container-install-ords-locally-and-access-a-sql-worksheet-on-localhost/) by Chris Hoina
+  - [An intro to using Oracle SQLcl on Mac](https://followthecoffee.com/an-intro-to-using-oracle-sqlcl-on-mac/) by Chris Hoina
+- [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin Bach
 
 ##  APEX
 - [Youtube: Getting Started with Oracle APEX on Premises](https://www.youtube.com/watch?v=dvdR2jovLaE) by Oracle Apex

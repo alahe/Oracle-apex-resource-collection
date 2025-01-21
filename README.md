@@ -460,6 +460,7 @@ Mika Rinne
 - [GitHub - Deploy Private Endpoint for Autonomous Database to take advantage of the fully managed](https://github.com/oracle-quickstart/oci-arch-atp-private)
 - [Developer Coaching On Demand](https://www.oracle.com/emea/cloud/events/cloud-coaching/on-demand/)
 - [Free Oracle technologies for Developers](https://oracle.github.io/free/#/)
+- [SQLcl : Automating Your SQL and PL/SQL Deployments using the SQLcl implementation of Liquibase](https://oracle-base.com/articles/misc/sqlcl-automating-your-database-deployments-using-sqlcl-and-liquibase) by Tim Hall
   
 
 ## ADB presentations
@@ -582,6 +583,7 @@ Mika Rinne
   - [Percentage calculations using SQL Window Functions](https://geraldonit.com/2022/12/06/percentage-sql-window-functions/)
 - [PLOC - PL/SQL code to doc converter](https://github.com/ogobrecht/ploc) by Ottmar Gobrecht
 - [An Oracle Programmer](https://stewashton.wordpress.com/) by Stew Ashton
+- [ChrisSaxonOra office-hours](https://github.com/ChrisSaxonOra/office-hours/tree/main) by Chris Saxon
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

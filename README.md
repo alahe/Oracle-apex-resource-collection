@@ -39,7 +39,7 @@ _My backup memory_
 - [Insum Blog ](https://www.insum.ca/resources/blog/)
 - [Laureston Solution ](https://www.laureston.ca/blog/)
    - [Building a ChatGPT Application with Oracle APEX in Record Time](https://www.laureston.ca/2023/01/17/building-a-chatgpt-application-with-oracle-apex-in-record-time/) by Michelle
-   - [15 Top Tips to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top-tips-to-tune-your-oracle-apex-performance/) by Michelle
+   - [15 Top  to tune your Oracle APEX Performance](https://www.laureston.ca/2019/12/05/15-top--to-tune-your-oracle-apex-performance/) by Michelle
 - [Pretius Blog](https://pretius.com/blog/)
     - [Want to change your Oracle APEX authentication scheme dynamically? Follow this simple guide](https://pretius.com/blog/apex-dynamic-authentication-scheme-changes/) by Rafał Grzegorczyk
     - [Liquibase tutorial 2024: What is this tool and how to start using it effectively?](https://pretius.com/blog/liquibase-tutorial/) by Rafał Grzegorczyk
@@ -63,7 +63,7 @@ _My backup memory_
 - [Oracle & More. Oracle APEX - Web Development](https://blog.neilfernandez.com/) by Neil Fernandez
   
 ### [Rittmanmead - Blogs](https://www.rittmanmead.com/blog/)
-- [Oracle APEX - Tips and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
+- [Oracle APEX -  and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - [Petar Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic
    - [Oracle APEX: Auto-refresh Report](https://petarsimic.hashnode.dev/oracle-apex-auto-refresh-report)
 - [Lucas Blog](https://www.rittmanmead.com/blog/author/lucas/) by Lucas Hirschegger
@@ -77,7 +77,7 @@ _My backup memory_
    - [Oracle APEX - Microsoft Azure Entra ID Integration](https://www.rittmanmead.com/blog/2024/01/oracle-apex-authentication-with-azure/)   
 
 ### [Blogs in Hashnode](https://hashnode.com/)
-- [Tips & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
+- [ & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
 - [APEX, ORDS, ADB ](https://blog.cloudnueva.com/) by Jon Dixon
    - [Two Methods of Setting an APEX Authentication Scheme at Run-Time](https://blog.cloudnueva.com/setting-an-apex-authentication-scheme-at-run-time)
    - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
@@ -103,7 +103,7 @@ _My backup memory_
    - [Using Workflow in APEX 23.2](https://ebs-apex.hashnode.dev/using-workflow-in-apex-232?source=more_articles_bottom_blogs)
 - [Just another APEX story... ](https://lcieslik.hashnode.dev/?source=top_nav_blog_home) by Lech Cieślik
   - [Marking countries on the map - Oracle APEX, Map and 'Have been' app](https://lcieslik.hashnode.dev/marking-countries-on-the-map-oracle-apex-map-and-have-been-app)
-- [Keep It Simple. Developer's tips.](https://rafal.hashnode.dev/) by Rafal Grzegorczyk
+- [Keep It Simple. Developer's .](https://rafal.hashnode.dev/) by Rafal Grzegorczyk
    - [Install Oracle APEX into...Oracle APEX](https://rafal.hashnode.dev/install-oracle-apex-intooracle-apex)
    - [Use cl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-cl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
    - [Oracle APEX vs. Oracle Forms challenge: create a master-detail report](https://rafal.hashnode.dev/oracle-apex-vs-oracle-forms-challenge-create-a-master-detail-report)
@@ -126,7 +126,7 @@ _My backup memory_
 ### [Blogs in blogspot](https://blogspot.com/)
 - [APEX-book blogspot](https://oracle-apex-book.blogspot.com/)
 - [APEX stuff in one place](https://lschilde.blogspot.com/) by Slino
-- [Trent's Tech Tips ](https://apextips.blogspot.com/)
+- [Trent's Tech  ](https://apex.blogspot.com/)
 - [Notes on Oracle](https://nuijten.blogspot.com/) by Alex Nuijten
    - [Parse CSV-file in different Character Set with APEX_DATA_PARSER](https://nuijten.blogspot.com/2023/02/parse-csv-file-in-different-character.html) 
 - [ORA-00001: Unique constraint violated](https://ora-00001.blogspot.com/) by Morten Braten
@@ -166,6 +166,7 @@ _My backup memory_
   - [User Guide: Oracle database in a Podman container, install ORDS locally, and access a  Worksheet on localhost](https://followthecoffee.com/user-guide-oracle-database-in-a-podman-container-install-ords-locally-and-access-a-sql-worksheet-on-localhost/) by Chris Hoina
   - [An intro to using Oracle SQLcl on Mac](https://followthecoffee.com/an-intro-to-using-oracle-sqlcl-on-mac/) by Chris Hoina
 - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin Bach
+- [](https://medium.com/@cristina.varas98)
 
 ##  APEX
 - [Youtube: Getting Started with Oracle APEX on Premises](https://www.youtube.com/watch?v=dvdR2jovLaE) by Oracle Apex
@@ -264,8 +265,8 @@ Mika Rinne
 - [Debugging in Oracle APEX](https://www.youtube.com/watch?v=VVr8dybBeuE) by Malik Sikandar Hayat, 2023
 - [Enhancing the APEX Debugger ](https://content.dsp.co.uk/apex/enhancing-apex-debugger) by Matt Mulvanye, 2019
 - [How to Quickly Debug a PL/SQL Body Returning a SQL Query for a Report in Oracle APEX](https://www.youtube.com/watch?v=sY5qgqUK604) by Chip Baber
-- [Youtube: APEX Instant Tips #12: How to remote debug a user's session ](https://www.youtube.com/watch?v=fNO4qwvDReM) by Anton, Hayden and Joel
-- [Youtube: APEX Instant Tips #119: APEX Debug Trivia!](https://www.youtube.com/watch?v=vW6l9dr0Odw&list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP&index=12)
+- [Youtube: APEX Instant  #12: How to remote debug a user's session ](https://www.youtube.com/watch?v=fNO4qwvDReM) by Anton, Hayden and Joel
+- [Youtube: APEX Instant  #119: APEX Debug Trivia!](https://www.youtube.com/watch?v=vW6l9dr0Odw&list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP&index=12)
 
 ## Testing
  - [Low Code Testing - UI testing](https://apex.mt-itsolutions.com/ords/portal/r/apex/testautomation?p_lang=en) by MT IT Solutions
@@ -314,7 +315,7 @@ Mika Rinne
 - [SkillBuilders channel](https://www.youtube.com/user/skillbuildersDotcom/search)
 - [Oracle Database Product](https://www.youtube.com/@oracledatabaseproductmanag5050)
 - [Oracle Channel](https://www.youtube.com/@Oracle)
-- [APEX Instance Tips](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP)
+- [APEX Instance ](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP)
 - [APEX India: Learn, Conect and Collaborate](https://www.youtube.com/watch?v=mszEBHeMBDE)
 - [Getting started with AJAX in APEX](https://www.youtube.com/watch?v=ga-IgB15wDI)
 - [Unlock the Power of Oracle APEX: How Native Low-Code Development Can Take Your Business to New Heights!](https://videohub.oracle.com/media/Unlock+the+Power+of+Oracle+APEXA+How+Native+Low-Code+Development+Can+Take+Your+Business+to+New+Heights%21/1_yy0ry8nn)
@@ -322,12 +323,12 @@ Mika Rinne
 - [The future of data and app dev—keynote | Oracle CloudWorld 2023](https://www.youtube.com/watch?v=irtZOznG1Z8) by Juan Loaiza
 - [Oracle’s vision for the future—keynote | Oracle CloudWorld 2023](https://www.youtube.com/watch?v=63DmgBN1rSI) by Larry Ellison
 - [Low-Code and AI for Automating Invoice Processing & Approval Workflow - a customer Story](https://www.youtube.com/watch?v=TsbNU6xdQPw) by Trailcon
-- [Insum - Anton & Hyden - APEX Instant Tips ](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP)
+- [Insum - Anton & Hyden - APEX Instant  ](https://www.youtube.com/playlist?list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP)
 - [Insum - Hyden ](https://www.youtube.com/@Oapmpuag/videos)
 - [Unlock the Power of Oracle APEX](https://videohub.oracle.com/media/Unlock%20the%20Power%20of%20Oracle%20APEX%3A%20How%20Native%20Low-Code%20Development%20Can%20Take%20Your%20Business%20to%20New%20Heights!/1_yy0ry8nn)
 - [APEX CloudWorld23 short](https://www.dropbox.com/scl/fi/4txcfqwnocwyo4l9oflnl/APEX_CloudWorld23.mp4?rlkey=704fgs89nddw9iabpkx640aj3&dl=0)
 - [Youtube playlist: Technology and Coding ](https://www.youtube.com/playlist?list=PLsnBif_-5JnA8Hzvp8e1bQ3fo6VEvYEB0) by Chip Baber
-- [APEX Instant Tips](https://www.youtube.com/watch?v=KYdwsY7wSag&list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP) by Anton and Hayden
+- [APEX Instant ](https://www.youtube.com/watch?v=KYdwsY7wSag&list=PLCAYBJ7ynpQQQrdwKFBZu8Kx9VTFt-pRP) by Anton and Hayden
 - [Oracle APEX Solutions ](https://www.youtube.com/@oracleapexsolutions3217/featured)
 - [Six Secrets of APEX - (presentatsiooni näidis Apexis)](https://www.youtube.com/watch?v=0VBSmkdEXhE) by Ed Jones
 - [APEX 101 with Scott Wesley](https://www.linkedin.com/events/apex101withscottwesley7031843077417824256/comments/) by Scott Wesley
@@ -421,6 +422,7 @@ Mika Rinne
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
+ - [Interactive Grid Validation Challenge- Client Side Validation](https://forums.oracle.com/ords/apexds/post/interactive-grid-validation-challenge-5707)
 
 ## AI
 - [Autonomous Database speaks “human”](https://blogs.oracle.com/datawarehousing/post/autonomous-database-speaks-human)
@@ -430,7 +432,11 @@ Mika Rinne
 
 ## ORDS
 - [Oracle REST Data Services (ORDS) best practices](https://www.oracle.com/database/technologies/appdev/rest/best-practices/)
-- [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs) by Jon Dixon 
+- [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs) by Jon Dixon
+
+### ORDS as Proxy (research)
+- [Apex Forum - Proxy Server Setup](https://forums.oracle.com/ords/apexds/post/proxy-server-setup-8420) 
+- [Apex ideas - Provide API to change(create) Remote Server entries](https://apexapps.oracle.com/pls/apex/r/apex_pm/ideas/details?session=103407789315032)
 
 ## Globalizations
 - [SYSDATE vs. CURRENT_DATE in Oracle Database](https://database-heartbeat.com/2021/09/28/sysdate-vs-current_date-in-oracle-database/) by Sinan Petrus Toma

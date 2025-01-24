@@ -401,6 +401,7 @@ Mika Rinne
    - [Script to compare data in all tables in two different databases, if the table is present in both the databases.](https://asktom.oracle.com/ords/f?p=100:11:0::::P11_QUESTION_ID:9531089900346576427)  by  Connor McDonald
 - [Database-centric development blog ](https://www.salvis.com/blog/) by Philipp Salvisberg
 - [Connor McDonald Blog](https://connor-mcdonald.com/)
+  - [JDBC, the FetchSize and staying up to date](https://connor-mcdonald.com/2025/01/17/jdbc-the-fetchsize-and-staying-up-to-date/)  
 - [That Jeff Smith - Mostly Making Oracle easy](https://www.thatjeffsmith.com/)
    - [Oracle SQLcl supports your Oracle Cloud (OCI) APIs](https://www.thatjeffsmith.com/archive/2020/10/sqlcl-version-20-3-and-oci-support/)
    - [Oracle SQLcl version 21.4: Data Pump Support](https://www.thatjeffsmith.com/archive/2021/12/oracle-sqlcl-datapump/)
@@ -551,7 +552,7 @@ Mika Rinne
 - [Use these shortcuts for selecting text in VS Code!](https://youtu.be/DL0HB_qlSVk?si=ZmwHKiA1G1IRvmpH)
 - [Oracle Developer Tools for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/oracle-developer-tools-for-vs-code) Official Community Forum
 - [SQL Developer for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/sqldev-for-vscode) Official Community Forum
-- [Logging in our VS Code Extension, the code behind the code](https://www.thatjeffsmith.com/archive/2024/01/logging-in-our-vs-code-extension-the-code-behind-the-code/)
+- [Logging in our VS Code Extension, the code behind the code](https://www.thatjeffsmith.com/archive/2024/01/logging-in-our-vs-code-extension-the-code-behind-the-code/) by Jeff Smith
 
 ## Forums
 - [Oracle Developer Tools for VS Code](https://forums.oracle.com/ords/apexds/domain/dev-community/category/oracle-developer-tools-for-vs-code) Community Forum
@@ -589,6 +590,7 @@ Mika Rinne
 - [PLOC - PL/SQL code to doc converter](https://github.com/ogobrecht/ploc) by Ottmar Gobrecht
 - [An Oracle Programmer](https://stewashton.wordpress.com/) by Stew Ashton
 - [ChrisSaxonOra office-hours](https://github.com/ChrisSaxonOra/office-hours/tree/main) by Chris Saxon
+  
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

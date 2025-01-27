@@ -437,6 +437,9 @@ Mika Rinne
 ### ORDS as Proxy (research)
 - [Apex Forum - Proxy Server Setup](https://forums.oracle.com/ords/apexds/post/proxy-server-setup-8420) 
 - [Apex ideas - Provide API to change(create) Remote Server entries](https://apexapps.oracle.com/pls/apex/r/apex_pm/ideas/details?session=103407789315032)
+- [Managed reverse proxy feature to ORDS?](https://forums.oracle.com/ords/apexds/post/managed-reverse-proxy-feature-to-ords-5980)
+- [Using NGINX as a Reverse Proxy for Oracle APEX and ORDS](https://blog.viscosityna.com/using-nginx-as-a-reverse-proxy-for-oracle-apex-and-ords)
+- [Reverse Proxy to Oracle ORDS & APEX with Caddy](https://mattmulvaney.hashnode.dev/reverse-proxy-to-oracle-ords-apex-with-caddy)
 
 ## Globalizations
 - [SYSDATE vs. CURRENT_DATE in Oracle Database](https://database-heartbeat.com/2021/09/28/sysdate-vs-current_date-in-oracle-database/) by Sinan Petrus Toma

@@ -434,7 +434,7 @@ Mika Rinne
 - [Oracle REST Data Services (ORDS) best practices](https://www.oracle.com/database/technologies/appdev/rest/best-practices/)
 - [Configuration Changes to Make after Installing ORDS Standalone](https://blog.cloudnueva.com/running-ords-standalone-mode#clqze56ku022uzjnv4n34dhrc)
 - [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs) by Jon Dixon
-- 
+- [Run ORDS as a systemd Service](https://ruepprich.com/run-ords-as-a-systemd-service/) by Christoph Ruepprich
 
 ### ORDS as Proxy (research)
 - [Apex Forum - Proxy Server Setup](https://forums.oracle.com/ords/apexds/post/proxy-server-setup-8420) 

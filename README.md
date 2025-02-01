@@ -436,7 +436,9 @@ Mika Rinne
 - [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs) by Jon Dixon
 - [Run ORDS as a systemd Service](https://ruepprich.com/run-ords-as-a-systemd-service/) by Christoph Ruepprich
 
+
 ### ORDS as Proxy (research)
+- [Ords/apex deployment](https://forums.oracle.com/ords/apexds/post/ords-apex-deployment-9750)
 - [Apex Forum - Proxy Server Setup](https://forums.oracle.com/ords/apexds/post/proxy-server-setup-8420) 
 - [Apex ideas - Provide API to change(create) Remote Server entries](https://apexapps.oracle.com/pls/apex/r/apex_pm/ideas/details?session=103407789315032)
 - [Managed reverse proxy feature to ORDS?](https://forums.oracle.com/ords/apexds/post/managed-reverse-proxy-feature-to-ords-5980)

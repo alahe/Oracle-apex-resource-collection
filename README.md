@@ -603,6 +603,7 @@ Mika Rinne
 - [PLOC - PL/SQL code to doc converter](https://github.com/ogobrecht/ploc) by Ottmar Gobrecht
 - [An Oracle Programmer](https://stewashton.wordpress.com/) by Stew Ashton
 - [ChrisSaxonOra office-hours](https://github.com/ChrisSaxonOra/office-hours/tree/main) by Chris Saxon
+- [My Query Performs Horrible, Fix It!](https://dohdatabase.com/2024/03/27/my-query-performs-horrible-fix-it/) by Daniel Overby Hansen
   
 
 ## Mix

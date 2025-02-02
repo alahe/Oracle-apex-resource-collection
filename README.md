@@ -177,7 +177,8 @@ _My backup memory_
 - [Oracle Sample Projects](https://github.com/oracle-samples)
 - [Oracle APEX Wins Best Software Development Platform 2023](https://pierre-yotti-it.com/oracle-apex-wins-best-software-development-platform-2023/) by Pierre Yotti
 - [Oracle APEX vs Traditional Development: A Decision Maker’s Dilemma](https://pierre-yotti-it.com/oracle-apex-vs-traditional-development-a-decision-makers-dilemma/) by Pierre Yotti
-- [Oracle APEX Use Cases: Cloud Applications](https://blog.maathra.com/oracle-apex-use-cases-cloud-applications) by Aron Mohan 
+- [Oracle APEX Use Cases: Cloud Applications](https://blog.maathra.com/oracle-apex-use-cases-cloud-applications) by Aron Mohan
+- [Enterprice Architecture - Best Practices for Development](https://enterprisearchitecture.harvard.edu/using-oracle-apex)
 
 ---
 ## DevOps - CI/CD

@@ -433,10 +433,16 @@ Mika Rinne
 - [300+ Best ChatGPT Prompts to Unleash AI’s Potential](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/) by Damir Yalalov and Karolina Gaszcz
 
 ## ORDS
+- [Oracle REST Data Services](https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/) Oracle Help Center
 - [Oracle REST Data Services (ORDS) best practices](https://www.oracle.com/database/technologies/appdev/rest/best-practices/)
-- [Configuration Changes to Make after Installing ORDS Standalone](https://blog.cloudnueva.com/running-ords-standalone-mode#clqze56ku022uzjnv4n34dhrc)
+- [ORDS installs & upgrades, the TNS edition](https://www.thatjeffsmith.com/archive/2024/06/ords-installs-upgrades-the-tns-edition/) by Jeff Smith
+- [Configuration Changes to Make after Installing ORDS Standalone](https://blog.cloudnueva.com/running-ords-standalone-mode#clqze56ku022uzjnv4n34dhrc) by Jon Dixon
 - [ORDS Schema Level Overrides ](https://blog.cloudnueva.com/ords-schema-level-overrides?source=more_series_bottom_blogs) by Jon Dixon
 - [Run ORDS as a systemd Service](https://ruepprich.com/run-ords-as-a-systemd-service/) by Christoph Ruepprich
+- [Best Practices for Building ORDS PL/SQL-Based REST APIs](https://blog.cloudnueva.com/ords-plsql-based-rest-api-bp) by Jon Dixon
+- [Hosting Open API / Swagger Docs from ORDS](https://blog.cloudnueva.com/hosting-open-api-docs-from-ords) by Jon Dixon
+- [Adding SSL to your ORDS Container](https://spendolini.blog/adding-ssl-to-your-ords-container) by Scott Spendolini
+- [Oracle REST Data Services (ORDS) command line interface.](https://container-registry.oracle.com/ords/f?p=113:4:7611315151588:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1183,1183,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,1,0&cs=3b86J1JgtvU6J5z0PHz0U48OrYpOHh0qeSu0pdJGSCXcnBb9XYT91nTCG1-TxojJM9LGuUflI-cbSI3igYqFTIQ)
 
 
 ### ORDS as Proxy (research)

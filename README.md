@@ -606,7 +606,9 @@ Mika Rinne
 - [An Oracle Programmer](https://stewashton.wordpress.com/) by Stew Ashton
 - [ChrisSaxonOra office-hours](https://github.com/ChrisSaxonOra/office-hours/tree/main) by Chris Saxon
 - [My Query Performs Horrible, Fix It!](https://dohdatabase.com/2024/03/27/my-query-performs-horrible-fix-it/) by Daniel Overby Hansen
-  
+
+## Oracle Linux
+[Oracle Linux Training Station](https://oracle-samples.github.io/oltrain/tracks/ol/)  
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

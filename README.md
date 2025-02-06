@@ -218,7 +218,6 @@ Mika Rinne
 - [The Sakila example database](https://github.com/jOOQ/sakila) 
 - [Tanel Poder's Performance & Troubleshooting Tools for Oracle Databases](https://github.com/tanelpoder/tpt-oracle) by Tanel Põder
 
-  
 
 ## Development support APEX apps
 - [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home) by Louis Moreaux
@@ -477,6 +476,9 @@ Mika Rinne
 - [Logical Offline Migration to ExaCC with Oracle Zero Downtime Migration (ZDM)](https://www.dbi-services.com/blog/physical-online-migration-to-exacc-with-oracle-zero-downtime-migration-zdm/) by Marc Wagner
 - [Move to the Cloud](https://dohdatabase.com/wp-content/uploads/2022/02/move_to_the_cloud.pdf)
 
+## Maintenance
+- [How to Patch Oracle Database With One Command](https://dohdatabase.com/2024/10/30/how-to-patch-oracle-database-with-one-command/) by Daniel Overby Hansen
+
 ## Development and CI/CD
 - [Database Development Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/index.html#Oracle%C2%AE-Database)
 - [Morgan Library ](https://www.morganslibrary.org/library.html)
@@ -606,16 +608,24 @@ Mika Rinne
 
 ## Oracle SQL and PLSQL
 - [Tanel Poder Consulting](https://tanelpoder.com/) by Tanel Põder
-  - [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/) by Tanel Põder
 - [Awesome Database Tools](https://github.com/lukaseder/awesome-db-tools) by Lukas Eder
-- [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder
 - [Oracle Regular Expressions](https://psoug.org/reference/regexp.html)
 - [Gerald on IT](https://geraldonit.com/) by Gerald from Oracle
   - [Percentage calculations using SQL Window Functions](https://geraldonit.com/2022/12/06/percentage-sql-window-functions/)
 - [PLOC - PL/SQL code to doc converter](https://github.com/ogobrecht/ploc) by Ottmar Gobrecht
 - [An Oracle Programmer](https://stewashton.wordpress.com/) by Stew Ashton
 - [ChrisSaxonOra office-hours](https://github.com/ChrisSaxonOra/office-hours/tree/main) by Chris Saxon
+- 
+
+## SQL Tuning 
+- [SQL Tuning Guide](https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/overview-of-sql-plan-management.html#GUID-F1C45056-F998-43E5-B362-83F88DA49E58) Oracle Help Center
+- [Oracle Optimizer](https://blogs.oracle.com/optimizer/) Oracle Optimizer
+  - [What is Real-time SQL plan Management?](https://blogs.oracle.com/optimizer/post/what-is-realtime-spm) by Nigel Bayliss
+  - [What is DBMS_SPM.ADD_VERIFIED_SQL_PLAN_BASELINE?](https://blogs.oracle.com/optimizer/post/what-is-add-verified-spm) by Nigel Bayliss
 - [My Query Performs Horrible, Fix It!](https://dohdatabase.com/2024/03/27/my-query-performs-horrible-fix-it/) by Daniel Overby Hansen
+- [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/) by Tanel Põder
+- [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder
+
 
 ## Oracle Linux
 [Oracle Linux Training Station](https://oracle-samples.github.io/oltrain/tracks/ol/)  

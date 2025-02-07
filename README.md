@@ -166,7 +166,8 @@ _My backup memory_
   - [User Guide: Oracle database in a Podman container, install ORDS locally, and access a  Worksheet on localhost](https://followthecoffee.com/user-guide-oracle-database-in-a-podman-container-install-ords-locally-and-access-a-sql-worksheet-on-localhost/) by Chris Hoina
   - [An intro to using Oracle SQLcl on Mac](https://followthecoffee.com/an-intro-to-using-oracle-sqlcl-on-mac/) by Chris Hoina
 - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin Bach
-- [](https://medium.com/@cristina.varas98)
+- [Cristina Varas Menadas Blogs](https://medium.com/@cristina.varas98) by Cristina Varas Menadas
+- [Philipp Hartenfeller's Blog](https://hartenfeller.dev/blog) by Philipp Hartenfeller
 
 ##  APEX
 - [Youtube: Getting Started with Oracle APEX on Premises](https://www.youtube.com/watch?v=dvdR2jovLaE) by Oracle Apex

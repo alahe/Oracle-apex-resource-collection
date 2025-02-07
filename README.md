@@ -168,6 +168,7 @@ _My backup memory_
 - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin Bach
 - [Cristina Varas Menadas Blogs](https://medium.com/@cristina.varas98) by Cristina Varas Menadas
 - [Philipp Hartenfeller's Blog](https://hartenfeller.dev/blog) by Philipp Hartenfeller
+  - [How to fix containerized Oracle 23ai Database not starting on Mac](https://hartenfeller.dev/blog/oracle-23ai-container-wont-start-mac) by Philipp Hartenfeller
 
 ##  APEX
 - [Youtube: Getting Started with Oracle APEX on Premises](https://www.youtube.com/watch?v=dvdR2jovLaE) by Oracle Apex

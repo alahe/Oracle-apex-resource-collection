@@ -627,11 +627,19 @@ Mika Rinne
 - [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder
 
 ## Oracle Linux
-[Oracle Linux Training Station](https://oracle-samples.github.io/oltrain/tracks/ol/)  
+[Oracle Linux Training Station](https://oracle-samples.github.io/oltrain/tracks/ol/)  by Oracle
 
 ## Oracle License
-- [Database Licensing Information User Manual 23 ](https://docs.oracle.com/en/database/oracle/oracle-database/23/dblic/Licensing-Information.html#GUID-AB354617-6614-487E-A022-7FC9A5A08472)
-- [Database Licensing Information User Manual 19 ](https://docs.oracle.com/en/database/oracle/oracle-database/19/dblic/Licensing-Information.html#GUID-AB354617-6614-487E-A022-7FC9A5A08472)
+- [Database Licensing Information User Manual 23 ](https://docs.oracle.com/en/database/oracle/oracle-database/23/dblic/Licensing-Information.html#GUID-AB354617-6614-487E-A022-7FC9A5A08472) by Oracle
+- [Database Licensing Information User Manual 19 ](https://docs.oracle.com/en/database/oracle/oracle-database/19/dblic/Licensing-Information.html#GUID-AB354617-6614-487E-A022-7FC9A5A08472) by Oracle
+- [Oracle Database 23ai Free Licensing Restrictions](https://docs.oracle.com/en/database/oracle/oracle-database/23/xeinl/licensing-restrictions.html) by Oracle
+
+## Oracle Database 23ai Free
+- [Oracle Database Free](https://www.oracle.com/ee/database/free/) by Oracle
+- [Oracle Database 23ai Free FAQ](https://www.oracle.com/ee/database/free/faq/) by Oracle
+- [Oracle Database 23ai Free Licensing Restrictions](https://docs.oracle.com/en/database/oracle/oracle-database/23/xeinl/licensing-restrictions.html) by Oracle
+- [23ai Free "12GB of user data on disk" includes SYSAUX](https://forums.oracle.com/ords/apexds/post/23ai-free-12gb-of-user-data-on-disk-includes-sysaux-7974) By Oracle Database Free Forum
+- [The "ultimate" database FREE edition](https://connor-mcdonald.com/2023/12/18/the-ultimate-database-free-edition/) By Connor Mcdonald
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

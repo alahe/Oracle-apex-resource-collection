@@ -556,7 +556,6 @@ Mika Rinne
 - [Cloud Coaching](https://developer.oracle.com/events/cloud-coaching.html)
 - [OCI in 5](https://www.oracle.com/uk/cloud/architecture-center/oci-in-5/#free-tier)
 - [Oracle Office Hours](https://apexadb.oracle.com/ords/r/tech/catalog/videos?clear=22&session=501692299967767&cs=34UOyPUED9INcvHgWDZNcz3pgYKNlEGNlfIZGBGXxU4wrQadFv_B-MX5wyhTHTQ0TTwsWgce6HHtY1Mv7lmvygA)
-
 - [Database Dynamics: Harnessing Oracle and SQL Server Power](https://databasedynamics.blogspot.com/) by Anil Mahadev
 
 ## OCI events
@@ -617,7 +616,7 @@ Mika Rinne
 - [PLOC - PL/SQL code to doc converter](https://github.com/ogobrecht/ploc) by Ottmar Gobrecht
 - [An Oracle Programmer](https://stewashton.wordpress.com/) by Stew Ashton
 - [ChrisSaxonOra office-hours](https://github.com/ChrisSaxonOra/office-hours/tree/main) by Chris Saxon
-- 
+  
 
 ## SQL Tuning 
 - [SQL Tuning Guide](https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/overview-of-sql-plan-management.html#GUID-F1C45056-F998-43E5-B362-83F88DA49E58) Oracle Help Center
@@ -634,7 +633,8 @@ Mika Rinne
 
 
 ## Oracle Linux
-[Oracle Linux Training Station](https://oracle-samples.github.io/oltrain/tracks/ol/)  by Oracle
+- [Oracle Linux Training Station](https://oracle-samples.github.io/oltrain/tracks/ol/)  by Oracle
+- [Oracle Linux - Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-AboutPodmanBuildahandSkopeo.html) by Oracle
 
 ## Oracle License
 - [Database Licensing Information User Manual 23 ](https://docs.oracle.com/en/database/oracle/oracle-database/23/dblic/Licensing-Information.html#GUID-AB354617-6614-487E-A022-7FC9A5A08472) by Oracle

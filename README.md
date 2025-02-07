@@ -622,6 +622,7 @@ Mika Rinne
 - [Oracle Optimizer](https://blogs.oracle.com/optimizer/) Oracle Optimizer
   - [What is Real-time SQL plan Management?](https://blogs.oracle.com/optimizer/post/what-is-realtime-spm) by Nigel Bayliss
   - [What is DBMS_SPM.ADD_VERIFIED_SQL_PLAN_BASELINE?](https://blogs.oracle.com/optimizer/post/what-is-add-verified-spm) by Nigel Bayliss
+- [SQLMaria](https://sqlmaria.com/) by Maria Colgan
 - [My Query Performs Horrible, Fix It!](https://dohdatabase.com/2024/03/27/my-query-performs-horrible-fix-it/) by Daniel Overby Hansen
 - [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/) by Tanel Põder
 - [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder

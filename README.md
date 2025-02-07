@@ -626,9 +626,12 @@ Mika Rinne
 - [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/) by Tanel Põder
 - [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder
 
-
 ## Oracle Linux
 [Oracle Linux Training Station](https://oracle-samples.github.io/oltrain/tracks/ol/)  
+
+## Oracle License
+- [Database Licensing Information User Manual 23 ](https://docs.oracle.com/en/database/oracle/oracle-database/23/dblic/Licensing-Information.html#GUID-AB354617-6614-487E-A022-7FC9A5A08472)
+- [Database Licensing Information User Manual 19 ](https://docs.oracle.com/en/database/oracle/oracle-database/19/dblic/Licensing-Information.html#GUID-AB354617-6614-487E-A022-7FC9A5A08472)
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

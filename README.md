@@ -449,7 +449,6 @@ Mika Rinne
 - [Run Oracle REST Data Services (ORDS) locally with Oracle Database Free](https://medium.com/@anders.swanson.93/run-oracle-rest-data-services-ords-locally-with-oracle-database-free-ab64a549e596) by Anders Swanson
 - [Oracle REST Data Services (ORDS) command line interface.](https://container-registry.oracle.com/ords/f?p=113:4:7611315151588:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1183,1183,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,1,0&cs=3b86J1JgtvU6J5z0PHz0U48OrYpOHh0qeSu0pdJGSCXcnBb9XYT91nTCG1-TxojJM9LGuUflI-cbSI3igYqFTIQ)
 
-
 ### ORDS as Proxy (research)
 - [Ords/apex deployment](https://forums.oracle.com/ords/apexds/post/ords-apex-deployment-9750)
 - [Apex Forum - Proxy Server Setup](https://forums.oracle.com/ords/apexds/post/proxy-server-setup-8420) 
@@ -457,6 +456,11 @@ Mika Rinne
 - [Managed reverse proxy feature to ORDS?](https://forums.oracle.com/ords/apexds/post/managed-reverse-proxy-feature-to-ords-5980)
 - [Using NGINX as a Reverse Proxy for Oracle APEX and ORDS](https://blog.viscosityna.com/using-nginx-as-a-reverse-proxy-for-oracle-apex-and-ords)
 - [Reverse Proxy to Oracle ORDS & APEX with Caddy](https://mattmulvaney.hashnode.dev/reverse-proxy-to-oracle-ords-apex-with-caddy)
+
+## Containers
+  - [Oracle Database container images](https://github.com/oracle/docker-images/blob/main/OracleDatabase/SingleInstance/README.md) By Oracle (Github)
+  - [Oracle Container Registry](https://container-registry.oracle.com/ords/f?p=113:10:29397734666684:::::) by Oracle
+  - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin BACH
 
 ## Globalizations
 - [SYSDATE vs. CURRENT_DATE in Oracle Database](https://database-heartbeat.com/2021/09/28/sysdate-vs-current_date-in-oracle-database/) by Sinan Petrus Toma

@@ -457,11 +457,6 @@ Mika Rinne
 - [Using NGINX as a Reverse Proxy for Oracle APEX and ORDS](https://blog.viscosityna.com/using-nginx-as-a-reverse-proxy-for-oracle-apex-and-ords)
 - [Reverse Proxy to Oracle ORDS & APEX with Caddy](https://mattmulvaney.hashnode.dev/reverse-proxy-to-oracle-ords-apex-with-caddy)
 
-## Containers
-  - [Oracle Database container images](https://github.com/oracle/docker-images/blob/main/OracleDatabase/SingleInstance/README.md) By Oracle (Github)
-  - [Oracle Container Registry](https://container-registry.oracle.com/ords/f?p=113:10:29397734666684:::::) by Oracle
-  - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin BACH
-
 ## Globalizations
 - [SYSDATE vs. CURRENT_DATE in Oracle Database](https://database-heartbeat.com/2021/09/28/sysdate-vs-current_date-in-oracle-database/) by Sinan Petrus Toma
 - [Awesome DATE / TIMESTAMP enhancement in Autonomous Database](https://connor-mcdonald.com/2022/02/02/awesome-date-timestamp-enhancement-in-autonomous-database/) by  Connor McDonald
@@ -635,7 +630,6 @@ Mika Rinne
 - [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/) by Tanel Põder
 - [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder
 
-
 ## Oracle Linux
 - [Oracle Linux Training Station](https://oracle-samples.github.io/oltrain/tracks/ol/)  by Oracle
 - [Oracle Linux - Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-AboutPodmanBuildahandSkopeo.html) by Oracle
@@ -651,6 +645,18 @@ Mika Rinne
 - [Oracle Database 23ai Free Licensing Restrictions](https://docs.oracle.com/en/database/oracle/oracle-database/23/xeinl/licensing-restrictions.html) by Oracle
 - [23ai Free "12GB of user data on disk" includes SYSAUX](https://forums.oracle.com/ords/apexds/post/23ai-free-12gb-of-user-data-on-disk-includes-sysaux-7974) By Oracle Database Free Forum
 - [The "ultimate" database FREE edition](https://connor-mcdonald.com/2023/12/18/the-ultimate-database-free-edition/) By Connor Mcdonald
+
+
+## Containers
+  - [Oracle Database container images](https://github.com/oracle/docker-images/blob/main/OracleDatabase/SingleInstance/README.md) By Oracle (Github)
+  - [Oracle Container Registry](https://container-registry.oracle.com/ords/f?p=113:10:29397734666684:::::) by Oracle
+  - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin BACH 
+  - [Adding SSL to your ORDS ](https://spendolini.blog/adding-ssl-to-your-ords-container) by Scott Spendolini
+  - [Running Oracle Database 23ai & ORDS Locally via Containers](https://spendolini.blog/container-yourself) by Scott Spendolini
+  - [Run Oracle REST Data Services (ORDS) locally with Oracle Database Free](https://medium.com/@anders.swanson.93/run-oracle-rest-data-services-ords-locally-with-oracle-database-free-ab64a549e596) by Anders Swanson
+  - [Oracle REST Data Services (ORDS) command line interface.](https://container-registry.oracle.com/ords/f?p=113:4:7611315151588:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1183,1183,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,1,0&cs=3b86J1JgtvU6J5z0PHz0U48OrYpOHh0qeSu0pdJGSCXcnBb9XYT91nTCG1-TxojJM9LGuUflI-cbSI3igYqFTIQ)  
+  ------
+  - [supports a RESTful API for the Libpod library (5.0.0)](https://docs.podman.io/en/latest/_static/api.html)
 
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)

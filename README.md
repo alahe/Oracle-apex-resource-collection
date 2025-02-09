@@ -144,7 +144,9 @@ _My backup memory_
    - [Getting up to speed with Oracle Application Express (APEX)](https://nielsdebr.blogspot.com/2022/10/up-to-speed-with-apex.html)
 - [Mike Durran](https://insight2action.medium.com/) by Mike Durran
 
-###
+### Wordpress
+- [Oracle DBMS_SCHEDULER – Getting in a tangle with Time Zones](https://mikesmithers.wordpress.com/2024/10/28/oracle-dbms_scheduler-getting-in-a-tangle-with-time-zones/) by mikesmithers
+- 
 
  
 ### Others Blogs platform

@@ -663,6 +663,9 @@ Mika Rinne
   - [Podman Commands](https://docs.podman.io/en/latest/markdown/podman-run.1.html) 
   - [supports a RESTful API for the Libpod library (5.0.0)](https://docs.podman.io/en/latest/_static/api.html)
 
+## Mac
+ - [ZSH: .zprofile, .zshrc, .zlogin - What goes where?](https://apple.stackexchange.com/questions/388622/zsh-zprofile-zshrc-zlogin-what-goes-where)
+
 ## Mix
 - [GitLens](https://help.gitkraken.com/gitlens/gitlens-features/#:~:text=To%20remove%20your,the%20Command%20Palette.)
 - [SET_PARSING_SCHEMA_FOR _REQUEST Procedure](https://docs.oracle.com/en/database/oracle/apex/23.2/aeapi/SET_PARSING_SCHEMA_FOR_REQUEST-Procedure.html#GUID-2DB16C9E-6238-4DF9-A920-20D8E8FA93C0)

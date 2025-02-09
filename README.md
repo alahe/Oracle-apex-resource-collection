@@ -495,6 +495,7 @@ Mika Rinne
 - [Developer Coaching On Demand](https://www.oracle.com/emea/cloud/events/cloud-coaching/on-demand/)
 - [Free Oracle technologies for Developers](https://oracle.github.io/free/#/)
 - [SQLcl : Automating Your SQL and PL/SQL Deployments using the SQLcl implementation of Liquibase](https://oracle-base.com/articles/misc/sqlcl-automating-your-database-deployments-using-sqlcl-and-liquibase) by Tim Hall
+- [Red Hot Webinars - Here is how ORDS helps you with DevOps](https://youtu.be/GIRdoGlqIDE?si=3oU3NkFxZ7mwzMdP) by Oracle Learning
   
 
 ## ADB presentations
@@ -633,6 +634,9 @@ Mika Rinne
 ## Oracle Linux
 - [Oracle Linux Training Station](https://oracle-samples.github.io/oltrain/tracks/ol/)  by Oracle
 - [Oracle Linux - Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-AboutPodmanBuildahandSkopeo.html) by Oracle
+- [Oracle Learning](https://www.youtube.com/@OracleLearning/playlists) by Oracle
+- [Oracle Learning - Podman](https://www.youtube.com/@OracleLearning/search?query=podman) by Oracle
+
 
 ## Oracle License
 - [Database Licensing Information User Manual 23 ](https://docs.oracle.com/en/database/oracle/oracle-database/23/dblic/Licensing-Information.html#GUID-AB354617-6614-487E-A022-7FC9A5A08472) by Oracle

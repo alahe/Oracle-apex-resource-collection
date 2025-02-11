@@ -47,8 +47,9 @@ _My backup memory_
 - [Oracle APEX Academy](https://traust.com/blog/oracle-apex-academy/#blog)
 - [Posts about Oracle APEX ](https://jes.blogs.shellprompt.net/) by John Scott
 - [A Backup for My Brn!](https://ruepprich.com/) by Christoph Ruepprich
-- [Dive into APEX ](https://diveintoapex.com/) by Steve Muench
-    - [Simplify APEX App REST APIs with JSON Duality Views](https://diveintoapex.com/2024/03/05/simplify-apex-app-rest-apis-with-json-duality-views/) 
+- [Dive into APEX - Old dog, new tricks.](https://diveintoapex.com/) by Steve Muench
+    - [Simplify APEX App REST APIs with JSON Duality Views](https://diveintoapex.com/2024/03/05/simplify-apex-app-rest-apis-with-json-duality-views/)by Steve Muench
+    - [Designer Collab for Date Ranges](https://diveintoapex.com/2023/02/07/designer-collab-for-date-ranges/)by Steve Muench
 - [Thinking Anew - Blog](https://fuzziebrn.com/content/a-yearful-of--but-whats-next) by Ardian Png 
 - [Weblog](https://blogs.oracle.com/shay/) by Shay Shmeltzer
 - [Mostly APEX Information](https://rimblas.com/blog/) by Jorge Rimblas
@@ -65,57 +66,57 @@ _My backup memory_
 ### [Rittmanmead - Blogs](https://www.rittmanmead.com/blog/)
 - [Oracle APEX -  and Tricks](https://www.rittmanmead.com/blog/tag/apex/)
 - [Petar Blog ](https://www.rittmanmead.com/blog/author/petar/) by Petar Simic
-   - [Oracle APEX: Auto-refresh Report](https://petarsimic.hashnode.dev/oracle-apex-auto-refresh-report)
+   - [Oracle APEX: Auto-refresh Report](https://petarsimic.hashnode.dev/oracle-apex-auto-refresh-report)by Petar Simic
 - [Lucas Blog](https://www.rittmanmead.com/blog/author/lucas/) by Lucas Hirschegger
-   - [Oracle APEX – Transforming Cerner](https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
-   - [Oracle APEX Auth - Microsoft Azure Entra ID Integration](https://www.rittmanmead.com/blog/2024/01/oracle-apex-authentication-with-azure/)
-   - [Oracle APEX - Transforming Cerner, Game changer?](https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/)
-   - [Tip Tuesday | Set Dates and Times in Autonomous DB and APEX](https://www.rittmanmead.com/blog/2024/06/dates-and-times-in-autonomous-db-and-apex/)
-   - [Tip Tuesday | Connect to Public ADB Without a Wallet](https://www.rittmanmead.com/blog/2024/06/tip-tuesday-establishing-a-mutual-authentication-when-connecting-publicaly-to-adb/)
-   - [Oracle APEX - Compared to Microsoft Power Apps](https://www.rittmanmead.com/blog/2024/02/microsoft-power-apps-vs-oracle-apex/)
+   - [Oracle APEX – Transforming Cerner](https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/) by Lucas Hirschegger
+   - [Oracle APEX Auth - Microsoft Azure Entra ID Integration](https://www.rittmanmead.com/blog/2024/01/oracle-apex-authentication-with-azure/) by Lucas Hirschegger
+   - [Oracle APEX - Transforming Cerner, Game changer?](https://www.rittmanmead.com/blog/2024/02/transforming-cerner-with-oracle-apex/) by Lucas Hirschegger
+   - [Tip Tuesday | Set Dates and Times in Autonomous DB and APEX](https://www.rittmanmead.com/blog/2024/06/dates-and-times-in-autonomous-db-and-apex/) by Lucas Hirschegger
+   - [Tip Tuesday | Connect to Public ADB Without a Wallet](https://www.rittmanmead.com/blog/2024/06/tip-tuesday-establishing-a-mutual-authentication-when-connecting-publicaly-to-adb/) by Lucas Hirschegger
+   - [Oracle APEX - Compared to Microsoft Power Apps](https://www.rittmanmead.com/blog/2024/02/microsoft-power-apps-vs-oracle-apex/) by Lucas Hirschegger
 - [Simon Collins Blog](https://www.rittmanmead.com/blog/author/simon-collins/) by Simon Collins
-   - [Oracle APEX - Microsoft Azure Entra ID Integration](https://www.rittmanmead.com/blog/2024/01/oracle-apex-authentication-with-azure/)   
+   - [Oracle APEX - Microsoft Azure Entra ID Integration](https://www.rittmanmead.com/blog/2024/01/oracle-apex-authentication-with-azure/) by Simon Collins
 
 ### [Blogs in Hashnode](https://hashnode.com/)
 - [ & Tricks](https://lmoreaux.hashnode.dev/) by Louis Moreaux 
 - [APEX, ORDS, ADB ](https://blog.cloudnueva.com/) by Jon Dixon
-   - [Two Methods of Setting an APEX Authentication Scheme at Run-Time](https://blog.cloudnueva.com/setting-an-apex-authentication-scheme-at-run-time)
-   - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
-   - [Receiving Payments from Oracle APEX with PayPal](https://blog.cloudnueva.com/apex-paypal)
-   - [APEX Developer Blogs Website](https://blog.cloudnueva.com/apex-developer-blogs-website)
-   - [APEX_WEB_SERVICE The Definitive Guide](https://blog.cloudnueva.com/apexwebservice-the-definitive-guide)
-   - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text)
+   - [Two Methods of Setting an APEX Authentication Scheme at Run-Time](https://blog.cloudnueva.com/setting-an-apex-authentication-scheme-at-run-time) by Jon Dixon
+   - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text) by Jon Dixon
+   - [Receiving Payments from Oracle APEX with PayPal](https://blog.cloudnueva.com/apex-paypal) by Jon Dixon
+   - [APEX Developer Blogs Website](https://blog.cloudnueva.com/apex-developer-blogs-website) by Jon Dixon
+   - [APEX_WEB_SERVICE The Definitive Guide](https://blog.cloudnueva.com/apexwebservice-the-definitive-guide) by Jon Dixon
+   - [APEX Custom Sourced Help Text](https://blog.cloudnueva.com/apex-custom-sourced-help-text) by Jon Dixon
 - [Apex_debug](https://apexdebug.com/) by Anton Nielsen
 - [Oracle Apex in Enterprise](https://spendolini.blog/?source=top_nav_blog_home) by Scott Spendolini
-   - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication)
+   - [IDCS Multi-Factor Authentication](https://spendolini.blog/idcs-multi-factor-authentication) by Scott Spendolini
 - [Cloudify Hub](https://blog.cloudifyhub.com/) by Richmond
 - [APEX App Lab - Blog](https://blog.apexapplab.dev/?source=top_nav_blog_home) by Plamen Mushkov
-   - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache)
-   - [APEX in the AI era](https://blog.apexapplab.dev/apex-in-the-ai-era)
-   - [APEX validations: Email address](https://apexapplab.dev/2022/09/06/apex-validations-email-address/#:~:text=Adding%20the%20email_validate%20CSS%20class,text%20is%20a%20valid%20email.)
+   - [Better ChatGPT use with a local database cache](https://blog.apexapplab.dev/better-chatgpt-use-with-a-local-database-cache) by Plamen Mushkov
+   - [APEX in the AI era](https://blog.apexapplab.dev/apex-in-the-ai-era) by Plamen Mushkov
+   - [APEX validations: Email address](https://apexapplab.dev/2022/09/06/apex-validations-email-address/#:~:text=Adding%20the%20email_validate%20CSS%20class,text%20is%20a%20valid%20email.) by Plamen Mushkov
 - [APEX Blog ](https://apexblog.dev/) by Rodrigo Mesquita
-  - [New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker)
+  - [New Oracle APEX plugin! Scrollable Date Picker](https://apexblog.dev/new-oracle-apex-plugin-scrollable-date-picker) by Rodrigo Mesquita
 - [Blogs ](https://tm-apex.hashnode.dev/) by Timo Herwix & Mohamed Bouchi
     - [DevOps Made Easy! with Oracle Autonomous Database using PL/ and Git](https://tm-apex.hashnode.dev/devops-made-easy-with-oracle-autonomous-database-using-pl-and-git?source=more_series_bottom_blogs) by Timo Herwix
     - [Start Generating Dynamic PDFs in APEX Easily with OCI Pre-Built Functions](https://tm-apex.hashnode.dev/start-generating-dynamic-pdfs-in-apex-easily-with-oci-pre-built-functions) by Timo Herwix
 - [You can do that with APEX ](https://ebs-apex.hashnode.dev/?source=top_nav_blog_home) by Simon Joyce
-   - [New 23.2 "Capture Using" file upload setting!](https://ebs-apex.hashnode.dev/new-232-capture-using-file-upload-setting)
-   - [Using Workflow in APEX 23.2](https://ebs-apex.hashnode.dev/using-workflow-in-apex-232?source=more_articles_bottom_blogs)
+   - [New 23.2 "Capture Using" file upload setting!](https://ebs-apex.hashnode.dev/new-232-capture-using-file-upload-setting) by Simon Joyce
+   - [Using Workflow in APEX 23.2](https://ebs-apex.hashnode.dev/using-workflow-in-apex-232?source=more_articles_bottom_blogs) by Simon Joyce
 - [Just another APEX story... ](https://lcieslik.hashnode.dev/?source=top_nav_blog_home) by Lech Cieślik
-  - [Marking countries on the map - Oracle APEX, Map and 'Have been' app](https://lcieslik.hashnode.dev/marking-countries-on-the-map-oracle-apex-map-and-have-been-app)
+  - [Marking countries on the map - Oracle APEX, Map and 'Have been' app](https://lcieslik.hashnode.dev/marking-countries-on-the-map-oracle-apex-map-and-have-been-app) by Lech Cieślik
 - [Keep It Simple. Developer's .](https://rafal.hashnode.dev/) by Rafal Grzegorczyk
-   - [Install Oracle APEX into...Oracle APEX](https://rafal.hashnode.dev/install-oracle-apex-intooracle-apex)
-   - [Use cl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-cl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1)
-   - [Oracle APEX vs. Oracle Forms challenge: create a master-detail report](https://rafal.hashnode.dev/oracle-apex-vs-oracle-forms-challenge-create-a-master-detail-report)
+   - [Install Oracle APEX into...Oracle APEX](https://rafal.hashnode.dev/install-oracle-apex-intooracle-apex) by Rafal Grzegorczyk
+   - [Use cl Liquibase to move all database objects from DEV to the UAT environment](https://rafal.hashnode.dev/use-cl-liquibase-to-move-all-database-objects-from-dev-to-the-uat-environment-part-1) by Rafal Grzegorczyk
+   - [Oracle APEX vs. Oracle Forms challenge: create a master-detail report](https://rafal.hashnode.dev/oracle-apex-vs-oracle-forms-challenge-create-a-master-detail-report) by Rafal Grzegorczyk
    - [A whirlwind tour of Database Schema Changes Tracking Tools: Introduction](https://rafal.hashnode.dev/a-whirlwind-tour-of-database-schema-changes-tracking-tools-introduction?source=more_series_bottom_blogs ) By Rafał Grzegorczyk 2024
 - [APEX World](https://blog.apex.world/) by Juergen Schuster
 - [Yet another IT Consultant](https://yaitcon.hashnode.dev/?source=top_nav_blog_home) by Tom Lie
 - [TalkApex](https://talkapex.com/) by Martin Giffy D'Souza
 - [Blog](https://hashnode.com/@danielhochleitner) by Daniel Hochleitner
 - [Blog in Hashnode ](https://mattmulvaney.hashnode.dev/) by Matt Mulvaney
-   - [Using AI to generate Oracle APEX Theme Roller Styles](https://mattmulvaney.hashnode.dev/using-ai-to-generate-oracle-apex-theme-roller-styles?source=more_articles_bottom_blogs)
-   - [Oracle APEX Authentication with Microsoft Azure Active Directory](https://mattmulvaney.hashnode.dev/oracle-apex-authentication-with-microsoft-azure-active-directory)
-   - [APEX Builder Authentication: Invalid ADB Login Credentials](https://mattmulvaney.hashnode.dev/apex-builder-authentication-invalid-adb-login-credentials)
+   - [Using AI to generate Oracle APEX Theme Roller Styles](https://mattmulvaney.hashnode.dev/using-ai-to-generate-oracle-apex-theme-roller-styles?source=more_articles_bottom_blogs) by Matt Mulvaney
+   - [Oracle APEX Authentication with Microsoft Azure Active Directory](https://mattmulvaney.hashnode.dev/oracle-apex-authentication-with-microsoft-azure-active-directory) by Matt Mulvaney
+   - [APEX Builder Authentication: Invalid ADB Login Credentials](https://mattmulvaney.hashnode.dev/apex-builder-authentication-invalid-adb-login-credentials) by Matt Mulvaney
 - [Oracle APEX Blog](https://epolanco.dev/) by Ender Polanco Rivas
 - [An APEX Authentication Scheme for Fusion](https://jmjcloudblog.hashnode.dev/an-apex-authentication-scheme-for-fusion) by Matt Paine
 - [Softpath](https://jkerr.hashnode.dev/) by Joe Kerr
@@ -139,9 +140,9 @@ _My backup memory_
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali
 - [Low-Code Development](https://nielsdebr.blogspot.com/) by Niels de Bruijn
-   - [About sustainability & Oracle APEX](https://nielsdebr.blogspot.com/2023/07/about-sustainability-oracle-apex.html)
-   - [Oracle APEX, Citizen Development & Governance](https://nielsdebr.blogspot.com/2023/10/oracle-apex-citizen-development.html)
-   - [Getting up to speed with Oracle Application Express (APEX)](https://nielsdebr.blogspot.com/2022/10/up-to-speed-with-apex.html)
+   - [About sustainability & Oracle APEX](https://nielsdebr.blogspot.com/2023/07/about-sustainability-oracle-apex.html) by Niels de Bruijn
+   - [Oracle APEX, Citizen Development & Governance](https://nielsdebr.blogspot.com/2023/10/oracle-apex-citizen-development.html) by Niels de Bruijn
+   - [Getting up to speed with Oracle Application Express (APEX)](https://nielsdebr.blogspot.com/2022/10/up-to-speed-with-apex.html) by Niels de Bruijn
 - [Mike Durran](https://insight2action.medium.com/) by Mike Durran
 
 ### Wordpress
@@ -156,12 +157,12 @@ _My backup memory_
 - [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications) by Michael Pickering
 - [Oracle APEX - A promise to the low code Landscape](https://www.linkedin.com/pulse/oracle-apex-promise-low-code-landscape-govind-d-ycgyc/) by Govind D
 - [dbdev01555 - ](https://dbdev01555.wordpress.com/) by Daniel Ekberg
-  - [Mapping Stockholm: From Shapefiles to APEX Maps](https://dbdev01555.wordpress.com/2024/12/17/mapping-stockholm-from-shapefiles-to-apex-maps/)
+  - [Mapping Stockholm: From Shapefiles to APEX Maps](https://dbdev01555.wordpress.com/2024/12/17/mapping-stockholm-from-shapefiles-to-apex-maps/) by Daniel Ekberg
 - [Follow the Coffee](https://followthecoffee.com/) by Chris Hoina (Oracle)
-  - [Microsoft Entra OAuth2.0 JWTs and ORDS secure APIs Tutorial: Configuration and Testing](https://followthecoffee.com/ords-apis-and-microsoft-entra-jwts-tutorial/)   
+  - [Microsoft Entra OAuth2.0 JWTs and ORDS secure APIs Tutorial: Configuration and Testing](https://followthecoffee.com/ords-apis-and-microsoft-entra-jwts-tutorial/) by Chris Hoina (Oracle)
   - [New ORDS feature: handling multiple files from a multipart/form-data POST request
-](https://followthecoffee.com/new-ords-feature-handling-multiple-files-from-a-multipart-form-data-post-request/)
-  - [How to kill an ORDS process](https://followthecoffee.com/how-to-kill-an-ords-process/)
+](https://followthecoffee.com/new-ords-feature-handling-multiple-files-from-a-multipart-form-data-post-request/) by Chris Hoina (Oracle)
+  - [How to kill an ORDS process](https://followthecoffee.com/how-to-kill-an-ords-process/) by Chris Hoina (Oracle)
   - [The one ORDS command you NEED to know!](https://followthecoffee.com/ords-config-list-include-defaults-command/) by Chris Hoina
   - [ORDS install considerations: choosing the correct host, port, service name, and pluggable database when the database is in a podman container](https://followthecoffee.com/oracle-database-ports-podman-ords-install/) by Chris Hoina
   - [Podman container is unhealthy with Oracle database images](https://followthecoffee.com/podman-container-is-unhealthy-with-oracle-database-images/) by Chris Hoina

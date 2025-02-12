@@ -222,6 +222,9 @@ Mika Rinne
 - [Example Instruction on how to send pretty HTML Emails from APEX](https://github.com/chipbaber/apex_email) by Chip Baber
 - [The Sakila example database](https://github.com/jOOQ/sakila) 
 - [Tanel Poder's Performance & Troubleshooting Tools for Oracle Databases](https://github.com/tanelpoder/tpt-oracle) by Tanel Põder
+- [Apex plugins](https://github.com/RonnyWeiss?tab=repositories) by Ronny Weiss
+
+  
 
 
 ## Development support APEX apps

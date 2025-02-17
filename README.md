@@ -22,6 +22,7 @@ _My backup memory_
 - [LiveLabs](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [LiveSQL](https://apex.oracle.com/quicksql)
 - [Downloading and Installing APEX](https://docs.oracle.com/en/database/oracle/apex/24.1/htmig/downloading-installing-apex.html#GUID-B5A5B38D-586C-488A-AE27-A168FAA28FEE)
+- [How oracle APEX became a powerful enterprise app dev framework - page 27-31 ](https://www.oraworld.org/fileadmin/documents/32-ORAWORLD.pdf) by Mike Hichwa
 - ----------------
 - [Shortcuts](https://apex.oracle.com/pls/apex/f?p=411:18)
 - [Links - Awesome Oracle APEX ](https://github.com/Dani3lSun/awesome-orclapex) by Daniel Hochleitner

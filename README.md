@@ -446,6 +446,7 @@ Mika Rinne
 ## ORDS
 - [Oracle REST Data Services](https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/) Oracle Help Center
 - [Oracle REST Data Services](https://www.oracle.com/database/technologies/appdev/rest.html) by Oracle
+- [Oracle® REST Data Services - Developer's Guide](https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/24.4/orddg/index.html) by Oracle Help Center
 - [Oracle REST Data Services (ORDS) best practices](https://www.oracle.com/database/technologies/appdev/rest/best-practices/)
 - [ORDS installs & upgrades, the TNS edition](https://www.thatjeffsmith.com/archive/2024/06/ords-installs-upgrades-the-tns-edition/) by Jeff Smith
 - [Configuration Changes to Make after Installing ORDS Standalone](https://blog.cloudnueva.com/running-ords-standalone-mode#clqze56ku022uzjnv4n34dhrc) by Jon Dixon
@@ -460,7 +461,9 @@ Mika Rinne
 - [Run Oracle REST Data Services (ORDS) locally with Oracle Database Free](https://medium.com/@anders.swanson.93/run-oracle-rest-data-services-ords-locally-with-oracle-database-free-ab64a549e596) by Anders Swanson
 - [Oracle REST Data Services (ORDS) command line interface.](https://container-registry.oracle.com/ords/f?p=113:4:7611315151588:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1183,1183,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,1,0&cs=3b86J1JgtvU6J5z0PHz0U48OrYpOHh0qeSu0pdJGSCXcnBb9XYT91nTCG1-TxojJM9LGuUflI-cbSI3igYqFTIQ)
 - [REST APIs for Oracle Database, everything you need to know](https://www.thatjeffsmith.com/oracle-database-rest-apis/) by Jeff Smith 
-- [How to Debug your REST APIs in Oracle REST Data Services](https://www.thatjeffsmith.com/archive/2021/08/how-to-debug-your-rest-apis-in-oracle-rest-data-services/) by Jeff Smith 
+- [How to Debug your REST APIs in Oracle REST Data Services](https://www.thatjeffsmith.com/archive/2021/08/how-to-debug-your-rest-apis-in-oracle-rest-data-services/) by Jeff Smith
+- [More on ORDS 3.0.10 and Auto PLSQL – PACKAGES](https://www.thatjeffsmith.com/archive/2017/06/more-on-ords-3-0-10-and-auto-plsql-packages/) by Jeff Smith
+- [REST Services Cached](https://krisrice.io/2021-07-13-ords-cache/) by Kris Rice
 
 ### ORDS as Proxy (research)
 - [Ords/apex deployment](https://forums.oracle.com/ords/apexds/post/ords-apex-deployment-9750)

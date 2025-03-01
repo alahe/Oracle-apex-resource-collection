@@ -433,6 +433,7 @@ Mika Rinne
   - [Oracle Autonomous Database: SYSDATE and Time Zones](https://mjromeo81.com/2020/12/25/oracle-autonomous-database-sysdate-and-time-zones/)
   - [Oracle Autonomous Database: Setting up ACLs and Private Endpoints](https://mjromeo81.com/2020/12/24/oracle-autonomous-database-setting-up-acls-and-private-endpoints/)
 - [Connection to Oracle Autonomous Database](https://orabliss.blogspot.com/2024/02/connection-to-oracle-autonomous-database.html) by Selvakumar Nagulan
+- [A Blog on Oracle and Stuff](https://enesi.no/) by  Øyvind Isene
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald
@@ -493,6 +494,7 @@ Mika Rinne
 - [Oracle Zero Downtime Migration – Logical Online Migration to ADB-S on Oracle Database@Azure](https://www.oracle.com/a/otn/docs/database/zdm-logical-online-migration-to-oracle-at-azure-adb-s.pdf)
 - [Logical Offline Migration to ExaCC with Oracle Zero Downtime Migration (ZDM)](https://www.dbi-services.com/blog/physical-online-migration-to-exacc-with-oracle-zero-downtime-migration-zdm/) by Marc Wagner
 - [Move to the Cloud](https://dohdatabase.com/wp-content/uploads/2022/02/move_to_the_cloud.pdf)
+- [ADB Migration: Why does my SPA report has so many errors?](https://mikedietrichde.com/2025/02/24/adb-migration-why-does-my-spa-report-has-so-many-errors/) by Mike Dietrich
 
 ## Maintenance
 - [How to Patch Oracle Database With One Command](https://dohdatabase.com/2024/10/30/how-to-patch-oracle-database-with-one-command/) by Daniel Overby Hansen
@@ -706,3 +708,9 @@ Mika Rinne
 - [System Properties Comparison Microsoft SQL Server vs. MySQL vs. Oracle](https://db-engines.com/en/system/Microsoft+SQL+Server%3BMySQL%3BOracle)
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
 - [GREEN SOFTWARE Foundation](https://greensoftware.foundation/)
+
+## Security
+- [Threat Actor Allegedly Selling VMware ESXi 0-Day Exploit on Hacker Forum](https://cybersecuritynews.com/threat-actor-vmware-esxi-0-day/) By Guru Baran
+- [VSCode extensions with 9 million installs pulled over security risks](https://www.bleepingcomputer.com/news/security/vscode-extensions-with-9-million-installs-pulled-over-security-risks/) By Bill Toulas
+- 
+

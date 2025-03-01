@@ -634,6 +634,7 @@ Mika Rinne
 - [PLOC - PL/SQL code to doc converter](https://github.com/ogobrecht/ploc) by Ottmar Gobrecht
 - [An Oracle Programmer](https://stewashton.wordpress.com/) by Stew Ashton
 - [ChrisSaxonOra office-hours](https://github.com/ChrisSaxonOra/office-hours/tree/main) by Chris Saxon
+- [3 Foundational Principles for Writing Efficient SQL](https://thenewstack.io/3-foundational-principles-for-writing-efficient-sql/) by Chris Saxon
   
 
 ## SQL Tuning 

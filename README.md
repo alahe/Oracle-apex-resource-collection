@@ -552,6 +552,7 @@ Mika Rinne
 - [Security Best Practices](https://docs.oracle.com/en-us/iaas/Content/Security/Reference/configuration_security.htm#Security_Best_Practices)
 - [Improve your security posture with Cloud Guard](https://youtu.be/WryEshHA0-8?si=vFq5sJyGZ_QNEDpq)
 - [OCI Health Checks - Self Service](https://www.youtube.com/watch?v=WryEshHA0-8)
+- [Data Redaction (DBMS_REDACT) Enhancements in Oracle Database 23ai (23.6)](https://oracle-base.com/articles/23/data-redaction-dbms_redact-enhancements-23) by Tim Hall
 
 # OCI
 - [What can we help you find?](https://docs.oracle.com/en/) - Help Center

@@ -186,6 +186,7 @@ _My backup memory_
 - [Oracle APEX Use Cases: Cloud Applications](https://blog.maathra.com/oracle-apex-use-cases-cloud-applications) by Aron Mohan
 - [Enterprice Architecture - Best Practices for Development](https://enterprisearchitecture.harvard.edu/using-oracle-apex) by Harvard University
 - [10 things you must include in your next Oracle APEX project](https://insum.talan.com/10-things-to-include-in-your-next-oracle-apex-project/) by Michelle Skamene  (Insum)
+- [25 Best Practices in 2025 ](https://knowledgebase.hyand.com/ords/r/mt_knowledgebase/knowledgebase/knowledgebase?P1_SEARCH=apexbestpractices2025) by Oliver Lemm
 
 ---
 ## DevOps - CI/CD

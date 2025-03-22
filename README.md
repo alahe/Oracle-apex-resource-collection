@@ -435,6 +435,7 @@ Mika Rinne
   - [Oracle Autonomous Database: Setting up ACLs and Private Endpoints](https://mjromeo81.com/2020/12/24/oracle-autonomous-database-setting-up-acls-and-private-endpoints/)
 - [Connection to Oracle Autonomous Database](https://orabliss.blogspot.com/2024/02/connection-to-oracle-autonomous-database.html) by Selvakumar Nagulan
 - [A Blog on Oracle and Stuff](https://enesi.no/) by  Øyvind Isene
+- [How to configure Active Directory authentication in Oracle APEX AD](https://haczek.blog/how-to-configure-active-directory-authentication-in-oracle-apex/) by Dominik Haczek
 
 ## Tips and Tricks
  - [How to do a GRANT on an entire schema](https://connor-mcdonald.com/2020/08/25/schema-level-grant-in-oracle/) by Connor McDonald

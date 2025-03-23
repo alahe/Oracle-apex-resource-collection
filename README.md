@@ -631,7 +631,7 @@ Mika Rinne
 - [Perform Cross-Regional Disaster Recovery for Exadata Database on Oracle Database@Azure](https://docs.oracle.com/en/solutions/exadb-dr-on-db-azure/index.html#GUID-C5016FB8-DD90-4F5C-8965-AC4230537EB1) by Oracle Architecture Center
 - [Learn about selecting network topologies for Oracle Database@Azure](https://docs.oracle.com/en/solutions/network-topology-oracle-database-at-azure/index.html#GUID-A9EF7A07-5C4E-4A2C-8A89-8EB2ECBD450F) by Oracle Architecture Center
 [Build Azure DevOps CI/CD Pipelines with Oracle Exadata Database Service](https://docs.oracle.com/en/solutions/oracle-base-database-azure/index.html) by Oracle Architecture Center
-
+[Deploy a multicloud disaster recovery topology by using Oracle Database Service for Azure](https://docs.oracle.com/en/solutions/deploy-multicloud-dr-odsa/index.html#GUID-94439D6B-F854-47EA-9708-016C1DD97C6B) by Oracle Architecture Center
 
 ## LiveLabs
 - [Oracle LiveLabs]( https://github.com/oracle-livelabs ) Oracle LiveLabs in Github

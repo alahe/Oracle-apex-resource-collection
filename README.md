@@ -495,6 +495,7 @@ Mika Rinne
   - [How to Migrate to Autonomous Database Using Database Migration Service and OCI CLI](https://dohdatabase.com/2023/02/02/how-to-migrate-to-autonomous-database-using-database-migration-service-and-oci-cli/)
 - [ZMD - Oracle Zero Downtime Migration – Logical Migration Performance Guidelines](https://www.oracle.com/a/tech/docs/zdm-gg-performance.pdf)
 - [Oracle Zero Downtime Migration – Logical Online Migration to ADB-S on Oracle Database@Azure](https://www.oracle.com/a/otn/docs/database/zdm-logical-online-migration-to-oracle-at-azure-adb-s.pdf)
+- [Migrate business critical applications to Oracle Database@Azure using a phased strategy](https://docs.oracle.com/en/solutions/phased-migration-to-oracle-dba/index.html#GUID-7607B2B8-2E97-4682-BA38-A556F0ECA8A5) by Oracle Architecture Center
 - [Logical Offline Migration to ExaCC with Oracle Zero Downtime Migration (ZDM)](https://www.dbi-services.com/blog/physical-online-migration-to-exacc-with-oracle-zero-downtime-migration-zdm/) by Marc Wagner
 - [Move to the Cloud](https://dohdatabase.com/wp-content/uploads/2022/02/move_to_the_cloud.pdf)
 - [ADB Migration: Why does my SPA report has so many errors?](https://mikedietrichde.com/2025/02/24/adb-migration-why-does-my-spa-report-has-so-many-errors/) by Mike Dietrich
@@ -624,6 +625,13 @@ Mika Rinne
 - [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/)
 - [https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419](https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419)
 - [Service Mapping- Oracle Cloud Infrastructure for Microsoft Azure professionals](https://docs.oracle.com/en/solutions/oci-for-azure-professionals/index.html#GUID-55F54E65-BEC5-4CEC-9BEA-63FD0DFA9D38) by Oracle, Architecture Center
+- [Migrate business critical applications to Oracle Database@Azure using a phased strategy](https://docs.oracle.com/en/solutions/phased-migration-to-oracle-dba/index.html#GUID-7607B2B8-2E97-4682-BA38-A556F0ECA8A5) by Oracle Architecture Center
+- [Deploy Autonomous Database on Oracle Database@Azure](https://docs.oracle.com/en/solutions/deploy-autonomous-database-db-at-azure/index.html) by Oracle Architecture Center
+- [Move to Oracle Database@Azure with Oracle Zero Downtime Migration](https://docs.oracle.com/en/solutions/oracle-db-at-azure-migration/index.html#GUID-54E96CD1-06E9-4D82-B8EC-DCF919C32557) by Oracle Architecture Center
+- [Perform Cross-Regional Disaster Recovery for Exadata Database on Oracle Database@Azure](https://docs.oracle.com/en/solutions/exadb-dr-on-db-azure/index.html#GUID-C5016FB8-DD90-4F5C-8965-AC4230537EB1) by Oracle Architecture Center
+- [Learn about selecting network topologies for Oracle Database@Azure](https://docs.oracle.com/en/solutions/network-topology-oracle-database-at-azure/index.html#GUID-A9EF7A07-5C4E-4A2C-8A89-8EB2ECBD450F) by Oracle Architecture Center
+[Build Azure DevOps CI/CD Pipelines with Oracle Exadata Database Service](https://docs.oracle.com/en/solutions/oracle-base-database-azure/index.html) by Oracle Architecture Center
+
 
 ## LiveLabs
 - [Oracle LiveLabs]( https://github.com/oracle-livelabs ) Oracle LiveLabs in Github

@@ -303,6 +303,7 @@ Mika Rinne
 - [Oracle APEX for Forms Developers ](https://prezi.com/i52u-kdd2gmu/oracle-apex-for-forms-developers/) by Scott Wesley
 - [Modernizing Oracle Forms Using Oracle APEX](https://pierre-yotti-it.com/modernizing-oracle-forms-using-oracle-apex/) by PIERRE YOTTI
 - [Office Hours - Forms Modernization ](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=4825) by  Joel Kallman
+- [Modernize Oracle Forms applications to Oracle APEX and an autonomous database](https://docs.oracle.com/en/solutions/migrate-apps-to-apex/index.html#GUID-222A3DF2-390A-47B8-9377-BB5D1E41A60A) By Oracle Architecture Center
 
 ## Files
 - [Upload Multiple Files to Oracle Object Storage from an Oracle Apex Application](https://medium.com/oracledevs/upload-multiple-files-to-oracle-object-storage-from-an-oracle-apex-application-90e10c47e9d0) in Medium
@@ -622,6 +623,7 @@ Mika Rinne
 - [Oracle Database@Azure - marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.oracle_database_at_azure?tab=Overview)
 - [Oracle Database@Azure](https://www.oracle.com/cloud/azure/oracle-database-at-azure/)
 - [https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419](https://docs.oracle.com/en/solutions/learn-about-multicloud-arch-framework/index.html#GUID-D2C31879-5A92-4101-9246-54420BBC8419)
+- [Service Mapping- Oracle Cloud Infrastructure for Microsoft Azure professionals](https://docs.oracle.com/en/solutions/oci-for-azure-professionals/index.html#GUID-55F54E65-BEC5-4CEC-9BEA-63FD0DFA9D38) by Oracle, Architecture Center
 
 ## LiveLabs
 - [Oracle LiveLabs]( https://github.com/oracle-livelabs ) Oracle LiveLabs in Github

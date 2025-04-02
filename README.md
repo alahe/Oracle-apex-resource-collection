@@ -447,6 +447,7 @@ Mika Rinne
 - [Low-Code, AI, and the Future of App Creation with Oracle APEX](https://youtu.be/QFOXQ8v8UwY?si=lR7fESENEfrUOl6R) by Marc Swetz
 - [AI Solutions Hub](https://www.oracle.com/artificial-intelligence/solutions/)
 - [300+ Best ChatGPT Prompts to Unleash AI’s Potential](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/) by Damir Yalalov and Karolina Gaszcz
+- [Fine tuning AI for APEX](https://gist.github.com/jsr4850)
 
 ## ORDS
 - [Oracle REST Data Services](https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/) Oracle Help Center

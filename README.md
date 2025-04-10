@@ -673,9 +673,12 @@ Mika Rinne
 ## Podman
 - [Podman Docs](https://docs.podman.io/en/latest/index.html) By Podman
 - [Podman -Github ](https://github.com/containers/podman)  By Podman
+- [Podman Commands](https://docs.podman.io/en/latest/markdown/podman-run.1.html) by Podman
 - [Oracle Learning - Podman](https://www.youtube.com/@OracleLearning/search?query=podman) by Oracle
 - [Oracle Linux - Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-AboutPodmanBuildahandSkopeo.html) by Oracle
 - [How Podman can extract a container's external IP address](https://www.redhat.com/en/blog/container-ip-address-podman) by Alexon Oliveira
+- [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin Bach
+
 
 
 ## Oracle License
@@ -700,7 +703,7 @@ Mika Rinne
   - [Run Oracle REST Data Services (ORDS) locally with Oracle Database Free](https://medium.com/@anders.swanson.93/run-oracle-rest-data-services-ords-locally-with-oracle-database-free-ab64a549e596) by Anders Swanson
   - [Oracle REST Data Services (ORDS) command line interface.](https://container-registry.oracle.com/ords/f?p=113:4:7611315151588:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1183,1183,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,1,0&cs=3b86J1JgtvU6J5z0PHz0U48OrYpOHh0qeSu0pdJGSCXcnBb9XYT91nTCG1-TxojJM9LGuUflI-cbSI3igYqFTIQ)  
   ------
-  - [Podman Commands](https://docs.podman.io/en/latest/markdown/podman-run.1.html) 
+ 
   - [supports a RESTful API for the Libpod library (5.0.0)](https://docs.podman.io/en/latest/_static/api.html)
 
 ## Mac

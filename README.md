@@ -675,6 +675,7 @@ Mika Rinne
 - [Podman -Github ](https://github.com/containers/podman)  By Podman
 - [Oracle Learning - Podman](https://www.youtube.com/@OracleLearning/search?query=podman) by Oracle
 - [Oracle Linux - Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-AboutPodmanBuildahandSkopeo.html) by Oracle
+- [How Podman can extract a container's external IP address](https://www.redhat.com/en/blog/container-ip-address-podman) by Alexon Oliveira
 
 
 ## Oracle License

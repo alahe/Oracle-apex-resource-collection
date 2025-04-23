@@ -678,6 +678,7 @@ Mika Rinne
 - [Oracle Linux - Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-AboutPodmanBuildahandSkopeo.html) by Oracle
 - [How Podman can extract a container's external IP address](https://www.redhat.com/en/blog/container-ip-address-podman) by Alexon Oliveira
 - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin Bach
+- 
 
 
 
@@ -697,6 +698,7 @@ Mika Rinne
 ## Containers
   - [Oracle Database container images](https://github.com/oracle/docker-images/blob/main/OracleDatabase/SingleInstance/README.md) By Oracle (Github)
   - [Oracle Container Registry](https://container-registry.oracle.com/ords/f?p=113:10:29397734666684:::::) by Oracle
+  - [Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-Preface.html#podman-preface) by Oracle
   - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin BACH 
   - [Adding SSL to your ORDS ](https://spendolini.blog/adding-ssl-to-your-ords-container) by Scott Spendolini
   - [Running Oracle Database 23ai & ORDS Locally via Containers](https://spendolini.blog/container-yourself) by Scott Spendolini

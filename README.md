@@ -304,6 +304,7 @@ Mika Rinne
 - [Modernizing Oracle Forms Using Oracle APEX](https://pierre-yotti-it.com/modernizing-oracle-forms-using-oracle-apex/) by PIERRE YOTTI
 - [Office Hours - Forms Modernization ](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=4825) by  Joel Kallman
 - [Modernize Oracle Forms applications to Oracle APEX and an autonomous database](https://docs.oracle.com/en/solutions/migrate-apps-to-apex/index.html#GUID-222A3DF2-390A-47B8-9377-BB5D1E41A60A) By Oracle Architecture Center
+- [Oracle Forms Modernization: discover your modernization options on demand](https://videohub.oracle.com/media/Oracle+Forms+Modernization%3A+discover+your+modernization+options+on+demand/1_1x57idhf?elq_mid=265478&sh=261515261315261922103026042232&cmid=CORP241213P00021C00002) by  Ondrej Holub April 29th, 2025
 
 ## Files
 - [Upload Multiple Files to Oracle Object Storage from an Oracle Apex Application](https://medium.com/oracledevs/upload-multiple-files-to-oracle-object-storage-from-an-oracle-apex-application-90e10c47e9d0) in Medium

@@ -480,6 +480,12 @@ Mika Rinne
 - [Using NGINX as a Reverse Proxy for Oracle APEX and ORDS](https://blog.viscosityna.com/using-nginx-as-a-reverse-proxy-for-oracle-apex-and-ords)
 - [Reverse Proxy to Oracle ORDS & APEX with Caddy](https://mattmulvaney.hashnode.dev/reverse-proxy-to-oracle-ords-apex-with-caddy)
 
+## JSON
+- [JSON Schema in Oracle Database 23c](https://youtu.be/YxhDRB0-ESI?si=u_LmRxhlJnh1Px2k) by Oracle Developers on 09 May 2023
+- [Oracle Database 23c - JSON Relational Duality](https://youtu.be/W4ordGZLn30?si=HMjWaApdi6iDnHfd) by Oracle Developers on 27 September 2023
+- [JSON in Oracle Database Office Hours: Binary JSON formats](https://youtu.be/oNpOl_klQP8?si=r76_d99zgrEXf4bM) by Oracle Developer on  12 March 2024
+- [Developer's nirvana with Autonomous Database: JSON-Relational Duality in Oracle Database 23ai](https://youtu.be/olQaL5RKwaU?si=6G0vmVkS3kaOUnCH) by Oracle Developers on  18 March 2025
+
 ## Globalizations
 - [SYSDATE vs. CURRENT_DATE in Oracle Database](https://database-heartbeat.com/2021/09/28/sysdate-vs-current_date-in-oracle-database/) by Sinan Petrus Toma
 - [Awesome DATE / TIMESTAMP enhancement in Autonomous Database](https://connor-mcdonald.com/2022/02/02/awesome-date-timestamp-enhancement-in-autonomous-database/) by  Connor McDonald
@@ -652,7 +658,6 @@ Mika Rinne
 - [An Oracle Programmer](https://stewashton.wordpress.com/) by Stew Ashton
 - [ChrisSaxonOra office-hours](https://github.com/ChrisSaxonOra/office-hours/tree/main) by Chris Saxon
 - [3 Foundational Principles for Writing Efficient SQL](https://thenewstack.io/3-foundational-principles-for-writing-efficient-sql/) by Chris Saxon
-  
 
 ## SQL Tuning 
 - [SQL Tuning Guide](https://docs.oracle.com/en/database/oracle/oracle-database/19/tgsql/overview-of-sql-plan-management.html#GUID-F1C45056-F998-43E5-B362-83F88DA49E58) Oracle Help Center
@@ -662,7 +667,6 @@ Mika Rinne
 - [SQLMaria](https://sqlmaria.com/) by Maria Colgan
 - [Oracle Expert - Performance](https://expertoracle.com/?s=performance) By Brijesh Gogia
   - [Performance Tuning Basics 15 : AWR Report Analysis](https://expertoracle.com/2018/02/06/performance-tuning-basics-15-awr-report-analysis/)
-  - 
 - [My Query Performs Horrible, Fix It!](https://dohdatabase.com/2024/03/27/my-query-performs-horrible-fix-it/) by Daniel Overby Hansen
 - [Reasons why SELECT * is bad for SQL performance](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/) by Tanel Põder
 - [Many SQL Performance Problems Stem from “Unnecessary, Mandatory Work](https://blog.jooq.org/many-sql-performance-problems-stem-from-unnecessary-mandatory-work/) By Lukas Eder
@@ -679,9 +683,6 @@ Mika Rinne
 - [Oracle Linux - Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-AboutPodmanBuildahandSkopeo.html) by Oracle
 - [How Podman can extract a container's external IP address](https://www.redhat.com/en/blog/container-ip-address-podman) by Alexon Oliveira
 - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin Bach
-- 
-
-
 
 ## Oracle License
 - [Database Licensing Information User Manual 23 ](https://docs.oracle.com/en/database/oracle/oracle-database/23/dblic/Licensing-Information.html#GUID-AB354617-6614-487E-A022-7FC9A5A08472) by Oracle

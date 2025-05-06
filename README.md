@@ -480,7 +480,7 @@ Mika Rinne
 - [Using NGINX as a Reverse Proxy for Oracle APEX and ORDS](https://blog.viscosityna.com/using-nginx-as-a-reverse-proxy-for-oracle-apex-and-ords)
 - [Reverse Proxy to Oracle ORDS & APEX with Caddy](https://mattmulvaney.hashnode.dev/reverse-proxy-to-oracle-ords-apex-with-caddy)
 
-## 
+## JSON
 - [Using SQL Developer for VS Code to build Duality Views](https://www.thatjeffsmith.com/archive/2024/07/using-sql-developer-for-vs-code-to-build-duality-views/) by Jeff Smith July 30, 2024
 - [-Relational Duality Views in Oracle Database 23ai](https://oracle-base.com/articles/23/-relational-duality-views-23) by Tim Hall
 - [What's New in APEX 24.2: Leveraging  Sources and Duality Views for Flexible Component Development in Oracle APEX](https://blogs.oracle.com/apex/post/leveraging--sources-and-duality-views-for-flexible-component-development-in-oracle-apex) by Santhosh BVSRK on January 10, 2025

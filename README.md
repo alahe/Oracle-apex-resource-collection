@@ -480,20 +480,21 @@ Mika Rinne
 - [Using NGINX as a Reverse Proxy for Oracle APEX and ORDS](https://blog.viscosityna.com/using-nginx-as-a-reverse-proxy-for-oracle-apex-and-ords)
 - [Reverse Proxy to Oracle ORDS & APEX with Caddy](https://mattmulvaney.hashnode.dev/reverse-proxy-to-oracle-ords-apex-with-caddy)
 
-## JSON
+## 
 - [Using SQL Developer for VS Code to build Duality Views](https://www.thatjeffsmith.com/archive/2024/07/using-sql-developer-for-vs-code-to-build-duality-views/) by Jeff Smith July 30, 2024
-- [JSON-Relational Duality Views in Oracle Database 23ai](https://oracle-base.com/articles/23/json-relational-duality-views-23) by Tim Hall
-- [What's New in APEX 24.2: Leveraging JSON Sources and Duality Views for Flexible Component Development in Oracle APEX](https://blogs.oracle.com/apex/post/leveraging-json-sources-and-duality-views-for-flexible-component-development-in-oracle-apex) by Santhosh BVSRK on January 10, 2025
-- [JSON Relational Duality: The Revolutionary Unification of Document, Object, and Relational Models](https://blogs.oracle.com/database/post/json-relational-duality-app-dev) by Ranjan Priyadarshi
-- [Simplify APEX App REST APIs with JSON Duality Views](https://diveintoapex.com/2024/03/05/simplify-apex-app-rest-apis-with-json-duality-views/) by Steve Muench on March 5, 2024
+- [-Relational Duality Views in Oracle Database 23ai](https://oracle-base.com/articles/23/-relational-duality-views-23) by Tim Hall
+- [What's New in APEX 24.2: Leveraging  Sources and Duality Views for Flexible Component Development in Oracle APEX](https://blogs.oracle.com/apex/post/leveraging--sources-and-duality-views-for-flexible-component-development-in-oracle-apex) by Santhosh BVSRK on January 10, 2025
+- [ Relational Duality: The Revolutionary Unification of Document, Object, and Relational Models](https://blogs.oracle.com/database/post/-relational-duality-app-dev) by Ranjan Priyadarshi
+- [Simplify APEX App REST APIs with  Duality Views](https://diveintoapex.com/2024/03/05/simplify-apex-app-rest-apis-with--duality-views/) by Steve Muench on March 5, 2024
 ### Livelabs
-- [Oracle Database 23ai Quick Start: JSON Duality Views](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=4004&clear=RR,180&session=100504383263063) by William James Masdon
-- [Best of Both Worlds: Use JSON Relational Duality to Build Modern Apps](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3797) by
-- []() by
-- []() by
-- []() by
-- []() by
-### Webinar on JSON from YouTube
+- [Oracle Database 23ai Quick Start:  Duality Views](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=4004&clear=RR,180&session=100504383263063) by William James Masdon
+- [Best of Both Worlds: Use  Relational Duality to Build Modern Apps](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3797) by
+- [SQL Meets JSON in Oracle Database: Unify Data with Duality Views, JSON Collections & MongoDB API](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3635) by
+- [AutoREST with JSON Relational Duality Views in 23ai](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3977) by
+- [JSON Relational Duality Views in 23ai Free using SQL](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3968) by
+- [ORDS: Choose your Own JSON Adventure with ORDS: Relational or Document Store](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=813) by
+- 
+### Webinar on  from YouTube
 - [JSON Schema in Oracle Database 23c](https://youtu.be/YxhDRB0-ESI?si=u_LmRxhlJnh1Px2k) by Oracle Developers on 09 May 2023
 - [Oracle Database 23c - JSON Relational Duality](https://youtu.be/W4ordGZLn30?si=HMjWaApdi6iDnHfd) by Oracle Developers on 27 September 2023
 - [JSON in Oracle Database Office Hours: Binary JSON formats](https://youtu.be/oNpOl_klQP8?si=r76_d99zgrEXf4bM) by Oracle Developer on  12 March 2024

@@ -266,6 +266,9 @@ Mika Rinne
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
 - [Modern CI/CD Pipelines for App Dev with Converged Oracle Database](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3314&p210_wec=)
+- [Oracle LiveLabs]( https://github.com/oracle-livelabs ) Oracle LiveLabs in Github
+    - [Sample Schemas](https://github.com/oracle-samples/db-sample-schemas)
+    - [SQL Meets JSON in Oracle Database: Unify Data with Duality Views, JSON Collections & MongoDB API](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3635&p210_wec=&session=122316911509972) by  Hermann Baer, Beda Hammerschmidt on April 2025
   
 ## Security
 - [AskTomDBSecurity](https://github.com/oradbsec/AskTomDBSecurity)
@@ -654,9 +657,6 @@ Mika Rinne
 - [Learn about selecting network topologies for Oracle Database@Azure](https://docs.oracle.com/en/solutions/network-topology-oracle-database-at-azure/index.html#GUID-A9EF7A07-5C4E-4A2C-8A89-8EB2ECBD450F) by Oracle Architecture Center
 [Build Azure DevOps CI/CD Pipelines with Oracle Exadata Database Service](https://docs.oracle.com/en/solutions/oracle-base-database-azure/index.html) by Oracle Architecture Center
 [Deploy a multicloud disaster recovery topology by using Oracle Database Service for Azure](https://docs.oracle.com/en/solutions/deploy-multicloud-dr-odsa/index.html#GUID-94439D6B-F854-47EA-9708-016C1DD97C6B) by Oracle Architecture Center
-
-## LiveLabs
-- [Oracle LiveLabs]( https://github.com/oracle-livelabs ) Oracle LiveLabs in Github
 
 ## IAM Policies
 - [IAM Policies](https://www.youtube.com/watch?v=N1DzC5VS7-k)

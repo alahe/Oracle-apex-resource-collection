@@ -148,9 +148,7 @@ _My backup memory_
 
 ### Wordpress
 - [Oracle DBMS_SCHEDULER – Getting in a tangle with Time Zones](https://mikesmithers.wordpress.com/2024/10/28/oracle-dbms_scheduler-getting-in-a-tangle-with-time-zones/) by mikesmithers
-- 
 
- 
 ### Others Blogs platform
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
 - [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
@@ -216,7 +214,6 @@ Mika Rinne
 ## SSO
 [Implementing Single Sign-On for APEX with Entra-ID and SAML on Oracle Autonomous Database](https://tm-apex.hashnode.dev/implementing-single-sign-on-for-apex-with-entra-id-and-saml-on-oracle-autonomous-database) by Timo Herwix
 
-
 ## Source, Github 
 - [Oracle Sample Projects](https://github.com/oracle-samples)
 - [Oracle Database Sample Schemas](https://github.com/oracle-samples/db-sample-schemas)
@@ -229,9 +226,6 @@ Mika Rinne
 - [The Sakila example database](https://github.com/jOOQ/sakila) 
 - [Tanel Poder's Performance & Troubleshooting Tools for Oracle Databases](https://github.com/tanelpoder/tpt-oracle) by Tanel Põder
 - [Apex plugins](https://github.com/RonnyWeiss?tab=repositories) by Ronny Weiss
-
-  
-
 
 ## Development support APEX apps
 - [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home) by Louis Moreaux
@@ -376,7 +370,6 @@ Mika Rinne
 - [Template component plugin](https://apex.mt-itsolutions.com/ords/r/portal/apex/template-component-challenge)
 - [TARDIA – Time And Related Datatypes In APEX ](https://www.linkedin.com/events/tardia-timeandrelateddatatypesi7081454729582575616/theater/) by Ed Jones
 
-
 # ADB
 - [Autonomous Database Getting Started](https://www.oracle.com/autonomous-database/get-started/)
 - [Autonomous Database](https://www.oracle.com/autonomous-database/)
@@ -401,7 +394,6 @@ Mika Rinne
 - [High Availability Overview and Best Practices](https://docs.oracle.com/en/database/oracle/oracle-database/23/haovw/index.html)
 
 ## Blogs
-
 - [Oracle Blogs](https://blogs.oracle.com/)
   - [The Autonomous Database Insider](https://blogs.oracle.com/datawarehousing/category/dwh-newsletter)
   - [2023 in Review for Autonomous Database on Dedicated Exadata Infrastructure](https://blogs.oracle.com/database/post/2023-in-review-autonomous-database-dedicated)
@@ -484,12 +476,14 @@ Mika Rinne
 - [Reverse Proxy to Oracle ORDS & APEX with Caddy](https://mattmulvaney.hashnode.dev/reverse-proxy-to-oracle-ords-apex-with-caddy)
 
 ## JSON
+- [JSON-Relational Duality Developer's Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/jsnvu/index.html)
 - [Using SQL Developer for VS Code to build Duality Views](https://www.thatjeffsmith.com/archive/2024/07/using-sql-developer-for-vs-code-to-build-duality-views/) by Jeff Smith July 30, 2024
 - [-Relational Duality Views in Oracle Database 23ai](https://oracle-base.com/articles/23/-relational-duality-views-23) by Tim Hall
 - [What's New in APEX 24.2: Leveraging  Sources and Duality Views for Flexible Component Development in Oracle APEX](https://blogs.oracle.com/apex/post/leveraging--sources-and-duality-views-for-flexible-component-development-in-oracle-apex) by Santhosh BVSRK on January 10, 2025
 - [ Relational Duality: The Revolutionary Unification of Document, Object, and Relational Models](https://blogs.oracle.com/database/post/-relational-duality-app-dev) by Ranjan Priyadarshi
 - [Simplify APEX App REST APIs with  Duality Views](https://diveintoapex.com/2024/03/05/simplify-apex-app-rest-apis-with--duality-views/) by Steve Muench on March 5, 2024
 - [GitHub - JSON Relational Duality](https://github.com/oracle-samples/oracle-db-examples/tree/main/json-relational-duality) by Oracle (Samples)
+  
 ### Livelabs
 - [Oracle Database 23ai Quick Start:  Duality Views](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=4004&clear=RR,180&session=100504383263063) by William James Masdon
 - [Best of Both Worlds: Use  Relational Duality to Build Modern Apps](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3797) by
@@ -497,7 +491,7 @@ Mika Rinne
 - [AutoREST with JSON Relational Duality Views in 23ai](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3977) by
 - [JSON Relational Duality Views in 23ai Free using SQL](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3968) by
 - [ORDS: Choose your Own JSON Adventure with ORDS: Relational or Document Store](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=813) by
-- 
+  
 ### Webinar on  from YouTube
 - [JSON Schema in Oracle Database 23c](https://youtu.be/YxhDRB0-ESI?si=u_LmRxhlJnh1Px2k) by Oracle Developers on 09 May 2023
 - [Oracle Database 23c - JSON Relational Duality](https://youtu.be/W4ordGZLn30?si=HMjWaApdi6iDnHfd) by Oracle Developers on 27 September 2023

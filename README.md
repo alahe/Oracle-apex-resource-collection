@@ -489,6 +489,7 @@ Mika Rinne
 - [What's New in APEX 24.2: Leveraging  Sources and Duality Views for Flexible Component Development in Oracle APEX](https://blogs.oracle.com/apex/post/leveraging--sources-and-duality-views-for-flexible-component-development-in-oracle-apex) by Santhosh BVSRK on January 10, 2025
 - [ Relational Duality: The Revolutionary Unification of Document, Object, and Relational Models](https://blogs.oracle.com/database/post/-relational-duality-app-dev) by Ranjan Priyadarshi
 - [Simplify APEX App REST APIs with  Duality Views](https://diveintoapex.com/2024/03/05/simplify-apex-app-rest-apis-with--duality-views/) by Steve Muench on March 5, 2024
+- [GitHub - JSON Relational Duality](https://github.com/oracle-samples/oracle-db-examples/tree/main/json-relational-duality) by Oracle (Samples)
 ### Livelabs
 - [Oracle Database 23ai Quick Start:  Duality Views](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=4004&clear=RR,180&session=100504383263063) by William James Masdon
 - [Best of Both Worlds: Use  Relational Duality to Build Modern Apps](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3797) by

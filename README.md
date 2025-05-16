@@ -384,9 +384,10 @@ Mika Rinne
 - [Under the hood of Oracle Autonomous Database: YouTube 45min video](https://www.youtube.com/watch?v=2ZPTNtoXVQ8)
 - [New Autonomous Database features announced at Oracle CloudWorld'23 (EMEA edition)](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=22387)  ADB Learning Lounge
 - [Database Expert Resources](https://apexadb.oracle.com/ords/r/dbexpert/dbsn/home)
-- [Migrate Oracle Databases to OCI](https://www.oracle.com/database/cloud-migration/)
+- [Migrate Oracle Databases to OCI](https://www.oracle.com/database/cloud-/)
 - [Database Error Messages](https://docs.oracle.com/en/error-help/db/index.html)
 - [Databases Are Fun](https://dohdatabase.com/webinars/) for DBA
+  - [Webinars](https://dohdatabase.com/webinars/) by Oracle
 - [Questions tagged oracle-autonomous-db](https://stackoverflow.com/questions/tagged/oracle-autonomous-db?tab=newest&pagesize=50) in Stackoverflow
 - [Predefined Database Service Names for Autonomous Databases](https://docs.oracle.com/en/cloud/paas/autonomous-database/dedicated/adbbd/index.html#GUID-07401C82-6A01-4CDF-AAE5-54B78B50CA0A)
 - [Deploy a secure production-ready Oracle Autonomous Database and Oracle APEX application](https://docs.oracle.com/en/solutions/deploy-autonomous-database-and-app/index.html#GUID-40A628D0-7A04-42EA-A07E-A3FCC4248DBF)
@@ -404,7 +405,7 @@ Mika Rinne
   - [Leverage OCI Functions to notify Live Feed Table in a Autonomous Database Private Endpoint](https://blogs.oracle.com/datawarehousing/post/leverage-oci-functions-to-notify-live-feed-table-in-a-autonomous-database-private-endpoint)
   - [Automatic Indexing Cheat Sheet](https://blogs.oracle.com/datawarehousing/post/automatic-indexing-cheat-sheet) by Nigel Bayliss
   - [Autonomous Database speaks “human”](https://blogs.oracle.com/datawarehousing/post/autonomous-database-speaks-human)
-  - [Oracle Databse Insider - Easy Oracle Database Migration with SQLcl](https://blogs.oracle.com/database/post/easy-oracle-database-migration-with-sqlcl)
+  - [Oracle Databse Insider - Easy Oracle Database  with SQLcl](https://blogs.oracle.com/database/post/easy-oracle-database--with-sqlcl)
   - [Learn to manage cloud code repositories (GitHub, Azure Repos, AWS CodeCommit) with Autonomous Database](https://blogs.oracle.com/datawarehousing/post/cloud-code-repositories-in-autonomous-database)
   - [Oracle Database Vault on Autonomous Database: Quickly and Easily](https://blogs.oracle.com/datawarehousing/post/oracle-database-vault-on-autonomous-database-quickly-and-easily) by Can Tuzla, 2020
   - [Using Data Redaction in Oracle Database 23ai](https://blogs.oracle.com/database/post/using-data-redaction) by Richard Evans
@@ -426,7 +427,7 @@ Mika Rinne
 - [Understanding Azure AD Authentication: Interactive vs. Non-Interactive Token Acquisition](https://medium.com/@vbalebai/understanding-azure-ad-authentication-interactive-vs-non-interactive-token-acquisition-7f4ac5690298) by Vijay Balebail
 - [Databases Are Fun](https://dohdatabase.com/)
   - [Connect to Autonomous Database using the Cloud Shell and SQLcl](https://youtu.be/akqLUKMzngc?si=R9_lZ2k6DoJw0pen) by Daniel Overby Hansen (Oracle)
-  - [How to Migrate to Autonomous Database Using Database Migration Service and OCI CLI](https://dohdatabase.com/2023/02/02/how-to-migrate-to-autonomous-database-using-database-migration-service-and-oci-cli/)
+  - [How to Migrate to Autonomous Database Using Database  Service and OCI CLI](https://dohdatabase.com/2023/02/02/how-to-migrate-to-autonomous-database-using-database--service-and-oci-cli/)
 - [Oracle Autonomous Database](https://mjromeo81.com/2020/12/24/oracle-autonomous-database/) by Auxiliary Memory – Mark Romeo's Oracle Blog
   - [Oracle Autonomous Database: SYSDATE and Time Zones](https://mjromeo81.com/2020/12/25/oracle-autonomous-database-sysdate-and-time-zones/)
   - [Oracle Autonomous Database: Setting up ACLs and Private Endpoints](https://mjromeo81.com/2020/12/24/oracle-autonomous-database-setting-up-acls-and-private-endpoints/)
@@ -519,6 +520,7 @@ Mika Rinne
 - [Logical Offline Migration to ExaCC with Oracle Zero Downtime Migration (ZDM)](https://www.dbi-services.com/blog/physical-online-migration-to-exacc-with-oracle-zero-downtime-migration-zdm/) by Marc Wagner
 - [Move to the Cloud](https://dohdatabase.com/wp-content/uploads/2022/02/move_to_the_cloud.pdf)
 - [ADB Migration: Why does my SPA report has so many errors?](https://mikedietrichde.com/2025/02/24/adb-migration-why-does-my-spa-report-has-so-many-errors/) by Mike Dietrich
+- [Migration to Oracle Autonomous Database](https://dohdatabase.com/wp-content/uploads/2025/05/vc23_adb_migration_02.pdf) by 
 
 ## Maintenance
 - [How to Patch Oracle Database With One Command](https://dohdatabase.com/2024/10/30/how-to-patch-oracle-database-with-one-command/) by Daniel Overby Hansen

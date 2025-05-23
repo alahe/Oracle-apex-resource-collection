@@ -482,7 +482,12 @@ Mika Rinne
 ## JSON
 - [JSON-Relational Duality Developer's Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/jsnvu/index.html)
 - [Using SQL Developer for VS Code to build Duality Views](https://www.thatjeffsmith.com/archive/2024/07/using-sql-developer-for-vs-code-to-build-duality-views/) by Jeff Smith July 30, 2024
-- [-Relational Duality Views in Oracle Database 23ai](https://oracle-base.com/articles/23/-relational-duality-views-23) by Tim Hall
+- [JSON-Relational Duality Views in Oracle Database 23ai](https://oracle-base.com/articles/23/json-relational-duality-views-23) by Tim Hall on April 03, 2023
+  - [Oracle REST Data Services (ORDS) : AutoREST of JSON-Relational Duality Views](https://oracle-base.com/articles/misc/oracle-rest-data-services-ords-autorest-of-json-relational-duality-views) by Tim Hall on April 14, 2023
+  - [GraphQL in Oracle Database 23ai](https://oracle-base.com/articles/23/graphql-23) by Tim Hall on September 29, 2024
+  - [Oracle REST Data Services (ORDS) : GraphQL](https://oracle-base.com/articles/misc/oracle-rest-data-services-ords-graphql) by Tim Hall on September 30, 2024
+  - [Oracle REST Data Services (ORDS) : Oracle Database API for MongoDB](https://oracle-base.com/articles/misc/oracle-rest-data-services-ords-oracle-database-api-for-mongodb) by Tim Hall on October 05, 2024
+  - [JSON search result in Tim Hall Blogs](https://oracle-base.com/articles/misc/articles-misc#json)
 - [What's New in APEX 24.2: Leveraging  Sources and Duality Views for Flexible Component Development in Oracle APEX](https://blogs.oracle.com/apex/post/leveraging--sources-and-duality-views-for-flexible-component-development-in-oracle-apex) by Santhosh BVSRK on January 10, 2025
 - [ Relational Duality: The Revolutionary Unification of Document, Object, and Relational Models](https://blogs.oracle.com/database/post/-relational-duality-app-dev) by Ranjan Priyadarshi
 - [Simplify APEX App REST APIs with  Duality Views](https://diveintoapex.com/2024/03/05/simplify-apex-app-rest-apis-with--duality-views/) by Steve Muench on March 5, 2024

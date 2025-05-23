@@ -497,7 +497,8 @@ Mika Rinne
 - [Using Oracle Database 23ai as a Document Store](https://blogs.oracle.com/developers/post/using-oracle-database-23ai-as-a-document-store) by Martin Bach on April 17, 2025
 - [7 Reasons to try out JSON Relational Duality Views, with samples](https://medium.com/@anders.swanson.93/7-reasons-to-try-out-json-relational-duality-views-with-samples-16f27ceb1734) by Anders Swanson on Dec 10, 2024
 - [Working with JSON-Relational Duality Views and Oracle APEX](https://www.linkedin.com/pulse/working-json-relational-duality-views-oracle-apex-madhusudhan-rao-a2izf) by Madhusudhan Rao on December 1, 2023
-- [Using Oracle JSON-Relational Duality Views with Spring Boot. The ORM Killer?](https://martinelli.ch/oracle-json-relational-duality-views-with-spring-boot/) by Simon Martinelli on 
+- [Using Oracle JSON-Relational Duality Views with Spring Boot. The ORM Killer?](https://martinelli.ch/oracle-json-relational-duality-views-with-spring-boot/) by Simon Martinelli on
+- [Oracle Database 23ai: JSON-Relational Duality Views and the ORA-42647 error](https://pretius.com/blog/oracle-db-23ai-json-relational-duality-views-ora-errors/) by Tomáš Kucharzyk on 23 May 2024
 
   
 ### Livelabs

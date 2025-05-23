@@ -445,6 +445,9 @@ Mika Rinne
 - [AI Solutions Hub](https://www.oracle.com/artificial-intelligence/solutions/)
 - [300+ Best ChatGPT Prompts to Unleash AI’s Potential](https://mpost.io/100-best-chatgpt-prompts-to-unleash-ais-potential/) by Damir Yalalov and Karolina Gaszcz
 - [Fine tuning AI for APEX](https://gist.github.com/jsr4850)
+- [Select AI Enhances Text-to-SQL Support](https://blogs.oracle.com/machinelearning/post/select-ai-enhances-texttosql-support) by Mark Hornick on May 20, 2025
+- [Announcing Select AI for Synthetic Data Generation](https://blogs.oracle.com/machinelearning/post/announcing-select-ai-for-synthetic-data-generation) by Mark Hornick on September 10, 2024 
+- [Choose the right type of model to enhance your AI/ML applications](https://blogs.oracle.com/machinelearning/post/choose-the-right-type-of-model-to-enhance-your-aiml-applications) by Mark Hornick on March 19, 2025 
 
 ## ORDS
 - [Oracle REST Data Services](https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/) Oracle Help Center

@@ -497,6 +497,7 @@ Mika Rinne
 - [Using Oracle Database 23ai as a Document Store](https://blogs.oracle.com/developers/post/using-oracle-database-23ai-as-a-document-store) by Martin Bach on April 17, 2025
 - [7 Reasons to try out JSON Relational Duality Views, with samples](https://medium.com/@anders.swanson.93/7-reasons-to-try-out-json-relational-duality-views-with-samples-16f27ceb1734) by Anders Swanson on Dec 10, 2024
 - [Working with JSON-Relational Duality Views and Oracle APEX](https://www.linkedin.com/pulse/working-json-relational-duality-views-oracle-apex-madhusudhan-rao-a2izf) by Madhusudhan Rao on December 1, 2023
+- [Using Oracle JSON-Relational Duality Views with Spring Boot. The ORM Killer?](https://martinelli.ch/oracle-json-relational-duality-views-with-spring-boot/) by Simon Martinelli on 
 
   
 ### Livelabs
@@ -747,6 +748,7 @@ Mika Rinne
 - [Steve Jobs @ MIT 1992 - "What's the most important thing that you personally learned at Apple...?"](https://www.youtube.com/watch?v=1lEnMmH9qh4)
 - [Measuring Integration Complexity](https://medium.com/@simon.greig/measuring-integration-complexity-5bb543dde520) by Simon Greig
 - [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts) by Ashish Pratap Singh on Mar 30, 2025
+- [Goodbye Microservices, Hello Self-Contained Systems @ Spring I/O 2025](https://martinelli.ch/appearances/goodbye-microservices-hello-self-contained-systems-spring-i-o-2025/) by Simon Martinelli
 - 
 ## MS SQL vs Oracle Database
 - [Database-workloads in the Cloud? Oracle is not expensive](https://www.linkedin.com/pulse/database-workloads-cloud-oracle-expensive-jan-pedersen/)

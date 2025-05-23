@@ -740,7 +740,8 @@ Mika Rinne
 - [Steve Jobs on programmer productivity](https://wonko.com/post/steve-jobs-on-programmer-productivity/)
 - [Steve Jobs @ MIT 1992 - "What's the most important thing that you personally learned at Apple...?"](https://www.youtube.com/watch?v=1lEnMmH9qh4)
 - [Measuring Integration Complexity](https://medium.com/@simon.greig/measuring-integration-complexity-5bb543dde520) by Simon Greig
-
+- [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts) by Ashish Pratap Singh on Mar 30, 2025
+- 
 ## MS SQL vs Oracle Database
 - [Database-workloads in the Cloud? Oracle is not expensive](https://www.linkedin.com/pulse/database-workloads-cloud-oracle-expensive-jan-pedersen/)
 - [System Properties Comparison Microsoft SQL Server vs. Oracle](https://db-engines.com/en/system/Microsoft+SQL+Server%3BOracle)

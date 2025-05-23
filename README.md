@@ -499,6 +499,7 @@ Mika Rinne
 - [Working with JSON-Relational Duality Views and Oracle APEX](https://www.linkedin.com/pulse/working-json-relational-duality-views-oracle-apex-madhusudhan-rao-a2izf) by Madhusudhan Rao on December 1, 2023
 - [Using Oracle JSON-Relational Duality Views with Spring Boot. The ORM Killer?](https://martinelli.ch/oracle-json-relational-duality-views-with-spring-boot/) by Simon Martinelli on
 - [Oracle Database 23ai: JSON-Relational Duality Views and the ORA-42647 error](https://pretius.com/blog/oracle-db-23ai-json-relational-duality-views-ora-errors/) by Tomáš Kucharzyk on 23 May 2024
+- [How to easily parse JSON files into Oracle Database tables: A quick guide](https://pretius.com/blog/parse-json-oracle-db/) by Tomáš Kucharzyk  on 17 October 2024
 
   
 ### Livelabs

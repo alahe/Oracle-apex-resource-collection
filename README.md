@@ -482,6 +482,7 @@ Mika Rinne
 ## JSON
 - [JSON-Relational Duality Developer's Guide](https://docs.oracle.com/en/database/oracle/oracle-database/23/jsnvu/index.html)
 - [Using SQL Developer for VS Code to build Duality Views](https://www.thatjeffsmith.com/archive/2024/07/using-sql-developer-for-vs-code-to-build-duality-views/) by Jeff Smith July 30, 2024
+- [JSON Relational Duality view & API for an ‘EMPLOYEES’ entity](https://www.thatjeffsmith.com/archive/2024/06/json-relational-duality-view-api-for-an-employees-entity/) by Jeff Smith June 24, 2024
 - [JSON-Relational Duality Views in Oracle Database 23ai](https://oracle-base.com/articles/23/json-relational-duality-views-23) by Tim Hall on April 03, 2023
   - [Oracle REST Data Services (ORDS) : AutoREST of JSON-Relational Duality Views](https://oracle-base.com/articles/misc/oracle-rest-data-services-ords-autorest-of-json-relational-duality-views) by Tim Hall on April 14, 2023
   - [GraphQL in Oracle Database 23ai](https://oracle-base.com/articles/23/graphql-23) by Tim Hall on September 29, 2024
@@ -491,7 +492,12 @@ Mika Rinne
 - [What's New in APEX 24.2: Leveraging  Sources and Duality Views for Flexible Component Development in Oracle APEX](https://blogs.oracle.com/apex/post/leveraging--sources-and-duality-views-for-flexible-component-development-in-oracle-apex) by Santhosh BVSRK on January 10, 2025
 - [ Relational Duality: The Revolutionary Unification of Document, Object, and Relational Models](https://blogs.oracle.com/database/post/-relational-duality-app-dev) by Ranjan Priyadarshi
 - [Simplify APEX App REST APIs with  Duality Views](https://diveintoapex.com/2024/03/05/simplify-apex-app-rest-apis-with--duality-views/) by Steve Muench on March 5, 2024
+  - [New JSON, Workflow, and Fusion Apps Features in APEX 24.2](https://diveintoapex.com/2025/04/11/new-json-workflow-and-fusion-apps-features-in-apex-24-2/) by Steve Muench on April 11, 2025
 - [GitHub - JSON Relational Duality](https://github.com/oracle-samples/oracle-db-examples/tree/main/json-relational-duality) by Oracle (Samples)
+- [Using Oracle Database 23ai as a Document Store](https://blogs.oracle.com/developers/post/using-oracle-database-23ai-as-a-document-store) by Martin Bach on April 17, 2025
+- [7 Reasons to try out JSON Relational Duality Views, with samples](https://medium.com/@anders.swanson.93/7-reasons-to-try-out-json-relational-duality-views-with-samples-16f27ceb1734) by Anders Swanson on Dec 10, 2024
+- [Working with JSON-Relational Duality Views and Oracle APEX](https://www.linkedin.com/pulse/working-json-relational-duality-views-oracle-apex-madhusudhan-rao-a2izf) by Madhusudhan Rao on December 1, 2023
+- [What's New in APEX 24.2: Leveraging JSON Sources and Duality Views for Flexible Component Development in Oracle APEX](https://blogs.oracle.com/apex/post/leveraging-json-sources-and-duality-views-for-flexible-component-development-in-oracle-apex) by Santhosh BVSRK on January 10, 2025
   
 ### Livelabs
 - [Oracle Database 23ai Quick Start:  Duality Views](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=4004&clear=RR,180&session=100504383263063) by William James Masdon

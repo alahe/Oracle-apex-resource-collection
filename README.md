@@ -208,6 +208,7 @@ Mika Rinne
 - [Implementing CI/CD for Oracle Database/APEX Applications using SQLcl Projects and Jenkins](https://medium.com/@hamzaeraoui2000/implement-the-cicd-pipeline-to-your-oracle-database-apex-application-using-sqlcl-projects-and-230630675b59) by Hamza Eraoui
 - [Database Application CI/CD](https://docs.oracle.com/en/database/oracle/sql-developer-command-line/24.3/sqcug/database-application-ci-cd.html#GUID-9C8388CE-A369-4FEE-85CD-48D9BA9D87F4)
 - [An Overview of the Oracle SQLcl Projects Development Process](https://danmcghan.hashnode.dev/an-overview-of-the-oracle-sqlcl-projects-development-process) by Dan McGhan
+- [The Problems with Liquibase Rollback — and What to Do Instead](https://danmcghan.hashnode.dev/the-problems-with-liquibase-rollback-and-what-to-do-instead) by Dan McGhan
 - [APEX: Quick Tip when using SQLcl 24.3 Projects for Database Application](https://synuora.hashnode.dev/apex-quick-tip-when-using-sqlcl-243-projects-for-database-application-cicd?source=more_articles_bottom_blogs) by Sydney Nurse
 - [SQLcl Projects vs. Liquibase: A Comparison](https://regenberg-tech.hashnode.dev/sqlcl-projects-vs-liquibase) by Patrizia Regenberg
 

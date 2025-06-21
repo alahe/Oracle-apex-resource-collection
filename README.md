@@ -211,6 +211,7 @@ Mika Rinne
 - [The Problems with Liquibase Rollback — and What to Do Instead](https://danmcghan.hashnode.dev/the-problems-with-liquibase-rollback-and-what-to-do-instead) by Dan McGhan
 - [APEX: Quick Tip when using SQLcl 24.3 Projects for Database Application](https://synuora.hashnode.dev/apex-quick-tip-when-using-sqlcl-243-projects-for-database-application-cicd?source=more_articles_bottom_blogs) by Sydney Nurse
 - [SQLcl Projects vs. Liquibase: A Comparison](https://regenberg-tech.hashnode.dev/sqlcl-projects-vs-liquibase) by Patrizia Regenberg
+- [It is possible to deploy an Autonomous Database on your laptop with a management interface like OCI?](https://dincosman.com/2025/06/18/deploy-autonomous-database-locally/)
 
 ## SSO
 [Implementing Single Sign-On for APEX with Entra-ID and SAML on Oracle Autonomous Database](https://tm-apex.hashnode.dev/implementing-single-sign-on-for-apex-with-entra-id-and-saml-on-oracle-autonomous-database) by Timo Herwix

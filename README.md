@@ -228,6 +228,7 @@ Mika Rinne
 - [The Sakila example database](https://github.com/jOOQ/sakila) 
 - [Tanel Poder's Performance & Troubleshooting Tools for Oracle Databases](https://github.com/tanelpoder/tpt-oracle) by Tanel Põder
 - [Apex plugins](https://github.com/RonnyWeiss?tab=repositories) by Ronny Weiss
+- [cloudnueva](https://github.com/cloudnueva) by Jon Dixon
 
 ## Development support APEX apps
 - [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home) by Louis Moreaux

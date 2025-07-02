@@ -361,6 +361,7 @@ Mika Rinne
 - [Dev Gym - Databases for Developers: Foundations](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) by Chris Saxon
 - [Welcome to the Oracle Certview Portal](https://brm-certification.oracle.com/apex/f?p=1111:2:884964841994::NO:::)
 - [My Learning](https://mylearn.oracle.com/ou/home)
+- [ace to Certification 2025](https://education.oracle.com/race-to-certification-2025)
 
 ## Build by APEX
 - [Rewild Earth](https://rewildearth.net/ords/r/rewildearth/_rewild-earth/new-home?session=11922050838490)

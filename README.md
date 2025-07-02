@@ -733,7 +733,8 @@ Mika Rinne
   - [Oracle Database container images](https://github.com/oracle/docker-images/blob/main/OracleDatabase/SingleInstance/README.md) By Oracle (Github)
   - [Oracle Container Registry](https://container-registry.oracle.com/ords/f?p=113:10:29397734666684:::::) by Oracle
   - [Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-Preface.html#podman-preface) by Oracle
-  - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin BACH 
+  - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin BACH
+  - [Jump-start developing APEX apps using MLE/JavaScript: Containers](https://martincarstenbach.com/2024/01/11/fast-path-to-developing-with-oracle-application-express-and-multilingual-engine/) by Martin Bach
   - [Adding SSL to your ORDS ](https://spendolini.blog/adding-ssl-to-your-ords-container) by Scott Spendolini
   - [Running Oracle Database 23ai & ORDS Locally via Containers](https://spendolini.blog/container-yourself) by Scott Spendolini
   - [Run Oracle REST Data Services (ORDS) locally with ADB Free](https://medium.com/@anders.swanson.93/run-oracle-rest-data-services-ords-locally-with-oracle-database-free-ab64a549e596) by Anders Swanson

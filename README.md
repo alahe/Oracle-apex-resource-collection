@@ -563,6 +563,9 @@ Mika Rinne
 - [SQLcl : Automating Your SQL and PL/SQL Deployments using the SQLcl implementation of Liquibase](https://oracle-base.com/articles/misc/sqlcl-automating-your-database-deployments-using-sqlcl-and-liquibase) by Tim Hall
 - [Red Hot Webinars - Here is how ORDS helps you with DevOps](https://youtu.be/GIRdoGlqIDE?si=3oU3NkFxZ7mwzMdP) by Oracle Learning
 - [Oracle SQLcl Project:  The only CI/CD tool for APEX you need?](https://pretius.com/blog/oracle-sqlcl-project-command/) by Rafał Grzegorczyk
+- [Thementage 2025: CI/CD demo part 1](https://martincarstenbach.com/2025/06/25/thementage-2025-ci-cd-demo-part-1/) by Martin Bach on 25 June 2025
+- [Thementage 2025: CI/CD demo part 2](https://martincarstenbach.com/2025/06/26/thementage-2025-ci-cd-demo-part-2/) by Martin Bach on 26 June 2025
+- 
   
 
 ## ADB presentations
@@ -735,12 +738,16 @@ Mika Rinne
   - [Oracle Container Registry](https://container-registry.oracle.com/ords/f?p=113:10:29397734666684:::::) by Oracle
   - [Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-Preface.html#podman-preface) by Oracle
   - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin BACH
+  - [Podman secrets: a better way to pass environment variables to containers](https://martincarstenbach.com/2022/12/19/podman-secrets-a-better-way-to-pass-environment-variables-to-containers/)  by Martin Bach on December 19, 2022
+  - [Containers are awesome, not only for stateless things](https://martincarstenbach.com/2024/12/11/containers-are-awesome-not-only-for-stateless-things/) by Martin Bach on December 11, 2024
   - [Jump-start developing APEX apps using MLE/JavaScript: Containers](https://martincarstenbach.com/2024/01/11/fast-path-to-developing-with-oracle-application-express-and-multilingual-engine/) by Martin Bach
   - [Adding SSL to your ORDS ](https://spendolini.blog/adding-ssl-to-your-ords-container) by Scott Spendolini
   - [Running Oracle Database 23ai & ORDS Locally via Containers](https://spendolini.blog/container-yourself) by Scott Spendolini
   - [Run Oracle REST Data Services (ORDS) locally with ADB Free](https://medium.com/@anders.swanson.93/run-oracle-rest-data-services-ords-locally-with-oracle-database-free-ab64a549e596) by Anders Swanson
   - [Oracle REST Data Services (ORDS) command line interface.](https://container-registry.oracle.com/ords/f?p=113:4:7611315151588:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1183,1183,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,1,0&cs=3b86J1JgtvU6J5z0PHz0U48OrYpOHh0qeSu0pdJGSCXcnBb9XYT91nTCG1-TxojJM9LGuUflI-cbSI3igYqFTIQ)
+  - [Do it yourself — amazingly fast setup for your podman environment with 23ai and APEX 24.1](https://medium.com/@sonja.meyer/do-it-yourself-amazingly-fast-setup-for-your-podman-environment-with-23ai-and-apex-24-2-322be93dd8ab) by Sonja Meyer
   - [GitHub Container images- Oracle REST Data Services](https://github.com/oracle/docker-images/tree/main/OracleRestDataServices)
+  - 
   ------
  
   - [supports a RESTful API for the Libpod library (5.0.0)](https://docs.podman.io/en/latest/_static/api.html)

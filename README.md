@@ -744,6 +744,7 @@ Mika Rinne
   - [Adding SSL to your ORDS ](https://spendolini.blog/adding-ssl-to-your-ords-container) by Scott Spendolini
   - [Running Oracle Database 23ai & ORDS Locally via Containers](https://spendolini.blog/container-yourself) by Scott Spendolini
   - [Run Oracle REST Data Services (ORDS) locally with ADB Free](https://medium.com/@anders.swanson.93/run-oracle-rest-data-services-ords-locally-with-oracle-database-free-ab64a549e596) by Anders Swanson
+  - [uc-local-apex-dev](https://www.united-codes.com/products/uc-local-apex-dev/docs/) by United-Code
   - [Oracle REST Data Services (ORDS) command line interface.](https://container-registry.oracle.com/ords/f?p=113:4:7611315151588:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1183,1183,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,1,0&cs=3b86J1JgtvU6J5z0PHz0U48OrYpOHh0qeSu0pdJGSCXcnBb9XYT91nTCG1-TxojJM9LGuUflI-cbSI3igYqFTIQ)
   - [Do it yourself — amazingly fast setup for your podman environment with 23ai and APEX 24.1](https://medium.com/@sonja.meyer/do-it-yourself-amazingly-fast-setup-for-your-podman-environment-with-23ai-and-apex-24-2-322be93dd8ab) by Sonja Meyer
   - [GitHub Container images- Oracle REST Data Services](https://github.com/oracle/docker-images/tree/main/OracleRestDataServices)

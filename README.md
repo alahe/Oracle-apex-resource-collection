@@ -766,6 +766,7 @@ Mika Rinne
 - [Measuring Integration Complexity](https://medium.com/@simon.greig/measuring-integration-complexity-5bb543dde520) by Simon Greig
 - [System Design was HARD until I Learned these 30 Concepts](https://blog.algomaster.io/p/30-system-design-concepts) by Ashish Pratap Singh on Mar 30, 2025
 - [Goodbye Microservices, Hello Self-Contained Systems @ Spring I/O 2025](https://martinelli.ch/appearances/goodbye-microservices-hello-self-contained-systems-spring-i-o-2025/) by Simon Martinelli
+- [GitHub MCP Exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
 - 
 ## MS SQL vs Oracle Database
 - [Database-workloads in the Cloud? Oracle is not expensive](https://www.linkedin.com/pulse/database-workloads-cloud-oracle-expensive-jan-pedersen/)

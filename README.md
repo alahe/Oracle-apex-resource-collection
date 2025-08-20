@@ -500,7 +500,6 @@ Mika Rinne
 - [Using Oracle JSON-Relational Duality Views with Spring Boot. The ORM Killer?](https://martinelli.ch/oracle-json-relational-duality-views-with-spring-boot/) by Simon Martinelli on
 - [Oracle Database 23ai: JSON-Relational Duality Views and the ORA-42647 error](https://pretius.com/blog/oracle-db-23ai-json-relational-duality-views-ora-errors/) by Tomáš Kucharzyk on 23 May 2024
 - [How to easily parse JSON files into Oracle Database tables: A quick guide](https://pretius.com/blog/parse-json-oracle-db/) by Tomáš Kucharzyk  on 17 October 2024
-
   
 ### Livelabs
 - [Oracle Database 23ai Quick Start:  Duality Views](https://livelabs.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=4004&clear=RR,180&session=100504383263063) by William James Masdon
@@ -560,10 +559,8 @@ Mika Rinne
 - [Red Hot Webinars - Here is how ORDS helps you with DevOps](https://youtu.be/GIRdoGlqIDE?si=3oU3NkFxZ7mwzMdP) by Oracle Learning
 - [Oracle SQLcl Project:  The only CI/CD tool for APEX you need?](https://pretius.com/blog/oracle-sqlcl-project-command/) by Rafał Grzegorczyk
 - [Thementage 2025: CI/CD demo part 1](https://martincarstenbach.com/2025/06/25/thementage-2025-ci-cd-demo-part-1/) by Martin Bach on 25 June 2025
-- [Thementage 2025: CI/CD demo part 2](https://martincarstenbach.com/2025/06/26/thementage-2025-ci-cd-demo-part-2/) by Martin Bach on 26 June 2025
-- 
+- [Thementage 2025: CI/CD demo part 2](https://martincarstenbach.com/2025/06/26/thementage-2025-ci-cd-demo-part-2/) by Martin Bach on 26 June 2025 
   
-
 ## ADB presentations
 - [Autonomous Database - Level 100 ](https://www.oracle.com/a/ocom/docs/cloud/autonomous-database-100.pdf) by Sanjay Narvekar, 2019
 - [Move to the Cloud](https://dohdatabase.files.wordpress.com/2022/02/move_to_the_cloud.pdf) by Roy F. Swonger, Mike Dietrich, Daniel Overby Hansen, William Beauregard, Rodrigo Jorge,  2022
@@ -728,10 +725,10 @@ Mika Rinne
 - [23ai Free "12GB of user data on disk" includes SYSAUX](https://forums.oracle.com/ords/apexds/post/23ai-free-12gb-of-user-data-on-disk-includes-sysaux-7974) By Oracle Database Free Forum
 - [The "ultimate" database FREE edition](https://connor-mcdonald.com/2023/12/18/the-ultimate-database-free-edition/) By Connor Mcdonald
 
-
 ## Containers
   - [Oracle Database container images](https://github.com/oracle/docker-images/blob/main/OracleDatabase/SingleInstance/README.md) By Oracle (Github)
   - [Oracle Container Registry](https://container-registry.oracle.com/ords/f?p=113:10:29397734666684:::::) by Oracle
+  - [GitHub Container images- Oracle REST Data Services](https://github.com/oracle/docker-images/tree/main/OracleRestDataServices) by Oracle
   - [Podman User's Guide](https://docs.oracle.com/en/operating-systems/oracle-linux/podman/podman-Preface.html#podman-preface) by Oracle
   - [Linking Containers with Podman](https://martincarstenbach.com/2022/03/21/linking-containers-with-podman/) by Martin BACH
   - [Podman secrets: a better way to pass environment variables to containers](https://martincarstenbach.com/2022/12/19/podman-secrets-a-better-way-to-pass-environment-variables-to-containers/)  by Martin Bach on December 19, 2022
@@ -743,7 +740,6 @@ Mika Rinne
   - [uc-local-apex-dev](https://www.united-codes.com/products/uc-local-apex-dev/docs/) by United-Code
   - [Oracle REST Data Services (ORDS) command line interface.](https://container-registry.oracle.com/ords/f?p=113:4:7611315151588:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1183,1183,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,1,0&cs=3b86J1JgtvU6J5z0PHz0U48OrYpOHh0qeSu0pdJGSCXcnBb9XYT91nTCG1-TxojJM9LGuUflI-cbSI3igYqFTIQ)
   - [Do it yourself — amazingly fast setup for your podman environment with 23ai and APEX 24.1](https://medium.com/@sonja.meyer/do-it-yourself-amazingly-fast-setup-for-your-podman-environment-with-23ai-and-apex-24-2-322be93dd8ab) by Sonja Meyer
-  - [GitHub Container images- Oracle REST Data Services](https://github.com/oracle/docker-images/tree/main/OracleRestDataServices) by Sonja Meyer
   - [Do it yourself: updated Developer Playground for Oracle 23ai, APEX 24.2 & ORDS](https://medium.com/@sonja.meyer/do-it-yourself-updated-developer-playground-for-oracle-23ai-apex-24-2-ords-68c872fe4362) by Sonja Meyer
   ------
  

@@ -1,9 +1,5 @@
 <preheader>
 
-<!--
-  <<< Author notes:  header >>>
- 
--->
 
 # Oracle APEX resource collection
 _All about Oracle APEX and ADB.  Tutorial, Videos, Blogs, Tips and tricks, Important website._
@@ -153,7 +149,7 @@ _My backup memory_
 - [Personal IT blog – Oracle, AWS, APEX, Linux, …](https://matthiashoys.wordpress.com/) by Mattias Hoys
 - [ERPstuff - Oracle EBS Community ](https://www.erpstuff.com/viewforum.php?f=46) by Malik Sikandar Hayat
 - [ERP stuff](https://www.youtube.com/playlist?list=PL9uhfN9mKnfYxn_aYfspjyJ56O9MGAVZX) by Malik Sikandar Hayat
-- [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://content.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications) by Michael Pickering
+- [Methods on Tables and Beyond – Auto-generation of code for APEX Applications](https://ent.dsp.co.uk/apex/methods-on-tables-and-beyond-auto-generation-of-code-for-apex-applications) by Michael Pickering
 - [Oracle APEX - A promise to the low code Landscape](https://www.linkedin.com/pulse/oracle-apex-promise-low-code-landscape-govind-d-ycgyc/) by Govind D
 - [dbdev01555 - ](https://dbdev01555.wordpress.com/) by Daniel Ekberg
   - [Mapping Stockholm: From Shapefiles to APEX Maps](https://dbdev01555.wordpress.com/2024/12/17/mapping-stockholm-from-shapefiles-to-apex-maps/) by Daniel Ekberg
@@ -163,7 +159,7 @@ _My backup memory_
 ](https://followthecoffee.com/new-ords-feature-handling-multiple-files-from-a-multipart-form-data-post-request/) by Chris Hoina (Oracle)
   - [How to kill an ORDS process](https://followthecoffee.com/how-to-kill-an-ords-process/) by Chris Hoina (Oracle)
   - [The one ORDS command you NEED to know!](https://followthecoffee.com/ords-config-list-include-defaults-command/) by Chris Hoina
-  - [ORDS install considerations: choosing the correct host, port, service name, and pluggable database when the database is in a podman container](https://followthecoffee.com/oracle-database-ports-podman-ords-install/) by Chris Hoina
+  - [ORDS install considerations: choosing the correct host, port, service name, and pluggable database when the database is in a podman ainer](https://followthecoffee.com/oracle-database-ports-podman-ords-install/) by Chris Hoina
   - [Podman container is unhealthy with Oracle database images](https://followthecoffee.com/podman-container-is-unhealthy-with-oracle-database-images/) by Chris Hoina
   - [User Guide: Oracle database in a Podman container, install ORDS locally, and access a  Worksheet on localhost](https://followthecoffee.com/user-guide-oracle-database-in-a-podman-container-install-ords-locally-and-access-a-sql-worksheet-on-localhost/) by Chris Hoina
   - [An intro to using Oracle SQLcl on Mac](https://followthecoffee.com/an-intro-to-using-oracle-sqlcl-on-mac/) by Chris Hoina
@@ -747,8 +743,8 @@ Mika Rinne
   - [uc-local-apex-dev](https://www.united-codes.com/products/uc-local-apex-dev/docs/) by United-Code
   - [Oracle REST Data Services (ORDS) command line interface.](https://container-registry.oracle.com/ords/f?p=113:4:7611315151588:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1183,1183,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,1,0&cs=3b86J1JgtvU6J5z0PHz0U48OrYpOHh0qeSu0pdJGSCXcnBb9XYT91nTCG1-TxojJM9LGuUflI-cbSI3igYqFTIQ)
   - [Do it yourself — amazingly fast setup for your podman environment with 23ai and APEX 24.1](https://medium.com/@sonja.meyer/do-it-yourself-amazingly-fast-setup-for-your-podman-environment-with-23ai-and-apex-24-2-322be93dd8ab) by Sonja Meyer
-  - [GitHub Container images- Oracle REST Data Services](https://github.com/oracle/docker-images/tree/main/OracleRestDataServices)
-  - 
+  - [GitHub Container images- Oracle REST Data Services](https://github.com/oracle/docker-images/tree/main/OracleRestDataServices) by Sonja Meyer
+  - [Do it yourself: updated Developer Playground for Oracle 23ai, APEX 24.2 & ORDS](https://medium.com/@sonja.meyer/do-it-yourself-updated-developer-playground-for-oracle-23ai-apex-24-2-ords-68c872fe4362) by Sonja Meyer
   ------
  
   - [supports a RESTful API for the Libpod library (5.0.0)](https://docs.podman.io/en/latest/_static/api.html)

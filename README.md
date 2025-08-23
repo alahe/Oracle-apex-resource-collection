@@ -255,6 +255,7 @@ Mika Rinne
 - [Timplating Demo Apps- ](https://apex.oracle.com/pls/apex/r/timplating/templates/home) by Tim Kimberl
 - [APEX AppLab - Demo ](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts)
 - [Pretius-developer-tool](https://github.com/Pretius/pretius-developer-tool) by Matt Mulvaney
+- [Snippets and Thoughts of One Oracle Developer](https://www.oneoracledeveloper.com/2025/08/daily-health-checks-13.html) by Jan Květina
   
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)

@@ -743,7 +743,7 @@ Mika Rinne
   - [Do it yourself — amazingly fast setup for your podman environment with 23ai and APEX 24.1](https://medium.com/@sonja.meyer/do-it-yourself-amazingly-fast-setup-for-your-podman-environment-with-23ai-and-apex-24-2-322be93dd8ab) by Sonja Meyer
   - [Do it yourself: updated Developer Playground for Oracle 23ai, APEX 24.2 & ORDS](https://medium.com/@sonja.meyer/do-it-yourself-updated-developer-playground-for-oracle-23ai-apex-24-2-ords-68c872fe4362) by Sonja Meyer
   ------
- 
+  - [Easy Setup for Oracle APEX on Docker Using Oracle Container Registry for 2025](https://www.linkedin.com/pulse/easy-setup-oracle-apex-docker-using-container-registry-wojciech-sowa-stxpc/?trackingId=y8gDwSH2QTWMsfh6SLPjsw%3D%3D) by Wojciech Sowa
   - [supports a RESTful API for the Libpod library (5.0.0)](https://docs.podman.io/en/latest/_static/api.html)
 
 ## Mac

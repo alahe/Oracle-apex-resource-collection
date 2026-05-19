@@ -167,6 +167,7 @@ _My backup memory_
 - [Cristina Varas Menadas Blogs](https://medium.com/@cristina.varas98) by Cristina Varas Menadas
 - [Philipp Hartenfeller's Blog](https://hartenfeller.dev/blog) by Philipp Hartenfeller
   - [How to fix containerized Oracle 23ai Database not starting on Mac](https://hartenfeller.dev/blog/oracle-23ai-container-wont-start-mac) by Philipp Hartenfeller
+  - [Run Oracle APEX 26.1 Locally](https://hartenfeller.dev/blog/run-apex-26-1-locally)
 
 ##  APEX
 - [Youtube: Getting Started with Oracle APEX on Premises](https://www.youtube.com/watch?v=dvdR2jovLaE) by Oracle Apex

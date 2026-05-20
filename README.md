@@ -416,6 +416,7 @@ Mika Rinne
    - [How to compare two tables to get the different rows with SQL ](https://blogs.oracle.com/sql/post/how-to-compare-two-tables-to-get-the-different-rows-with-sql) by Chris Saxon
 - [Ask TOM Questions](https://asktom.oracle.com/ords/f?p=100:1::::1::) 
    - [Script to compare data in all tables in two different databases, if the table is present in both the databases.](https://asktom.oracle.com/ords/f?p=100:11:0::::P11_QUESTION_ID:9531089900346576427)  by  Connor McDonald
+- [Oracle Developers: A community for developers by developers.](https://medium.com/oracledevs)
 - [Database-centric development blog ](https://www.salvis.com/blog/) by Philipp Salvisberg
 - [Connor McDonald Blog](https://connor-mcdonald.com/)
   - [JDBC, the FetchSize and staying up to date](https://connor-mcdonald.com/2025/01/17/jdbc-the-fetchsize-and-staying-up-to-date/)  

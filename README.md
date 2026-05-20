@@ -133,6 +133,7 @@ _My backup memory_
    - [Stop using validations for checking constraints ](https://roelhartman.blogspot.com/2021/02/stop-using-validations-for-checking.html) 
 - [Apex by G ](https://apexbyg.blogspot.com/) by Marko Gorički 
 - [Blog in Blogspot](https://dgielis.blogspot.com/) by Dimitri Gielis
+   - [Setting Up Your APEX Developer Environment for the AI Era](https://dgielis.com/setting-up-your-apex-developer-environment-for-the-ai-era)  by Dimitri Gielis
 - [Blog in Blogspot](https://dickdral.blogspot.com/) by Dick Dral
 - [Oracle & APEX Geekery](https://rokitta.blogspot.com/) by Christian Rokitta
 - [B-Apex ](https://b-apex.blogspot.com/) by Aljaž Mali

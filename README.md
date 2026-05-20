@@ -424,6 +424,7 @@ Mika Rinne
    - [Oracle SQLcl version 21.4: Data Pump Support](https://www.thatjeffsmith.com/archive/2021/12/oracle-sqlcl-datapump/)
    - [SQLcl on Oracle Cloud Infrastructure (OCI)](https://www.thatjeffsmith.com/archive/2019/12/sqlcl-on-oracle-cloud-infrastructure-oci/)
    - [REPEAT after me, it’s easy to monitor with Oracle SQLcl!](https://www.thatjeffsmith.com/archive/2023/05/repeat-after-me-its-easy-to-monitor-with-oracle-sqlcl/)
+   - [Your workforce wants AI on your business data. Until this week, giving it to them broke your security model.](https://www.linkedin.com/pulse/your-workforce-wants-ai-business-data-until-week-giving-jeff-smith-g7vle)
 - [ORACLE-BASE](https://oracle-base.com/)
    - [DBMS_COMPARISON : Identify Row Differences Between Objects and Optionally Converge the Data ](https://oracle-base.com/articles/11g/dbms_comparison-identify-row-differences-between-objects) by Oracle-Base (Tim Hall)
 - [Julian Dontcheff's Database Blog](https://juliandontcheff.wordpress.com/)

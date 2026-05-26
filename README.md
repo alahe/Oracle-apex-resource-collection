@@ -227,6 +227,7 @@ Mika Rinne
 - [Tanel Poder's Performance & Troubleshooting Tools for Oracle Databases](https://github.com/tanelpoder/tpt-oracle) by Tanel Põder
 - [Apex plugins](https://github.com/RonnyWeiss?tab=repositories) by Ronny Weiss
 - [cloudnueva](https://github.com/cloudnueva) by Jon Dixon
+- [Oracle Database Free 26ai + ORDS + APEX — Docker Stack](https://github.com/malek-al-edresi/oracle-free-26ai-ords-apex-26) by Monica Godoy
 
 ## Development support APEX apps
 - [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home) by Louis Moreaux
@@ -304,6 +305,9 @@ Mika Rinne
 - [Office Hours - Forms Modernization ](https://asktom.oracle.com/ords/r/tech/catalog/session-landing-page?p2_oh_id=4825) by  Joel Kallman
 - [Modernize Oracle Forms applications to Oracle APEX and an autonomous database](https://docs.oracle.com/en/solutions/migrate-apps-to-apex/index.html#GUID-222A3DF2-390A-47B8-9377-BB5D1E41A60A) By Oracle Architecture Center
 - [Oracle Forms Modernization: discover your modernization options on demand](https://videohub.oracle.com/media/Oracle+Forms+Modernization%3A+discover+your+modernization+options+on+demand/1_1x57idhf?elq_mid=265478&sh=261515261315261922103026042232&cmid=CORP241213P00021C00002) by  Ondrej Holub April 29th, 2025
+- [Converting FMBs to XML ](https://blogs.oracle.com/apex/forms-to-apex-converting-fmbs-to-xml) by Monica Godoy
+- [MCP + AI: Helping You Modernize Your Oracle Forms Apps to Oracle APEX](https://blogs.oracle.com/apex/mcp-ai-helping-you-modernize-your-oracle-forms-apps-to-oracle-apex) by Monica Godoy
+- [Transforming Oracle Forms to Oracle APEX in the AI Era: AI Agent](https://blogs.oracle.com/apex/transforming-f2a-agent) by Monica Godoy
 
 ## Files
 - [Upload Multiple Files to Oracle Object Storage from an Oracle Apex Application](https://medium.com/oracledevs/upload-multiple-files-to-oracle-object-storage-from-an-oracle-apex-application-90e10c47e9d0) in Medium

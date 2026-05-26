@@ -229,6 +229,7 @@ Mika Rinne
 - [Apex plugins](https://github.com/RonnyWeiss?tab=repositories) by Ronny Weiss
 - [cloudnueva](https://github.com/cloudnueva) by Jon Dixon
 - [Oracle Database Free 26ai + ORDS + APEX — Docker Stack](https://github.com/malek-al-edresi/oracle-free-26ai-ords-apex-26) by Monica Godoy
+- [Oracle Skills](https://github.com/oracle/skills) by Oracle
 
 ## Development support APEX apps
 - [Blog examples](https://apex.oracle.com/pls/apex/r/louis/examples/home) by Louis Moreaux

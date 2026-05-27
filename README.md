@@ -228,7 +228,7 @@ Mika Rinne
 - [Tanel Poder's Performance & Troubleshooting Tools for Oracle Databases](https://github.com/tanelpoder/tpt-oracle) by Tanel Põder
 - [Apex plugins](https://github.com/RonnyWeiss?tab=repositories) by Ronny Weiss
 - [cloudnueva](https://github.com/cloudnueva) by Jon Dixon
-- [Oracle Database Free 26ai + ORDS + APEX — Docker Stack](https://github.com/malek-al-edresi/oracle-free-26ai-ords-apex-26) by Monica Godoy
+- [Oracle Database Free 26ai + ORDS + APEX — Docker Stack](https://github.com/malek-al-edresi/oracle-free-26ai-ords-apex-26) by Malek M. Al-Edresi
 - [Oracle Skills](https://github.com/oracle/skills) by Oracle
 
 ## Development support APEX apps

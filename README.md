@@ -19,6 +19,7 @@ _My backup memory_
 - [LiveSQL](https://apex.oracle.com/quicksql)
 - [Downloading and Installing APEX](https://docs.oracle.com/en/database/oracle/apex/24.1/htmig/downloading-installing-apex.html#GUID-B5A5B38D-586C-488A-AE27-A168FAA28FEE)
 - [How oracle APEX became a powerful enterprise app dev framework - page 27-31 ](https://www.oraworld.org/fileadmin/documents/32-ORAWORLD.pdf) by Mike Hichwa
+- [Announcing Oracle APEX 26.1 General Availability](https://blogs.oracle.com/apex/announcing-oracle-apex-261) by Michael Hichwa
 - ----------------
 - [Shortcuts](https://apex.oracle.com/pls/apex/f?p=411:18)
 - [Links - Awesome Oracle APEX ](https://github.com/Dani3lSun/awesome-orclapex) by Daniel Hochleitner
@@ -761,6 +762,7 @@ Mika Rinne
   - [Do it yourself — amazingly fast setup for your podman environment with 23ai and APEX 24.1](https://medium.com/@sonja.meyer/do-it-yourself-amazingly-fast-setup-for-your-podman-environment-with-23ai-and-apex-24-2-322be93dd8ab) by Sonja Meyer
   - [Do it yourself: updated Developer Playground for Oracle 23ai, APEX 24.2 & ORDS](https://medium.com/@sonja.meyer/do-it-yourself-updated-developer-playground-for-oracle-23ai-apex-24-2-ords-68c872fe4362) by Sonja Meyer
   - [Oracle 26ai, ORDS, and APEX 26.1 on Your Laptop with Podman — a Complete Local Development Stack](https://btimmerman.hashnode.dev/oracle-26ai-ords-and-apex-26-1-on-your-laptop-with-podman-a-complete-local-development-stack) by Boyd Timmerman
+  - [Run Oracle APEX 26.1 Locally](https://hartenfeller.dev/blog/run-apex-26-1-locally) by Philipp Hartenfeller
   ------
   - [Easy Setup for Oracle APEX on Docker Using Oracle Container Registry for 2025](https://www.linkedin.com/pulse/easy-setup-oracle-apex-docker-using-container-registry-wojciech-sowa-stxpc/?trackingId=y8gDwSH2QTWMsfh6SLPjsw%3D%3D) by Wojciech Sowa
   - [supports a RESTful API for the Libpod library (5.0.0)](https://docs.podman.io/en/latest/_static/api.html)

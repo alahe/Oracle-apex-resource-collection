@@ -261,6 +261,7 @@ Mika Rinne
 - [APEX AppLab - Demo ](https://apex.oracle.com/pls/apex/r/gamma_dev/demo/charts)
 - [Pretius-developer-tool](https://github.com/Pretius/pretius-developer-tool) by Matt Mulvaney
 - [Snippets and Thoughts of One Oracle Developer](https://www.oneoracledeveloper.com/2025/08/daily-health-checks-13.html) by Jan Květina
+- [Oracle APEX repository on GitHub](https://github.com/oracle/apex/tree/26.1) by Oracle
   
 ## LiveLabs
 - [Livelabs home](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/home)
@@ -458,7 +459,13 @@ Mika Rinne
 - [Fine tuning AI for APEX](https://gist.github.com/jsr4850)
 - [Select AI Enhances Text-to-SQL Support](https://blogs.oracle.com/machinelearning/post/select-ai-enhances-texttosql-support) by Mark Hornick on May 20, 2025
 - [Announcing Select AI for Synthetic Data Generation](https://blogs.oracle.com/machinelearning/post/announcing-select-ai-for-synthetic-data-generation) by Mark Hornick on September 10, 2024 
-- [Choose the right type of model to enhance your AI/ML applications](https://blogs.oracle.com/machinelearning/post/choose-the-right-type-of-model-to-enhance-your-aiml-applications) by Mark Hornick on March 19, 2025 
+- [Choose the right type of model to enhance your AI/ML applications](https://blogs.oracle.com/machinelearning/post/choose-the-right-type-of-model-to-enhance-your-aiml-applications) by Mark Hornick on March 19, 2025
+- [From low code to vibe code](https://btimmerman.hashnode.dev/from-low-code-to-vibe-code) by Boyd Timmerman
+- [Agentic AI for Oracle Development](https://btimmerman.hashnode.dev/agentic-ai-for-oracle-development) by Boyd Timmerman
+- [Oracle APEX 26.1: Closing the Loop with APEXlang, AI Agents, and Integrated Browser](https://kuchatom.hashnode.dev/oracle-apex-26-1-closing-the-loop-with-apexlang-ai-agents-and-integrated-browser) by Tomas Kucharzyk
+- [Setting up SQLcl in Antigravity](https://epolanco.dev/setting-up-sqlcl-in-antigravity) by Ender Polanco Rivas
+- [Reducing Oracle Apex AI Costs](https://blog.f100.zip/reducing-oracle-apex-ai-costs) Jakub Dobruchowski
+- [First Impressions: APEX 26.1, APEXlang, and Building from Scratch with Claude Code](https://jmjcloud.com/blog/apex-26-1-apexlang-claude-code/) by MJ Cloud
 
 ## ORDS
 - [Oracle REST Data Services](https://docs.oracle.com/en/database/oracle/oracle-rest-data-services/) Oracle Help Center
@@ -753,6 +760,7 @@ Mika Rinne
   - [Oracle REST Data Services (ORDS) command line interface.](https://container-registry.oracle.com/ords/f?p=113:4:7611315151588:::4:P4_REPOSITORY,AI_REPOSITORY,AI_REPOSITORY_NAME,P4_REPOSITORY_NAME,P4_EULA_ID,P4_BUSINESS_AREA_ID:1183,1183,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,Oracle%20REST%20Data%20Services%20(ORDS)%20command%20line%20interface.,1,0&cs=3b86J1JgtvU6J5z0PHz0U48OrYpOHh0qeSu0pdJGSCXcnBb9XYT91nTCG1-TxojJM9LGuUflI-cbSI3igYqFTIQ)
   - [Do it yourself — amazingly fast setup for your podman environment with 23ai and APEX 24.1](https://medium.com/@sonja.meyer/do-it-yourself-amazingly-fast-setup-for-your-podman-environment-with-23ai-and-apex-24-2-322be93dd8ab) by Sonja Meyer
   - [Do it yourself: updated Developer Playground for Oracle 23ai, APEX 24.2 & ORDS](https://medium.com/@sonja.meyer/do-it-yourself-updated-developer-playground-for-oracle-23ai-apex-24-2-ords-68c872fe4362) by Sonja Meyer
+  - [Oracle 26ai, ORDS, and APEX 26.1 on Your Laptop with Podman — a Complete Local Development Stack](https://btimmerman.hashnode.dev/oracle-26ai-ords-and-apex-26-1-on-your-laptop-with-podman-a-complete-local-development-stack) by Boyd Timmerman
   ------
   - [Easy Setup for Oracle APEX on Docker Using Oracle Container Registry for 2025](https://www.linkedin.com/pulse/easy-setup-oracle-apex-docker-using-container-registry-wojciech-sowa-stxpc/?trackingId=y8gDwSH2QTWMsfh6SLPjsw%3D%3D) by Wojciech Sowa
   - [supports a RESTful API for the Libpod library (5.0.0)](https://docs.podman.io/en/latest/_static/api.html)
